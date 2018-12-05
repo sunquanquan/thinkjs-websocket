@@ -1,0 +1,15 @@
+{
+    "out": { /* 需要输出的文件种类，对应backend的种类*/
+        "thinkjs": "..", /*thinkjs 项目根目录*/
+        // "json-schema": "./out/thinkjs/public/schema", /*json-schema目录*/
+        "sql": {
+            "path": "../database/mysql/",
+            "dbPrefix": "node_", /* database name prefix */
+            "tablePrefix": "t_", /* table name prefix */
+            "dbShardingCount": 1, /*数据库分片数量*/
+            "tableShardingCount": 1 /*数据表分片数量*/
+        }
+    },
+    "request_required": false, /*是否坚持每个api声明了request*/
+    "response_required": false /*是否坚持每个api声明了response*/
+}

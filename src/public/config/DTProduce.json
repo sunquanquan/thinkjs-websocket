@@ -1,0 +1,477 @@
+﻿{
+  "100": {
+    "id": 100,
+    "zh_cn_name": "生产纪念品",
+    "item": 3,
+    "zh_cn_tip": "随便生产一些带有我们商标的纪念品，赚取少量美元",
+    "grade": 1001,
+    "unlock_level": 1,
+    "unlock_building": 1001,
+    "unlock_gold": {
+      "itemId": 0,
+      "itemNum": 0
+    },
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 10,
+    "icon": 1001,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 0,
+    "next_line": 101
+  },
+  "101": {
+    "id": 101,
+    "zh_cn_name": "飞船模型",
+    "item": 4001,
+    "zh_cn_tip": "经常在银河战争中出现的飞船，最新研究的激光发射器使其具备无与伦比的攻击力",
+    "grade": 1001,
+    "unlock_level": 10,
+    "unlock_building": 8001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 500
+    },
+    "unlock_reward": {
+      "itemId": 4001,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2005,
+    "cheer_sex": 1101,
+    "cheer_continents": 1201,
+    "cheer_type": 0,
+    "cheer_age": 1501,
+    "pre_id": 100,
+    "next_line": 102
+  },
+  "102": {
+    "id": 102,
+    "zh_cn_name": "魔法杖",
+    "item": 4002,
+    "zh_cn_tip": "这根魔法杖的使用者只有两种结局，统一大陆或者死于非命，而今，它来到你的身边……",
+    "grade": 1001,
+    "unlock_level": 15,
+    "unlock_building": 8001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 550
+    },
+    "unlock_reward": {
+      "itemId": 4002,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2006,
+    "cheer_sex": 0,
+    "cheer_continents": 1202,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 101,
+    "next_line": 103
+  },
+  "103": {
+    "id": 103,
+    "zh_cn_name": "笔记本电脑",
+    "item": 4003,
+    "zh_cn_tip": "贵重的的社会精英用品，身份的象征",
+    "grade": 1001,
+    "unlock_level": 20,
+    "unlock_building": 8001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 600
+    },
+    "unlock_reward": {
+      "itemId": 4003,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2007,
+    "cheer_sex": 1101,
+    "cheer_continents": 0,
+    "cheer_type": 1401,
+    "cheer_age": 0,
+    "pre_id": 102,
+    "next_line": 104
+  },
+  "104": {
+    "id": 104,
+    "zh_cn_name": "鸭舌帽",
+    "item": 4004,
+    "zh_cn_tip": "曾经是一个残疾奥运会选手的最爱，感觉多洗两次就掉色了",
+    "grade": 1001,
+    "unlock_level": 25,
+    "unlock_building": 8001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 650
+    },
+    "unlock_reward": {
+      "itemId": 4004,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2008,
+    "cheer_sex": 0,
+    "cheer_continents": 1201,
+    "cheer_type": 0,
+    "cheer_age": 1502,
+    "pre_id": 103,
+    "next_line": 105
+  },
+  "105": {
+    "id": 105,
+    "zh_cn_name": "破损头盔",
+    "item": 4005,
+    "zh_cn_tip": "它的主人是凭借一人之力拯救198名队友的医疗兵",
+    "grade": 1001,
+    "unlock_level": 30,
+    "unlock_building": 8001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 700
+    },
+    "unlock_reward": {
+      "itemId": 4005,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2009,
+    "cheer_sex": 1102,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 104,
+    "next_line": 106
+  },
+  "106": {
+    "id": 106,
+    "zh_cn_name": "丛林部落雕像",
+    "item": 4006,
+    "zh_cn_tip": "胡博士相信这个雕像能给予他极佳的运气，每当遇到危险他的第一反应都是保护这个雕像",
+    "grade": 1001,
+    "unlock_level": 35,
+    "unlock_building": 8001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 750
+    },
+    "unlock_reward": {
+      "itemId": 4006,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2010,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 1501,
+    "pre_id": 105,
+    "next_line": 107
+  },
+  "107": {
+    "id": 107,
+    "zh_cn_name": "盾牌",
+    "item": 4007,
+    "zh_cn_tip": "七国时期著名大将蒙梭的盾牌，陪伴他打过无数战斗",
+    "grade": 1002,
+    "unlock_level": 40,
+    "unlock_building": 14001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 1050
+    },
+    "unlock_reward": {
+      "itemId": 4007,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2011,
+    "cheer_sex": 1102,
+    "cheer_continents": 0,
+    "cheer_type": 1402,
+    "cheer_age": 0,
+    "pre_id": 106,
+    "next_line": 108
+  },
+  "108": {
+    "id": 108,
+    "zh_cn_name": "匕首",
+    "item": 4008,
+    "zh_cn_tip": "史上最大银行劫案“三亿英镑大劫案”的罪犯在实施犯罪时所使用的匕首",
+    "grade": 1002,
+    "unlock_level": 42,
+    "unlock_building": 14001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 1100
+    },
+    "unlock_reward": {
+      "itemId": 4008,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2012,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 107,
+    "next_line": 109
+  },
+  "109": {
+    "id": 109,
+    "zh_cn_name": "黑色宽檐帽",
+    "item": 4009,
+    "zh_cn_tip": "最强特工008的宽檐帽，具有GPS定位、无线信号接收、窃听器等功能……当然是不存在的",
+    "grade": 1002,
+    "unlock_level": 44,
+    "unlock_building": 14001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 1200
+    },
+    "unlock_reward": {
+      "itemId": 4009,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2013,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 1501,
+    "pre_id": 108,
+    "next_line": 110
+  },
+  "110": {
+    "id": 110,
+    "zh_cn_name": "对讲机",
+    "item": 4010,
+    "zh_cn_tip": "拥有照明、点火、太阳能充电、防水等功能，灾难来临时的必备用品，就是不能通话",
+    "grade": 1002,
+    "unlock_level": 46,
+    "unlock_building": 14001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 1300
+    },
+    "unlock_reward": {
+      "itemId": 4010,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2014,
+    "cheer_sex": 1101,
+    "cheer_continents": 0,
+    "cheer_type": 1402,
+    "cheer_age": 0,
+    "pre_id": 109,
+    "next_line": 111
+  },
+  "111": {
+    "id": 111,
+    "zh_cn_name": "日记本",
+    "item": 4011,
+    "zh_cn_tip": "主角童年使用的日记本同款，或许你也能从自己的抽屉里找到",
+    "grade": 1002,
+    "unlock_level": 48,
+    "unlock_building": 14001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 1400
+    },
+    "unlock_reward": {
+      "itemId": 4011,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2015,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 110,
+    "next_line": 112
+  },
+  "112": {
+    "id": 112,
+    "zh_cn_name": "小丑鞋",
+    "item": 4012,
+    "zh_cn_tip": "小孩看到它都想穿在脚上玩",
+    "grade": 1002,
+    "unlock_level": 50,
+    "unlock_building": 14001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 1500
+    },
+    "unlock_reward": {
+      "itemId": 4012,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2016,
+    "cheer_sex": 1102,
+    "cheer_continents": 1202,
+    "cheer_type": 0,
+    "cheer_age": 1501,
+    "pre_id": 111,
+    "next_line": 113
+  },
+  "113": {
+    "id": 113,
+    "zh_cn_name": "拳套",
+    "item": 4013,
+    "zh_cn_tip": "每个细节都还原了武术天才曾经用过的拳套",
+    "grade": 1002,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2000
+    },
+    "unlock_reward": {
+      "itemId": 4013,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2017,
+    "cheer_sex": 0,
+    "cheer_continents": 1201,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 112,
+    "next_line": 114
+  },
+  "114": {
+    "id": 114,
+    "zh_cn_name": "心型气球",
+    "item": 4014,
+    "zh_cn_tip": "见证过无数情侣的结合，将世间最动人的瞬间铭记在此",
+    "grade": 1003,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2100
+    },
+    "unlock_reward": {
+      "itemId": 4014,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2018,
+    "cheer_sex": 1101,
+    "cheer_continents": 0,
+    "cheer_type": 1401,
+    "cheer_age": 0,
+    "pre_id": 113,
+    "next_line": 115
+  },
+  "115": {
+    "id": 115,
+    "zh_cn_name": "唱片机",
+    "item": 4015,
+    "zh_cn_tip": "可以无数遍重听那首洗脑神曲",
+    "grade": 1003,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2200
+    },
+    "unlock_reward": {
+      "itemId": 4015,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2019,
+    "cheer_sex": 0,
+    "cheer_continents": 1203,
+    "cheer_type": 0,
+    "cheer_age": 1502,
+    "pre_id": 114,
+    "next_line": 116
+  },
+  "116": {
+    "id": 116,
+    "zh_cn_name": "白手套",
+    "item": 4016,
+    "zh_cn_tip": "体验和主角一样的恐慌、无助，只是你不需要解谜来获得钥匙",
+    "grade": 1003,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2300
+    },
+    "unlock_reward": {
+      "itemId": 4016,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2020,
+    "cheer_sex": 1102,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 115,
+    "next_line": 117
+  },
+  "117": {
+    "id": 117,
+    "zh_cn_name": "面具",
+    "item": 4017,
+    "zh_cn_tip": "每个戴上这个面具的人，都将获得那个恐怖的名字",
+    "grade": 1003,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2400
+    },
+    "unlock_reward": {
+      "itemId": 4017,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2021,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 1501,
+    "pre_id": 116,
+    "next_line": 118
+  },
+  "118": {
+    "id": 118,
+    "zh_cn_name": "玩偶",
+    "item": 4018,
+    "zh_cn_tip": "Q版而充满童真，看到的人都想捏一捏",
+    "grade": 1003,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2500
+    },
+    "unlock_reward": {
+      "itemId": 4018,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2022,
+    "cheer_sex": 1101,
+    "cheer_continents": 0,
+    "cheer_type": 1402,
+    "cheer_age": 0,
+    "pre_id": 117,
+    "next_line": 0
+  }
+}

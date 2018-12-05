@@ -1,0 +1,340 @@
+﻿{
+  "10001": {
+    "id": 10001,
+    "name": "摩托罗拉",
+    "describe": "hello moto",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0001",
+    "originalPrice": [
+      {
+        "itemId": 101,
+        "amount": 10
+      }
+    ],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 1
+      },
+      {
+        "itemId": 101,
+        "amount": 9
+      }
+    ],
+    "order": 10001,
+    "items": [
+      {
+        "itemId": 10001,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10002": {
+    "id": 10002,
+    "name": "U-384",
+    "describe": "航空炸弹",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0002",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 101,
+        "amount": 190
+      }
+    ],
+    "order": 10002,
+    "items": [
+      {
+        "itemId": 10002,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10003": {
+    "id": 10003,
+    "name": "要你命3K",
+    "describe": "终极杀人万能箱",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0003",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 29
+      },
+      {
+        "itemId": 101,
+        "amount": 290
+      }
+    ],
+    "order": 10003,
+    "items": [
+      {
+        "itemId": 10003,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10004": {
+    "id": 10004,
+    "name": "船",
+    "describe": "跑路用",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0004",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 39
+      },
+      {
+        "itemId": 101,
+        "amount": 390
+      }
+    ],
+    "order": 10004,
+    "items": [
+      {
+        "itemId": 10004,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10005": {
+    "id": 10005,
+    "name": "手雷",
+    "describe": "蹦…",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0005",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 49
+      },
+      {
+        "itemId": 101,
+        "amount": 490
+      }
+    ],
+    "order": 10005,
+    "items": [
+      {
+        "itemId": 10005,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10006": {
+    "id": 10006,
+    "name": "AK47",
+    "describe": "杀人最多的突击步枪",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0006",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 59
+      },
+      {
+        "itemId": 101,
+        "amount": 590
+      }
+    ],
+    "order": 10006,
+    "items": [
+      {
+        "itemId": 10006,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10007": {
+    "id": 10007,
+    "name": "匕首",
+    "describe": "自杀利器",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0007",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 69
+      },
+      {
+        "itemId": 101,
+        "amount": 690
+      }
+    ],
+    "order": 10007,
+    "items": [
+      {
+        "itemId": 10007,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10008": {
+    "id": 10008,
+    "name": "灭火器",
+    "describe": "灭火装置",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0008",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 79
+      },
+      {
+        "itemId": 101,
+        "amount": 790
+      }
+    ],
+    "order": 10008,
+    "items": [
+      {
+        "itemId": 10008,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10009": {
+    "id": 10009,
+    "name": "T-50-2",
+    "describe": "苏联轻型坦克",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0009",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 89
+      },
+      {
+        "itemId": 101,
+        "amount": 890
+      }
+    ],
+    "order": 10009,
+    "items": [
+      {
+        "itemId": 10009,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10010": {
+    "id": 10010,
+    "name": "瓦尔马拉69",
+    "describe": "地雷",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0010",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 99
+      },
+      {
+        "itemId": 101,
+        "amount": 990
+      }
+    ],
+    "order": 10010,
+    "items": [
+      {
+        "itemId": 10010,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10011": {
+    "id": 10011,
+    "name": "先锋",
+    "describe": "先锋哥子弹",
+    "category": [
+      1
+    ],
+    "icon": "goodsIcon_0011",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 109
+      },
+      {
+        "itemId": 101,
+        "amount": 1090
+      }
+    ],
+    "order": 10011,
+    "items": [
+      {
+        "itemId": 10011,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  },
+  "10012": {
+    "id": 10012,
+    "name": "MP5",
+    "describe": "德国冲锋枪",
+    "category": [
+      1,
+      2
+    ],
+    "icon": "goodsIcon_0012",
+    "originalPrice": [],
+    "sellPrice": [
+      {
+        "itemId": 100,
+        "amount": 188
+      },
+      {
+        "itemId": 101,
+        "amount": 1880
+      }
+    ],
+    "order": 10012,
+    "items": [
+      {
+        "itemId": 10012,
+        "amount": 1
+      }
+    ],
+    "tags": []
+  }
+}

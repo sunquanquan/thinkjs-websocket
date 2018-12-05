@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-01-03 20:06+0800\n"
+"PO-Revision-Date: 2018-01-04 11:09+0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ../../../../app/common\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: error_code.js:6
+msgid "ERROR_OK"
+msgstr "OK"
+
+#: error_code.js:7
+msgid "ERROR_BAD_REQUEST"
+msgstr "Bad Request"
+
+#: error_code.js:8
+msgid "ERROR_UNAUTHORIZED"
+msgstr "Unauthorized"
+
+#: error_code.js:9
+msgid "ERROR_FORBIDDEN"
+msgstr "Forbidden"
+
+#: error_code.js:10
+msgid "ERROR_METHOD_NOT_ALLOWED"
+msgstr "Method not allowed"
+
+#: error_code.js:11
+msgid "ERROR_INTERNAL_SERVER_ERROR"
+msgstr "Internal Server Error"

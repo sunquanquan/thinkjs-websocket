@@ -1,0 +1,1762 @@
+﻿{
+  "220101": {
+    "id": 220101,
+    "shoot_type": 2201,
+    "lv": 1,
+    "shoot_exp": 2601,
+    "exp": 8,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 101
+    }
+  },
+  "220102": {
+    "id": 220102,
+    "shoot_type": 2201,
+    "lv": 2,
+    "shoot_exp": 2601,
+    "exp": 16,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 102
+    }
+  },
+  "220103": {
+    "id": 220103,
+    "shoot_type": 2201,
+    "lv": 3,
+    "shoot_exp": 2601,
+    "exp": 32,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 103
+    }
+  },
+  "220104": {
+    "id": 220104,
+    "shoot_type": 2201,
+    "lv": 4,
+    "shoot_exp": 2601,
+    "exp": 64,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 104
+    }
+  },
+  "220105": {
+    "id": 220105,
+    "shoot_type": 2201,
+    "lv": 5,
+    "shoot_exp": 2601,
+    "exp": 128,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 105
+    }
+  },
+  "220106": {
+    "id": 220106,
+    "shoot_type": 2201,
+    "lv": 6,
+    "shoot_exp": 2601,
+    "exp": 256,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 106
+    }
+  },
+  "220107": {
+    "id": 220107,
+    "shoot_type": 2201,
+    "lv": 7,
+    "shoot_exp": 2601,
+    "exp": 512,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 107
+    }
+  },
+  "220108": {
+    "id": 220108,
+    "shoot_type": 2201,
+    "lv": 8,
+    "shoot_exp": 2601,
+    "exp": 1024,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 108
+    }
+  },
+  "220109": {
+    "id": 220109,
+    "shoot_type": 2201,
+    "lv": 9,
+    "shoot_exp": 2601,
+    "exp": 2048,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 109
+    }
+  },
+  "220110": {
+    "id": 220110,
+    "shoot_type": 2201,
+    "lv": 10,
+    "shoot_exp": 2601,
+    "exp": 4096,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 110
+    }
+  },
+  "220111": {
+    "id": 220111,
+    "shoot_type": 2201,
+    "lv": 11,
+    "shoot_exp": 2601,
+    "exp": 8192,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 111
+    }
+  },
+  "220112": {
+    "id": 220112,
+    "shoot_type": 2201,
+    "lv": 12,
+    "shoot_exp": 2601,
+    "exp": 16384,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 112
+    }
+  },
+  "220113": {
+    "id": 220113,
+    "shoot_type": 2201,
+    "lv": 13,
+    "shoot_exp": 2601,
+    "exp": 32768,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 113
+    }
+  },
+  "220114": {
+    "id": 220114,
+    "shoot_type": 2201,
+    "lv": 14,
+    "shoot_exp": 2601,
+    "exp": 65536,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 114
+    }
+  },
+  "220115": {
+    "id": 220115,
+    "shoot_type": 2201,
+    "lv": 15,
+    "shoot_exp": 2601,
+    "exp": 131072,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 115
+    }
+  },
+  "220116": {
+    "id": 220116,
+    "shoot_type": 2201,
+    "lv": 16,
+    "shoot_exp": 2601,
+    "exp": 262144,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 116
+    }
+  },
+  "220117": {
+    "id": 220117,
+    "shoot_type": 2201,
+    "lv": 17,
+    "shoot_exp": 2601,
+    "exp": 524288,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 117
+    }
+  },
+  "220118": {
+    "id": 220118,
+    "shoot_type": 2201,
+    "lv": 18,
+    "shoot_exp": 2601,
+    "exp": 1048576,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 118
+    }
+  },
+  "220119": {
+    "id": 220119,
+    "shoot_type": 2201,
+    "lv": 19,
+    "shoot_exp": 2601,
+    "exp": 2097152,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 119
+    }
+  },
+  "220120": {
+    "id": 220120,
+    "shoot_type": 2201,
+    "lv": 20,
+    "shoot_exp": 2601,
+    "exp": 4194304,
+    "proficiency": {
+      "v1": 1604,
+      "v2": 120
+    }
+  },
+  "220201": {
+    "id": 220201,
+    "shoot_type": 2202,
+    "lv": 1,
+    "shoot_exp": 2602,
+    "exp": 8,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 101
+    }
+  },
+  "220202": {
+    "id": 220202,
+    "shoot_type": 2202,
+    "lv": 2,
+    "shoot_exp": 2602,
+    "exp": 16,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 102
+    }
+  },
+  "220203": {
+    "id": 220203,
+    "shoot_type": 2202,
+    "lv": 3,
+    "shoot_exp": 2602,
+    "exp": 32,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 103
+    }
+  },
+  "220204": {
+    "id": 220204,
+    "shoot_type": 2202,
+    "lv": 4,
+    "shoot_exp": 2602,
+    "exp": 64,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 104
+    }
+  },
+  "220205": {
+    "id": 220205,
+    "shoot_type": 2202,
+    "lv": 5,
+    "shoot_exp": 2602,
+    "exp": 128,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 105
+    }
+  },
+  "220206": {
+    "id": 220206,
+    "shoot_type": 2202,
+    "lv": 6,
+    "shoot_exp": 2602,
+    "exp": 256,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 106
+    }
+  },
+  "220207": {
+    "id": 220207,
+    "shoot_type": 2202,
+    "lv": 7,
+    "shoot_exp": 2602,
+    "exp": 512,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 107
+    }
+  },
+  "220208": {
+    "id": 220208,
+    "shoot_type": 2202,
+    "lv": 8,
+    "shoot_exp": 2602,
+    "exp": 1024,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 108
+    }
+  },
+  "220209": {
+    "id": 220209,
+    "shoot_type": 2202,
+    "lv": 9,
+    "shoot_exp": 2602,
+    "exp": 2048,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 109
+    }
+  },
+  "220210": {
+    "id": 220210,
+    "shoot_type": 2202,
+    "lv": 10,
+    "shoot_exp": 2602,
+    "exp": 4096,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 110
+    }
+  },
+  "220211": {
+    "id": 220211,
+    "shoot_type": 2202,
+    "lv": 11,
+    "shoot_exp": 2602,
+    "exp": 8192,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 111
+    }
+  },
+  "220212": {
+    "id": 220212,
+    "shoot_type": 2202,
+    "lv": 12,
+    "shoot_exp": 2602,
+    "exp": 16384,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 112
+    }
+  },
+  "220213": {
+    "id": 220213,
+    "shoot_type": 2202,
+    "lv": 13,
+    "shoot_exp": 2602,
+    "exp": 32768,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 113
+    }
+  },
+  "220214": {
+    "id": 220214,
+    "shoot_type": 2202,
+    "lv": 14,
+    "shoot_exp": 2602,
+    "exp": 65536,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 114
+    }
+  },
+  "220215": {
+    "id": 220215,
+    "shoot_type": 2202,
+    "lv": 15,
+    "shoot_exp": 2602,
+    "exp": 131072,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 115
+    }
+  },
+  "220216": {
+    "id": 220216,
+    "shoot_type": 2202,
+    "lv": 16,
+    "shoot_exp": 2602,
+    "exp": 262144,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 116
+    }
+  },
+  "220217": {
+    "id": 220217,
+    "shoot_type": 2202,
+    "lv": 17,
+    "shoot_exp": 2602,
+    "exp": 524288,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 117
+    }
+  },
+  "220218": {
+    "id": 220218,
+    "shoot_type": 2202,
+    "lv": 18,
+    "shoot_exp": 2602,
+    "exp": 1048576,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 118
+    }
+  },
+  "220219": {
+    "id": 220219,
+    "shoot_type": 2202,
+    "lv": 19,
+    "shoot_exp": 2602,
+    "exp": 2097152,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 119
+    }
+  },
+  "220220": {
+    "id": 220220,
+    "shoot_type": 2202,
+    "lv": 20,
+    "shoot_exp": 2602,
+    "exp": 4194304,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 120
+    }
+  },
+  "220301": {
+    "id": 220301,
+    "shoot_type": 2203,
+    "lv": 1,
+    "shoot_exp": 2603,
+    "exp": 8,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 101
+    }
+  },
+  "220302": {
+    "id": 220302,
+    "shoot_type": 2203,
+    "lv": 2,
+    "shoot_exp": 2603,
+    "exp": 16,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 102
+    }
+  },
+  "220303": {
+    "id": 220303,
+    "shoot_type": 2203,
+    "lv": 3,
+    "shoot_exp": 2603,
+    "exp": 32,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 103
+    }
+  },
+  "220304": {
+    "id": 220304,
+    "shoot_type": 2203,
+    "lv": 4,
+    "shoot_exp": 2603,
+    "exp": 64,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 104
+    }
+  },
+  "220305": {
+    "id": 220305,
+    "shoot_type": 2203,
+    "lv": 5,
+    "shoot_exp": 2603,
+    "exp": 128,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 105
+    }
+  },
+  "220306": {
+    "id": 220306,
+    "shoot_type": 2203,
+    "lv": 6,
+    "shoot_exp": 2603,
+    "exp": 256,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 106
+    }
+  },
+  "220307": {
+    "id": 220307,
+    "shoot_type": 2203,
+    "lv": 7,
+    "shoot_exp": 2603,
+    "exp": 512,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 107
+    }
+  },
+  "220308": {
+    "id": 220308,
+    "shoot_type": 2203,
+    "lv": 8,
+    "shoot_exp": 2603,
+    "exp": 1024,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 108
+    }
+  },
+  "220309": {
+    "id": 220309,
+    "shoot_type": 2203,
+    "lv": 9,
+    "shoot_exp": 2603,
+    "exp": 2048,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 109
+    }
+  },
+  "220310": {
+    "id": 220310,
+    "shoot_type": 2203,
+    "lv": 10,
+    "shoot_exp": 2603,
+    "exp": 4096,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 110
+    }
+  },
+  "220311": {
+    "id": 220311,
+    "shoot_type": 2203,
+    "lv": 11,
+    "shoot_exp": 2603,
+    "exp": 8192,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 111
+    }
+  },
+  "220312": {
+    "id": 220312,
+    "shoot_type": 2203,
+    "lv": 12,
+    "shoot_exp": 2603,
+    "exp": 16384,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 112
+    }
+  },
+  "220313": {
+    "id": 220313,
+    "shoot_type": 2203,
+    "lv": 13,
+    "shoot_exp": 2603,
+    "exp": 32768,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 113
+    }
+  },
+  "220314": {
+    "id": 220314,
+    "shoot_type": 2203,
+    "lv": 14,
+    "shoot_exp": 2603,
+    "exp": 65536,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 114
+    }
+  },
+  "220315": {
+    "id": 220315,
+    "shoot_type": 2203,
+    "lv": 15,
+    "shoot_exp": 2603,
+    "exp": 131072,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 115
+    }
+  },
+  "220316": {
+    "id": 220316,
+    "shoot_type": 2203,
+    "lv": 16,
+    "shoot_exp": 2603,
+    "exp": 262144,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 116
+    }
+  },
+  "220317": {
+    "id": 220317,
+    "shoot_type": 2203,
+    "lv": 17,
+    "shoot_exp": 2603,
+    "exp": 524288,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 117
+    }
+  },
+  "220318": {
+    "id": 220318,
+    "shoot_type": 2203,
+    "lv": 18,
+    "shoot_exp": 2603,
+    "exp": 1048576,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 118
+    }
+  },
+  "220319": {
+    "id": 220319,
+    "shoot_type": 2203,
+    "lv": 19,
+    "shoot_exp": 2603,
+    "exp": 2097152,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 119
+    }
+  },
+  "220320": {
+    "id": 220320,
+    "shoot_type": 2203,
+    "lv": 20,
+    "shoot_exp": 2603,
+    "exp": 4194304,
+    "proficiency": {
+      "v1": 1605,
+      "v2": 120
+    }
+  },
+  "220401": {
+    "id": 220401,
+    "shoot_type": 2204,
+    "lv": 1,
+    "shoot_exp": 2604,
+    "exp": 8,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 101
+    }
+  },
+  "220402": {
+    "id": 220402,
+    "shoot_type": 2204,
+    "lv": 2,
+    "shoot_exp": 2604,
+    "exp": 16,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 102
+    }
+  },
+  "220403": {
+    "id": 220403,
+    "shoot_type": 2204,
+    "lv": 3,
+    "shoot_exp": 2604,
+    "exp": 32,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 103
+    }
+  },
+  "220404": {
+    "id": 220404,
+    "shoot_type": 2204,
+    "lv": 4,
+    "shoot_exp": 2604,
+    "exp": 64,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 104
+    }
+  },
+  "220405": {
+    "id": 220405,
+    "shoot_type": 2204,
+    "lv": 5,
+    "shoot_exp": 2604,
+    "exp": 128,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 105
+    }
+  },
+  "220406": {
+    "id": 220406,
+    "shoot_type": 2204,
+    "lv": 6,
+    "shoot_exp": 2604,
+    "exp": 256,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 106
+    }
+  },
+  "220407": {
+    "id": 220407,
+    "shoot_type": 2204,
+    "lv": 7,
+    "shoot_exp": 2604,
+    "exp": 512,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 107
+    }
+  },
+  "220408": {
+    "id": 220408,
+    "shoot_type": 2204,
+    "lv": 8,
+    "shoot_exp": 2604,
+    "exp": 1024,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 108
+    }
+  },
+  "220409": {
+    "id": 220409,
+    "shoot_type": 2204,
+    "lv": 9,
+    "shoot_exp": 2604,
+    "exp": 2048,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 109
+    }
+  },
+  "220410": {
+    "id": 220410,
+    "shoot_type": 2204,
+    "lv": 10,
+    "shoot_exp": 2604,
+    "exp": 4096,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 110
+    }
+  },
+  "220411": {
+    "id": 220411,
+    "shoot_type": 2204,
+    "lv": 11,
+    "shoot_exp": 2604,
+    "exp": 8192,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 111
+    }
+  },
+  "220412": {
+    "id": 220412,
+    "shoot_type": 2204,
+    "lv": 12,
+    "shoot_exp": 2604,
+    "exp": 16384,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 112
+    }
+  },
+  "220413": {
+    "id": 220413,
+    "shoot_type": 2204,
+    "lv": 13,
+    "shoot_exp": 2604,
+    "exp": 32768,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 113
+    }
+  },
+  "220414": {
+    "id": 220414,
+    "shoot_type": 2204,
+    "lv": 14,
+    "shoot_exp": 2604,
+    "exp": 65536,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 114
+    }
+  },
+  "220415": {
+    "id": 220415,
+    "shoot_type": 2204,
+    "lv": 15,
+    "shoot_exp": 2604,
+    "exp": 131072,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 115
+    }
+  },
+  "220416": {
+    "id": 220416,
+    "shoot_type": 2204,
+    "lv": 16,
+    "shoot_exp": 2604,
+    "exp": 262144,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 116
+    }
+  },
+  "220417": {
+    "id": 220417,
+    "shoot_type": 2204,
+    "lv": 17,
+    "shoot_exp": 2604,
+    "exp": 524288,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 117
+    }
+  },
+  "220418": {
+    "id": 220418,
+    "shoot_type": 2204,
+    "lv": 18,
+    "shoot_exp": 2604,
+    "exp": 1048576,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 118
+    }
+  },
+  "220419": {
+    "id": 220419,
+    "shoot_type": 2204,
+    "lv": 19,
+    "shoot_exp": 2604,
+    "exp": 2097152,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 119
+    }
+  },
+  "220420": {
+    "id": 220420,
+    "shoot_type": 2204,
+    "lv": 20,
+    "shoot_exp": 2604,
+    "exp": 4194304,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 120
+    }
+  },
+  "220501": {
+    "id": 220501,
+    "shoot_type": 2205,
+    "lv": 1,
+    "shoot_exp": 2605,
+    "exp": 8,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 101
+    }
+  },
+  "220502": {
+    "id": 220502,
+    "shoot_type": 2205,
+    "lv": 2,
+    "shoot_exp": 2605,
+    "exp": 16,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 102
+    }
+  },
+  "220503": {
+    "id": 220503,
+    "shoot_type": 2205,
+    "lv": 3,
+    "shoot_exp": 2605,
+    "exp": 32,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 103
+    }
+  },
+  "220504": {
+    "id": 220504,
+    "shoot_type": 2205,
+    "lv": 4,
+    "shoot_exp": 2605,
+    "exp": 64,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 104
+    }
+  },
+  "220505": {
+    "id": 220505,
+    "shoot_type": 2205,
+    "lv": 5,
+    "shoot_exp": 2605,
+    "exp": 128,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 105
+    }
+  },
+  "220506": {
+    "id": 220506,
+    "shoot_type": 2205,
+    "lv": 6,
+    "shoot_exp": 2605,
+    "exp": 256,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 106
+    }
+  },
+  "220507": {
+    "id": 220507,
+    "shoot_type": 2205,
+    "lv": 7,
+    "shoot_exp": 2605,
+    "exp": 512,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 107
+    }
+  },
+  "220508": {
+    "id": 220508,
+    "shoot_type": 2205,
+    "lv": 8,
+    "shoot_exp": 2605,
+    "exp": 1024,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 108
+    }
+  },
+  "220509": {
+    "id": 220509,
+    "shoot_type": 2205,
+    "lv": 9,
+    "shoot_exp": 2605,
+    "exp": 2048,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 109
+    }
+  },
+  "220510": {
+    "id": 220510,
+    "shoot_type": 2205,
+    "lv": 10,
+    "shoot_exp": 2605,
+    "exp": 4096,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 110
+    }
+  },
+  "220511": {
+    "id": 220511,
+    "shoot_type": 2205,
+    "lv": 11,
+    "shoot_exp": 2605,
+    "exp": 8192,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 111
+    }
+  },
+  "220512": {
+    "id": 220512,
+    "shoot_type": 2205,
+    "lv": 12,
+    "shoot_exp": 2605,
+    "exp": 16384,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 112
+    }
+  },
+  "220513": {
+    "id": 220513,
+    "shoot_type": 2205,
+    "lv": 13,
+    "shoot_exp": 2605,
+    "exp": 32768,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 113
+    }
+  },
+  "220514": {
+    "id": 220514,
+    "shoot_type": 2205,
+    "lv": 14,
+    "shoot_exp": 2605,
+    "exp": 65536,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 114
+    }
+  },
+  "220515": {
+    "id": 220515,
+    "shoot_type": 2205,
+    "lv": 15,
+    "shoot_exp": 2605,
+    "exp": 131072,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 115
+    }
+  },
+  "220516": {
+    "id": 220516,
+    "shoot_type": 2205,
+    "lv": 16,
+    "shoot_exp": 2605,
+    "exp": 262144,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 116
+    }
+  },
+  "220517": {
+    "id": 220517,
+    "shoot_type": 2205,
+    "lv": 17,
+    "shoot_exp": 2605,
+    "exp": 524288,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 117
+    }
+  },
+  "220518": {
+    "id": 220518,
+    "shoot_type": 2205,
+    "lv": 18,
+    "shoot_exp": 2605,
+    "exp": 1048576,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 118
+    }
+  },
+  "220519": {
+    "id": 220519,
+    "shoot_type": 2205,
+    "lv": 19,
+    "shoot_exp": 2605,
+    "exp": 2097152,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 119
+    }
+  },
+  "220520": {
+    "id": 220520,
+    "shoot_type": 2205,
+    "lv": 20,
+    "shoot_exp": 2605,
+    "exp": 4194304,
+    "proficiency": {
+      "v1": 1601,
+      "v2": 120
+    }
+  },
+  "220601": {
+    "id": 220601,
+    "shoot_type": 2206,
+    "lv": 1,
+    "shoot_exp": 2606,
+    "exp": 8,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 101
+    }
+  },
+  "220602": {
+    "id": 220602,
+    "shoot_type": 2206,
+    "lv": 2,
+    "shoot_exp": 2606,
+    "exp": 16,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 102
+    }
+  },
+  "220603": {
+    "id": 220603,
+    "shoot_type": 2206,
+    "lv": 3,
+    "shoot_exp": 2606,
+    "exp": 32,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 103
+    }
+  },
+  "220604": {
+    "id": 220604,
+    "shoot_type": 2206,
+    "lv": 4,
+    "shoot_exp": 2606,
+    "exp": 64,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 104
+    }
+  },
+  "220605": {
+    "id": 220605,
+    "shoot_type": 2206,
+    "lv": 5,
+    "shoot_exp": 2606,
+    "exp": 128,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 105
+    }
+  },
+  "220606": {
+    "id": 220606,
+    "shoot_type": 2206,
+    "lv": 6,
+    "shoot_exp": 2606,
+    "exp": 256,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 106
+    }
+  },
+  "220607": {
+    "id": 220607,
+    "shoot_type": 2206,
+    "lv": 7,
+    "shoot_exp": 2606,
+    "exp": 512,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 107
+    }
+  },
+  "220608": {
+    "id": 220608,
+    "shoot_type": 2206,
+    "lv": 8,
+    "shoot_exp": 2606,
+    "exp": 1024,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 108
+    }
+  },
+  "220609": {
+    "id": 220609,
+    "shoot_type": 2206,
+    "lv": 9,
+    "shoot_exp": 2606,
+    "exp": 2048,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 109
+    }
+  },
+  "220610": {
+    "id": 220610,
+    "shoot_type": 2206,
+    "lv": 10,
+    "shoot_exp": 2606,
+    "exp": 4096,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 110
+    }
+  },
+  "220611": {
+    "id": 220611,
+    "shoot_type": 2206,
+    "lv": 11,
+    "shoot_exp": 2606,
+    "exp": 8192,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 111
+    }
+  },
+  "220612": {
+    "id": 220612,
+    "shoot_type": 2206,
+    "lv": 12,
+    "shoot_exp": 2606,
+    "exp": 16384,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 112
+    }
+  },
+  "220613": {
+    "id": 220613,
+    "shoot_type": 2206,
+    "lv": 13,
+    "shoot_exp": 2606,
+    "exp": 32768,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 113
+    }
+  },
+  "220614": {
+    "id": 220614,
+    "shoot_type": 2206,
+    "lv": 14,
+    "shoot_exp": 2606,
+    "exp": 65536,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 114
+    }
+  },
+  "220615": {
+    "id": 220615,
+    "shoot_type": 2206,
+    "lv": 15,
+    "shoot_exp": 2606,
+    "exp": 131072,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 115
+    }
+  },
+  "220616": {
+    "id": 220616,
+    "shoot_type": 2206,
+    "lv": 16,
+    "shoot_exp": 2606,
+    "exp": 262144,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 116
+    }
+  },
+  "220617": {
+    "id": 220617,
+    "shoot_type": 2206,
+    "lv": 17,
+    "shoot_exp": 2606,
+    "exp": 524288,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 117
+    }
+  },
+  "220618": {
+    "id": 220618,
+    "shoot_type": 2206,
+    "lv": 18,
+    "shoot_exp": 2606,
+    "exp": 1048576,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 118
+    }
+  },
+  "220619": {
+    "id": 220619,
+    "shoot_type": 2206,
+    "lv": 19,
+    "shoot_exp": 2606,
+    "exp": 2097152,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 119
+    }
+  },
+  "220620": {
+    "id": 220620,
+    "shoot_type": 2206,
+    "lv": 20,
+    "shoot_exp": 2606,
+    "exp": 4194304,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 120
+    }
+  },
+  "220701": {
+    "id": 220701,
+    "shoot_type": 2207,
+    "lv": 1,
+    "shoot_exp": 2607,
+    "exp": 8,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 101
+    }
+  },
+  "220702": {
+    "id": 220702,
+    "shoot_type": 2207,
+    "lv": 2,
+    "shoot_exp": 2607,
+    "exp": 16,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 102
+    }
+  },
+  "220703": {
+    "id": 220703,
+    "shoot_type": 2207,
+    "lv": 3,
+    "shoot_exp": 2607,
+    "exp": 32,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 103
+    }
+  },
+  "220704": {
+    "id": 220704,
+    "shoot_type": 2207,
+    "lv": 4,
+    "shoot_exp": 2607,
+    "exp": 64,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 104
+    }
+  },
+  "220705": {
+    "id": 220705,
+    "shoot_type": 2207,
+    "lv": 5,
+    "shoot_exp": 2607,
+    "exp": 128,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 105
+    }
+  },
+  "220706": {
+    "id": 220706,
+    "shoot_type": 2207,
+    "lv": 6,
+    "shoot_exp": 2607,
+    "exp": 256,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 106
+    }
+  },
+  "220707": {
+    "id": 220707,
+    "shoot_type": 2207,
+    "lv": 7,
+    "shoot_exp": 2607,
+    "exp": 512,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 107
+    }
+  },
+  "220708": {
+    "id": 220708,
+    "shoot_type": 2207,
+    "lv": 8,
+    "shoot_exp": 2607,
+    "exp": 1024,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 108
+    }
+  },
+  "220709": {
+    "id": 220709,
+    "shoot_type": 2207,
+    "lv": 9,
+    "shoot_exp": 2607,
+    "exp": 2048,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 109
+    }
+  },
+  "220710": {
+    "id": 220710,
+    "shoot_type": 2207,
+    "lv": 10,
+    "shoot_exp": 2607,
+    "exp": 4096,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 110
+    }
+  },
+  "220711": {
+    "id": 220711,
+    "shoot_type": 2207,
+    "lv": 11,
+    "shoot_exp": 2607,
+    "exp": 8192,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 111
+    }
+  },
+  "220712": {
+    "id": 220712,
+    "shoot_type": 2207,
+    "lv": 12,
+    "shoot_exp": 2607,
+    "exp": 16384,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 112
+    }
+  },
+  "220713": {
+    "id": 220713,
+    "shoot_type": 2207,
+    "lv": 13,
+    "shoot_exp": 2607,
+    "exp": 32768,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 113
+    }
+  },
+  "220714": {
+    "id": 220714,
+    "shoot_type": 2207,
+    "lv": 14,
+    "shoot_exp": 2607,
+    "exp": 65536,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 114
+    }
+  },
+  "220715": {
+    "id": 220715,
+    "shoot_type": 2207,
+    "lv": 15,
+    "shoot_exp": 2607,
+    "exp": 131072,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 115
+    }
+  },
+  "220716": {
+    "id": 220716,
+    "shoot_type": 2207,
+    "lv": 16,
+    "shoot_exp": 2607,
+    "exp": 262144,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 116
+    }
+  },
+  "220717": {
+    "id": 220717,
+    "shoot_type": 2207,
+    "lv": 17,
+    "shoot_exp": 2607,
+    "exp": 524288,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 117
+    }
+  },
+  "220718": {
+    "id": 220718,
+    "shoot_type": 2207,
+    "lv": 18,
+    "shoot_exp": 2607,
+    "exp": 1048576,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 118
+    }
+  },
+  "220719": {
+    "id": 220719,
+    "shoot_type": 2207,
+    "lv": 19,
+    "shoot_exp": 2607,
+    "exp": 2097152,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 119
+    }
+  },
+  "220720": {
+    "id": 220720,
+    "shoot_type": 2207,
+    "lv": 20,
+    "shoot_exp": 2607,
+    "exp": 4194304,
+    "proficiency": {
+      "v1": 1602,
+      "v2": 120
+    }
+  },
+  "220801": {
+    "id": 220801,
+    "shoot_type": 2208,
+    "lv": 1,
+    "shoot_exp": 2608,
+    "exp": 8,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 101
+    }
+  },
+  "220802": {
+    "id": 220802,
+    "shoot_type": 2208,
+    "lv": 2,
+    "shoot_exp": 2608,
+    "exp": 16,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 102
+    }
+  },
+  "220803": {
+    "id": 220803,
+    "shoot_type": 2208,
+    "lv": 3,
+    "shoot_exp": 2608,
+    "exp": 32,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 103
+    }
+  },
+  "220804": {
+    "id": 220804,
+    "shoot_type": 2208,
+    "lv": 4,
+    "shoot_exp": 2608,
+    "exp": 64,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 104
+    }
+  },
+  "220805": {
+    "id": 220805,
+    "shoot_type": 2208,
+    "lv": 5,
+    "shoot_exp": 2608,
+    "exp": 128,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 105
+    }
+  },
+  "220806": {
+    "id": 220806,
+    "shoot_type": 2208,
+    "lv": 6,
+    "shoot_exp": 2608,
+    "exp": 256,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 106
+    }
+  },
+  "220807": {
+    "id": 220807,
+    "shoot_type": 2208,
+    "lv": 7,
+    "shoot_exp": 2608,
+    "exp": 512,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 107
+    }
+  },
+  "220808": {
+    "id": 220808,
+    "shoot_type": 2208,
+    "lv": 8,
+    "shoot_exp": 2608,
+    "exp": 1024,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 108
+    }
+  },
+  "220809": {
+    "id": 220809,
+    "shoot_type": 2208,
+    "lv": 9,
+    "shoot_exp": 2608,
+    "exp": 2048,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 109
+    }
+  },
+  "220810": {
+    "id": 220810,
+    "shoot_type": 2208,
+    "lv": 10,
+    "shoot_exp": 2608,
+    "exp": 4096,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 110
+    }
+  },
+  "220811": {
+    "id": 220811,
+    "shoot_type": 2208,
+    "lv": 11,
+    "shoot_exp": 2608,
+    "exp": 8192,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 111
+    }
+  },
+  "220812": {
+    "id": 220812,
+    "shoot_type": 2208,
+    "lv": 12,
+    "shoot_exp": 2608,
+    "exp": 16384,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 112
+    }
+  },
+  "220813": {
+    "id": 220813,
+    "shoot_type": 2208,
+    "lv": 13,
+    "shoot_exp": 2608,
+    "exp": 32768,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 113
+    }
+  },
+  "220814": {
+    "id": 220814,
+    "shoot_type": 2208,
+    "lv": 14,
+    "shoot_exp": 2608,
+    "exp": 65536,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 114
+    }
+  },
+  "220815": {
+    "id": 220815,
+    "shoot_type": 2208,
+    "lv": 15,
+    "shoot_exp": 2608,
+    "exp": 131072,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 115
+    }
+  },
+  "220816": {
+    "id": 220816,
+    "shoot_type": 2208,
+    "lv": 16,
+    "shoot_exp": 2608,
+    "exp": 262144,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 116
+    }
+  },
+  "220817": {
+    "id": 220817,
+    "shoot_type": 2208,
+    "lv": 17,
+    "shoot_exp": 2608,
+    "exp": 524288,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 117
+    }
+  },
+  "220818": {
+    "id": 220818,
+    "shoot_type": 2208,
+    "lv": 18,
+    "shoot_exp": 2608,
+    "exp": 1048576,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 118
+    }
+  },
+  "220819": {
+    "id": 220819,
+    "shoot_type": 2208,
+    "lv": 19,
+    "shoot_exp": 2608,
+    "exp": 2097152,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 119
+    }
+  },
+  "220820": {
+    "id": 220820,
+    "shoot_type": 2208,
+    "lv": 20,
+    "shoot_exp": 2608,
+    "exp": 4194304,
+    "proficiency": {
+      "v1": 1603,
+      "v2": 120
+    }
+  }
+}

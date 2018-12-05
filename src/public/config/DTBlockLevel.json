@@ -1,0 +1,4734 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "zh_cn_name": "街区1档",
+    "pic": 4001,
+    "upgrade_req": 7,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 6000
+    },
+    "cinema": [
+      1001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 200
+    },
+    "storysearchdollar": 7600,
+    "level_multiple": 200,
+    "level_con": 100,
+    "theater_level_con": 100,
+    "good": 17653,
+    "big_sell": 33940,
+    "great_sell": 198786,
+    "myth_sell": 248307,
+    "marvel_sell": 306838,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 4000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 10
+      }
+    ],
+    "task_cd": 0,
+    "city_gold": 0,
+    "city_fans": 0,
+    "party_guest": 0,
+    "shoot_story": 0,
+    "city_envoy_max": 0,
+    "finance_exchange": 0,
+    "actor_max": 0,
+    "certificate": 0,
+    "sequel_max": 0,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 100
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 100
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 100
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1000
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "街区1档"
+  },
+  "1002": {
+    "id": 1002,
+    "zh_cn_name": "街区2档",
+    "pic": 4001,
+    "upgrade_req": 15,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 15
+      },
+      {
+        "itemId": 2,
+        "itemNum": 350000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 16000
+    },
+    "cinema": [
+      1002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 205
+    },
+    "storysearchdollar": 15200,
+    "level_multiple": 200,
+    "level_con": 260,
+    "theater_level_con": 98,
+    "good": 50697,
+    "big_sell": 100991,
+    "great_sell": 634696,
+    "myth_sell": 797683,
+    "marvel_sell": 990991,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 11000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 12
+      }
+    ],
+    "task_cd": 0,
+    "city_gold": 0,
+    "city_fans": 0,
+    "party_guest": 0,
+    "shoot_story": 0,
+    "city_envoy_max": 0,
+    "finance_exchange": 0,
+    "actor_max": 0,
+    "certificate": 0,
+    "sequel_max": 0,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 101
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 101
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 101
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1001
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "街区2档"
+  },
+  "1003": {
+    "id": 1003,
+    "zh_cn_name": "街区3档",
+    "pic": 4001,
+    "upgrade_req": 24,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 940000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 43000
+    },
+    "cinema": [
+      1003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 210
+    },
+    "storysearchdollar": 30400,
+    "level_multiple": 200,
+    "level_con": 500,
+    "theater_level_con": 96,
+    "good": 112037,
+    "big_sell": 200537,
+    "great_sell": 747057,
+    "myth_sell": 1305122,
+    "marvel_sell": 1644979,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 30000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 14
+      }
+    ],
+    "task_cd": 1800,
+    "city_gold": 0,
+    "city_fans": 0,
+    "party_guest": 0,
+    "shoot_story": 0,
+    "city_envoy_max": 0,
+    "finance_exchange": 0,
+    "actor_max": 0,
+    "certificate": 0,
+    "sequel_max": 0,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 102
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 102
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 102
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1002
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "街区3档"
+  },
+  "1004": {
+    "id": 1004,
+    "zh_cn_name": "街区4档",
+    "pic": 4001,
+    "upgrade_req": 34,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 5
+      },
+      {
+        "itemId": 2,
+        "itemNum": 1760000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 54000
+    },
+    "cinema": [
+      1004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 215
+    },
+    "storysearchdollar": 60800,
+    "level_multiple": 200,
+    "level_con": 1110,
+    "theater_level_con": 94,
+    "good": 254339,
+    "big_sell": 460966,
+    "great_sell": 1753549,
+    "myth_sell": 3082310,
+    "marvel_sell": 3893294,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 37000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 16
+      }
+    ],
+    "task_cd": 1800,
+    "city_gold": 0,
+    "city_fans": 0,
+    "party_guest": 1,
+    "shoot_story": 0,
+    "city_envoy_max": 0,
+    "finance_exchange": 0,
+    "actor_max": 0,
+    "certificate": 0,
+    "sequel_max": 0,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 103
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 103
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 103
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1003
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "街区4档"
+  },
+  "1005": {
+    "id": 1005,
+    "zh_cn_name": "街区5档",
+    "pic": 4001,
+    "upgrade_req": 46,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 20
+      },
+      {
+        "itemId": 2,
+        "itemNum": 2810000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 87000
+    },
+    "cinema": [
+      1005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 220
+    },
+    "storysearchdollar": 121600,
+    "level_multiple": 200,
+    "level_con": 1700,
+    "theater_level_con": 92,
+    "good": 454076,
+    "big_sell": 818373,
+    "great_sell": 1667593,
+    "myth_sell": 2831038,
+    "marvel_sell": 4533867,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 59000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 18
+      }
+    ],
+    "task_cd": 1800,
+    "city_gold": 0,
+    "city_fans": 5,
+    "party_guest": 1,
+    "shoot_story": 1,
+    "city_envoy_max": 1,
+    "finance_exchange": 10,
+    "actor_max": 0,
+    "certificate": 0,
+    "sequel_max": 0,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 104
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 104
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 104
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1004
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "街区5档"
+  },
+  "1006": {
+    "id": 1006,
+    "zh_cn_name": "街区6档",
+    "pic": 4001,
+    "upgrade_req": 60,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 15
+      },
+      {
+        "itemId": 2,
+        "itemNum": 4100000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 96000
+    },
+    "cinema": [
+      2001,
+      3001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 225
+    },
+    "storysearchdollar": 243200,
+    "level_multiple": 200,
+    "level_con": 2780,
+    "theater_level_con": 90,
+    "good": 756819,
+    "big_sell": 1375136,
+    "great_sell": 2824045,
+    "myth_sell": 4816089,
+    "marvel_sell": 7738059,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 64000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 20
+      }
+    ],
+    "task_cd": 3600,
+    "city_gold": 20,
+    "city_fans": 5,
+    "party_guest": 1,
+    "shoot_story": 1,
+    "city_envoy_max": 1,
+    "finance_exchange": 10,
+    "actor_max": 1,
+    "certificate": 0,
+    "sequel_max": 0,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 105
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 105
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 105
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1005
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "街区6档"
+  },
+  "1007": {
+    "id": 1007,
+    "zh_cn_name": "街区7档",
+    "pic": 4001,
+    "upgrade_req": 76,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 5620000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 134000
+    },
+    "cinema": [
+      2002,
+      3002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 230
+    },
+    "storysearchdollar": 486400,
+    "level_multiple": 200,
+    "level_con": 4990,
+    "theater_level_con": 88,
+    "good": 1377465,
+    "big_sell": 2520187,
+    "great_sell": 5209469,
+    "myth_sell": 8917511,
+    "marvel_sell": 14366289,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 88000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 22
+      }
+    ],
+    "task_cd": 3600,
+    "city_gold": 20,
+    "city_fans": 10,
+    "party_guest": 2,
+    "shoot_story": 2,
+    "city_envoy_max": 1,
+    "finance_exchange": 10,
+    "actor_max": 1,
+    "certificate": 1,
+    "sequel_max": 0,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 106
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 106
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 106
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1006
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "街区7档"
+  },
+  "1008": {
+    "id": 1008,
+    "zh_cn_name": "街区8档",
+    "pic": 4001,
+    "upgrade_req": 95,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 25
+      },
+      {
+        "itemId": 2,
+        "itemNum": 7380000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 142000
+    },
+    "cinema": [
+      2003,
+      3003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 235
+    },
+    "storysearchdollar": 729600,
+    "level_multiple": 200,
+    "level_con": 9110,
+    "theater_level_con": 86,
+    "good": 2544558,
+    "big_sell": 4683210,
+    "great_sell": 9734466,
+    "myth_sell": 16715993,
+    "marvel_sell": 21386656,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 92000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 24
+      }
+    ],
+    "task_cd": 5400,
+    "city_gold": 30,
+    "city_fans": 10,
+    "party_guest": 2,
+    "shoot_story": 2,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 1,
+    "certificate": 1,
+    "sequel_max": 3,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 107
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 107
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 107
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1007
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "街区8档"
+  },
+  "1009": {
+    "id": 1009,
+    "zh_cn_name": "街区9档",
+    "pic": 4001,
+    "upgrade_req": 117,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 20
+      },
+      {
+        "itemId": 2,
+        "itemNum": 9370000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 183000
+    },
+    "cinema": [
+      2004,
+      3004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 240
+    },
+    "storysearchdollar": 972800,
+    "level_multiple": 200,
+    "level_con": 16540,
+    "theater_level_con": 84,
+    "good": 4671520,
+    "big_sell": 8642329,
+    "great_sell": 18049701,
+    "myth_sell": 31078356,
+    "marvel_sell": 39802982,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 117000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 26
+      }
+    ],
+    "task_cd": 5400,
+    "city_gold": 30,
+    "city_fans": 15,
+    "party_guest": 2,
+    "shoot_story": 3,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 2,
+    "certificate": 1,
+    "sequel_max": 3,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 108
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 108
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 108
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1008
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "街区9档"
+  },
+  "1010": {
+    "id": 1010,
+    "zh_cn_name": "街区10档",
+    "pic": 4001,
+    "upgrade_req": 142,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 15
+      },
+      {
+        "itemId": 2,
+        "itemNum": 11590000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 191000
+    },
+    "cinema": [
+      2005,
+      3005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 245
+    },
+    "storysearchdollar": 1216000,
+    "level_multiple": 200,
+    "level_con": 24760,
+    "theater_level_con": 82,
+    "good": 6730955,
+    "big_sell": 12464152,
+    "great_sell": 26054448,
+    "myth_sell": 44883137,
+    "marvel_sell": 57493946,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 121000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 28
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 40,
+    "city_fans": 15,
+    "party_guest": 2,
+    "shoot_story": 3,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 2,
+    "certificate": 1,
+    "sequel_max": 3,
+    "screenwriter_max": 0,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 109
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 109
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 109
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1009
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "街区10档"
+  },
+  "2001": {
+    "id": 2001,
+    "zh_cn_name": "城镇1档",
+    "pic": 4002,
+    "upgrade_req": 171,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 30
+      },
+      {
+        "itemId": 2,
+        "itemNum": 14050000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 238000
+    },
+    "cinema": [
+      4001,
+      5001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 250
+    },
+    "storysearchdollar": 1459200,
+    "level_multiple": 200,
+    "level_con": 36860,
+    "theater_level_con": 80,
+    "good": 9663505,
+    "big_sell": 17911154,
+    "great_sell": 37472465,
+    "myth_sell": 64583379,
+    "marvel_sell": 82744428,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 149000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 32
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 40,
+    "city_fans": 20,
+    "party_guest": 2,
+    "shoot_story": 3,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 2,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 110
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 110
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 110
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1010
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "城镇1档"
+  },
+  "2002": {
+    "id": 2002,
+    "zh_cn_name": "城镇2档",
+    "pic": 4002,
+    "upgrade_req": 204,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 25
+      },
+      {
+        "itemId": 2,
+        "itemNum": 16750000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 291000
+    },
+    "cinema": [
+      4002,
+      5002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 255
+    },
+    "storysearchdollar": 1702400,
+    "level_multiple": 200,
+    "level_con": 60220,
+    "theater_level_con": 78,
+    "good": 15260323,
+    "big_sell": 28310376,
+    "great_sell": 59278037,
+    "myth_sell": 102212429,
+    "marvel_sell": 130978044,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 181000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 20,
+    "party_guest": 2,
+    "shoot_story": 3,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 111
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 111
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 111
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1011
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "城镇2档"
+  },
+  "2003": {
+    "id": 2003,
+    "zh_cn_name": "城镇3档",
+    "pic": 4002,
+    "upgrade_req": 241,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 20
+      },
+      {
+        "itemId": 2,
+        "itemNum": 19680000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 350000
+    },
+    "cinema": [
+      4003,
+      5003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 260
+    },
+    "storysearchdollar": 1945600,
+    "level_multiple": 200,
+    "level_con": 98130,
+    "theater_level_con": 76,
+    "good": 24079268,
+    "big_sell": 44710371,
+    "great_sell": 93692853,
+    "myth_sell": 161626350,
+    "marvel_sell": 207148368,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 216000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 112
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 112
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 112
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1012
+    },
+    "new_effect": true,
+    "zh_cn_name_tips": "城镇3档"
+  },
+  "2004": {
+    "id": 2004,
+    "zh_cn_name": "城镇4档",
+    "pic": 4002,
+    "upgrade_req": 283,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 35
+      },
+      {
+        "itemId": 2,
+        "itemNum": 22840000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 416000
+    },
+    "cinema": [
+      4004,
+      5004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 265
+    },
+    "storysearchdollar": 2188800,
+    "level_multiple": 200,
+    "level_con": 119620,
+    "theater_level_con": 74,
+    "good": 28472181,
+    "big_sell": 52912641,
+    "great_sell": 110968179,
+    "myth_sell": 191511370,
+    "marvel_sell": 245491486,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 255000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 113
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 113
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 113
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1013
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "城镇4档"
+  },
+  "2005": {
+    "id": 2005,
+    "zh_cn_name": "城镇5档",
+    "pic": 4002,
+    "upgrade_req": 330,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 30
+      },
+      {
+        "itemId": 2,
+        "itemNum": 25420000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 474000
+    },
+    "cinema": [
+      4005,
+      5005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 270
+    },
+    "storysearchdollar": 2432000,
+    "level_multiple": 200,
+    "level_con": 145520,
+    "theater_level_con": 72,
+    "good": 33651795,
+    "big_sell": 62590953,
+    "great_sell": 131365897,
+    "myth_sell": 226810975,
+    "marvel_sell": 290787965,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 289000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 48
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 114
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 114
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 114
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1014
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "城镇5档"
+  },
+  "2006": {
+    "id": 2006,
+    "zh_cn_name": "城镇6档",
+    "pic": 4002,
+    "upgrade_req": 382,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 25
+      },
+      {
+        "itemId": 2,
+        "itemNum": 26230000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 502000
+    },
+    "cinema": [
+      6001,
+      7001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 275
+    },
+    "storysearchdollar": 2675200,
+    "level_multiple": 200,
+    "level_con": 175500,
+    "theater_level_con": 70,
+    "good": 39490537,
+    "big_sell": 73510986,
+    "great_sell": 154399847,
+    "myth_sell": 266691177,
+    "marvel_sell": 341971247,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 304000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 52
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 115
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 115
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 115
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1015
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "城镇6档"
+  },
+  "2007": {
+    "id": 2007,
+    "zh_cn_name": "城镇7档",
+    "pic": 4002,
+    "upgrade_req": 440,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 40
+      },
+      {
+        "itemId": 2,
+        "itemNum": 28990000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 568000
+    },
+    "cinema": [
+      6002,
+      7002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 280
+    },
+    "storysearchdollar": 2918400,
+    "level_multiple": 200,
+    "level_con": 231400,
+    "theater_level_con": 68,
+    "good": 50730522,
+    "big_sell": 94509620,
+    "great_sell": 198648860,
+    "myth_sell": 343260214,
+    "marvel_sell": 440221385,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 342000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 56
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 116
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 116
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 116
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1016
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "城镇7档"
+  },
+  "2008": {
+    "id": 2008,
+    "zh_cn_name": "城镇8档",
+    "pic": 4002,
+    "upgrade_req": 504,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 35
+      },
+      {
+        "itemId": 2,
+        "itemNum": 29870000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 600000
+    },
+    "cinema": [
+      6003,
+      7003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 285
+    },
+    "storysearchdollar": 3161600,
+    "level_multiple": 200,
+    "level_con": 325020,
+    "theater_level_con": 66,
+    "good": 69508063,
+    "big_sell": 129592902,
+    "great_sell": 272583043,
+    "myth_sell": 471202165,
+    "marvel_sell": 604393688,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 359000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 60
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 117
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 117
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 117
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1017
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "城镇8档"
+  },
+  "2009": {
+    "id": 2009,
+    "zh_cn_name": "城镇9档",
+    "pic": 4002,
+    "upgrade_req": 574,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 30
+      },
+      {
+        "itemId": 2,
+        "itemNum": 32790000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 675000
+    },
+    "cinema": [
+      6004,
+      7004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 290
+    },
+    "storysearchdollar": 3404800,
+    "level_multiple": 200,
+    "level_con": 387200,
+    "theater_level_con": 64,
+    "good": 80866746,
+    "big_sell": 150885498,
+    "great_sell": 317588766,
+    "myth_sell": 549212282,
+    "marvel_sell": 704557019,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 402000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 64
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 118
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 118
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 118
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1018
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "城镇9档"
+  },
+  "2010": {
+    "id": 2010,
+    "zh_cn_name": "城镇10档",
+    "pic": 4002,
+    "upgrade_req": 651,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 45
+      },
+      {
+        "itemId": 2,
+        "itemNum": 33730000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 713000
+    },
+    "cinema": [
+      6005,
+      7005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 295
+    },
+    "storysearchdollar": 3648000,
+    "level_multiple": 200,
+    "level_con": 440120,
+    "theater_level_con": 62,
+    "good": 89862653,
+    "big_sell": 167795638,
+    "great_sell": 353419921,
+    "myth_sell": 611404446,
+    "marvel_sell": 784451562,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 422000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 68
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 119
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 119
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 119
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1019
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "城镇10档"
+  },
+  "3001": {
+    "id": 3001,
+    "zh_cn_name": "州省1档",
+    "pic": 4003,
+    "upgrade_req": 735,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 40
+      },
+      {
+        "itemId": 2,
+        "itemNum": 36830000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 799000
+    },
+    "cinema": [
+      8001,
+      9001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 300
+    },
+    "storysearchdollar": 3891200,
+    "level_multiple": 200,
+    "level_con": 555080,
+    "theater_level_con": 60,
+    "good": 110908674,
+    "big_sell": 207244755,
+    "great_sell": 436796961,
+    "myth_sell": 755919537,
+    "marvel_sell": 970003218,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 470000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 73
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 120
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 120
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 120
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1020
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省1档"
+  },
+  "3002": {
+    "id": 3002,
+    "zh_cn_name": "州省2档",
+    "pic": 4003,
+    "upgrade_req": 826,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 35
+      },
+      {
+        "itemId": 2,
+        "itemNum": 37830000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 843000
+    },
+    "cinema": [
+      8002,
+      9002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 305
+    },
+    "storysearchdollar": 4134400,
+    "level_multiple": 200,
+    "level_con": 771800,
+    "theater_level_con": 58,
+    "good": 151045574,
+    "big_sell": 282446069,
+    "great_sell": 595676598,
+    "myth_sell": 1031242928,
+    "marvel_sell": 1323479255,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 493000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 78
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 121
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 121
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 121
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1021
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省2档"
+  },
+  "3003": {
+    "id": 3003,
+    "zh_cn_name": "州省3档",
+    "pic": 4003,
+    "upgrade_req": 925,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 50
+      },
+      {
+        "itemId": 2,
+        "itemNum": 41110000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 941000
+    },
+    "cinema": [
+      8003,
+      9003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 310
+    },
+    "storysearchdollar": 4377600,
+    "level_multiple": 200,
+    "level_con": 1133950,
+    "theater_level_con": 56,
+    "good": 217553309,
+    "big_sell": 407095120,
+    "great_sell": 859099190,
+    "myth_sell": 1487799710,
+    "marvel_sell": 1909667350,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 547000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 83
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 122
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 122
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 122
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1022
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省3档"
+  },
+  "3004": {
+    "id": 3004,
+    "zh_cn_name": "州省4档",
+    "pic": 4003,
+    "upgrade_req": 1032,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 45
+      },
+      {
+        "itemId": 2,
+        "itemNum": 42160000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 991000
+    },
+    "cinema": [
+      8004,
+      9004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 315
+    },
+    "storysearchdollar": 4620800,
+    "level_multiple": 200,
+    "level_con": 1364870,
+    "theater_level_con": 54,
+    "good": 256905520,
+    "big_sell": 481060495,
+    "great_sell": 1015811683,
+    "myth_sell": 1759792473,
+    "marvel_sell": 2259073710,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 573000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 88
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 123
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 123
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 123
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1023
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省4档"
+  },
+  "3005": {
+    "id": 3005,
+    "zh_cn_name": "州省5档",
+    "pic": 4003,
+    "upgrade_req": 1147,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 40
+      },
+      {
+        "itemId": 2,
+        "itemNum": 45620000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 1103000
+    },
+    "cinema": [
+      8005,
+      9005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 320
+    },
+    "storysearchdollar": 4864000,
+    "level_multiple": 200,
+    "level_con": 1555350,
+    "theater_level_con": 52,
+    "good": 287440075,
+    "big_sell": 538596117,
+    "great_sell": 1137985545,
+    "myth_sell": 1972098395,
+    "marvel_sell": 2531931030,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 634000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 93
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 124
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 124
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 124
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1024
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省5档"
+  },
+  "3006": {
+    "id": 3006,
+    "zh_cn_name": "州省6档",
+    "pic": 4003,
+    "upgrade_req": 1271,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 55
+      },
+      {
+        "itemId": 2,
+        "itemNum": 46730000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 1162000
+    },
+    "cinema": [
+      10001,
+      11001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 325
+    },
+    "storysearchdollar": 5107200,
+    "level_multiple": 200,
+    "level_con": 1759010,
+    "theater_level_con": 50,
+    "good": 316082601,
+    "big_sell": 592265576,
+    "great_sell": 1251382324,
+    "myth_sell": 2168611989,
+    "marvel_sell": 2784230224,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 664000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 98
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 125
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 125
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 125
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1025
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省6档"
+  },
+  "3007": {
+    "id": 3007,
+    "zh_cn_name": "州省7档",
+    "pic": 4003,
+    "upgrade_req": 1404,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 50
+      },
+      {
+        "itemId": 2,
+        "itemNum": 50360000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 1288000
+    },
+    "cinema": [
+      10002,
+      11002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 330
+    },
+    "storysearchdollar": 5350400,
+    "level_multiple": 200,
+    "level_con": 2194310,
+    "theater_level_con": 49,
+    "good": 383684014,
+    "big_sell": 718934963,
+    "great_sell": 1519018737,
+    "myth_sell": 2632418698,
+    "marvel_sell": 3379700830,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 732000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 103
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 126
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 126
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 126
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1026
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省7档"
+  },
+  "3008": {
+    "id": 3008,
+    "zh_cn_name": "州省8档",
+    "pic": 4003,
+    "upgrade_req": 1546,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 45
+      },
+      {
+        "itemId": 2,
+        "itemNum": 51530000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 1358000
+    },
+    "cinema": [
+      10003,
+      11003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 335
+    },
+    "storysearchdollar": 5593600,
+    "level_multiple": 200,
+    "level_con": 2923750,
+    "theater_level_con": 48,
+    "good": 497822026,
+    "big_sell": 932803161,
+    "great_sell": 1970895219,
+    "myth_sell": 3415508512,
+    "marvel_sell": 4385091530,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 767000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 108
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 127
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 127
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 127
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1027
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省8档"
+  },
+  "3009": {
+    "id": 3009,
+    "zh_cn_name": "州省9档",
+    "pic": 4003,
+    "upgrade_req": 1698,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 60
+      },
+      {
+        "itemId": 2,
+        "itemNum": 55340000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 1502000
+    },
+    "cinema": [
+      10004,
+      11004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 340
+    },
+    "storysearchdollar": 5836800,
+    "level_multiple": 200,
+    "level_con": 3410350,
+    "theater_level_con": 47,
+    "good": 565835711,
+    "big_sell": 1060245048,
+    "great_sell": 2240163821,
+    "myth_sell": 3882143770,
+    "marvel_sell": 4984193630,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 844000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 113
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 128
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 128
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 128
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1028
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省9档"
+  },
+  "3010": {
+    "id": 3010,
+    "zh_cn_name": "州省10档",
+    "pic": 4003,
+    "upgrade_req": 1860,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 55
+      },
+      {
+        "itemId": 2,
+        "itemNum": 56570000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 1582000
+    },
+    "cinema": [
+      10005,
+      11005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 345
+    },
+    "storysearchdollar": 6080000,
+    "level_multiple": 200,
+    "level_con": 3829490,
+    "theater_level_con": 46,
+    "good": 619546820,
+    "big_sell": 1160887219,
+    "great_sell": 2452808013,
+    "myth_sell": 4250650455,
+    "marvel_sell": 5457310734,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 884000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 118
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 129
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 129
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 129
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1029
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "州省10档"
+  },
+  "4001": {
+    "id": 4001,
+    "zh_cn_name": "全国1档",
+    "pic": 4004,
+    "upgrade_req": 2032,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 50
+      },
+      {
+        "itemId": 2,
+        "itemNum": 60550000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 1746000
+    },
+    "cinema": [
+      12001,
+      13001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 350
+    },
+    "storysearchdollar": 6323200,
+    "level_multiple": 200,
+    "level_con": 4493270,
+    "theater_level_con": 45,
+    "good": 709261839,
+    "big_sell": 1328992387,
+    "great_sell": 2807992987,
+    "myth_sell": 4866176470,
+    "marvel_sell": 6247570208,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 970000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 124
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 130
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 130
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 130
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1030
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国1档"
+  },
+  "4002": {
+    "id": 4002,
+    "zh_cn_name": "全国2档",
+    "pic": 4004,
+    "upgrade_req": 2215,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 65
+      },
+      {
+        "itemId": 2,
+        "itemNum": 61840000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 1841000
+    },
+    "cinema": [
+      12002,
+      13002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 355
+    },
+    "storysearchdollar": 6566400,
+    "level_multiple": 200,
+    "level_con": 5874940,
+    "theater_level_con": 44,
+    "good": 905348013,
+    "big_sell": 1696412456,
+    "great_sell": 3584305155,
+    "myth_sell": 6211504635,
+    "marvel_sell": 7974805572,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1017000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 130
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 131
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 131
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 131
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1031
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国2档"
+  },
+  "4003": {
+    "id": 4003,
+    "zh_cn_name": "全国3档",
+    "pic": 4004,
+    "upgrade_req": 2409,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 60
+      },
+      {
+        "itemId": 2,
+        "itemNum": 66000000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 2029000
+    },
+    "cinema": [
+      12003,
+      13003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 360
+    },
+    "storysearchdollar": 6809600,
+    "level_multiple": 200,
+    "level_con": 7711500,
+    "theater_level_con": 43,
+    "good": 1160815694,
+    "big_sell": 2175099718,
+    "great_sell": 4595710856,
+    "myth_sell": 7964243550,
+    "marvel_sell": 10225106100,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1115000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 136
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 132
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 132
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 132
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1032
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国3档"
+  },
+  "4004": {
+    "id": 4004,
+    "zh_cn_name": "全国4档",
+    "pic": 4004,
+    "upgrade_req": 2614,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 55
+      },
+      {
+        "itemId": 2,
+        "itemNum": 67340000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 2139000
+    },
+    "cinema": [
+      12004,
+      13004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 365
+    },
+    "storysearchdollar": 7052800,
+    "level_multiple": 200,
+    "level_con": 9212250,
+    "theater_level_con": 42,
+    "good": 1355303758,
+    "big_sell": 2539525296,
+    "great_sell": 5365696057,
+    "myth_sell": 9298607233,
+    "marvel_sell": 11938264437,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1169000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 142
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 133
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 133
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 133
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1033
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国4档"
+  },
+  "4005": {
+    "id": 4005,
+    "zh_cn_name": "全国5档",
+    "pic": 4004,
+    "upgrade_req": 2831,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 70
+      },
+      {
+        "itemId": 2,
+        "itemNum": 71680000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 2355000
+    },
+    "cinema": [
+      12005,
+      13005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 370
+    },
+    "storysearchdollar": 7296000,
+    "level_multiple": 200,
+    "level_con": 10372780,
+    "theater_level_con": 41,
+    "good": 1492227580,
+    "big_sell": 2796088821,
+    "great_sell": 5907782365,
+    "myth_sell": 10238028266,
+    "marvel_sell": 13144365146,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1280000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 148
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 134
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 134
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 134
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1034
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国5档"
+  },
+  "4006": {
+    "id": 4006,
+    "zh_cn_name": "全国6档",
+    "pic": 4004,
+    "upgrade_req": 3060,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 65
+      },
+      {
+        "itemId": 2,
+        "itemNum": 73080000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 2486000
+    },
+    "cinema": [
+      14001,
+      15001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 375
+    },
+    "storysearchdollar": 7539200,
+    "level_multiple": 200,
+    "level_con": 12658120,
+    "theater_level_con": 40,
+    "good": 1781524569,
+    "big_sell": 3338164365,
+    "great_sell": 7053119488,
+    "myth_sell": 12222866755,
+    "marvel_sell": 15692652875,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1344000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 154
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 135
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 135
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 135
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1035
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国6档"
+  },
+  "4007": {
+    "id": 4007,
+    "zh_cn_name": "全国7档",
+    "pic": 4004,
+    "upgrade_req": 3301,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 60
+      },
+      {
+        "itemId": 2,
+        "itemNum": 77590000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 2734000
+    },
+    "cinema": [
+      14002,
+      15002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 380
+    },
+    "storysearchdollar": 7782400,
+    "level_multiple": 200,
+    "level_con": 16989160,
+    "theater_level_con": 39,
+    "good": 2340350005,
+    "big_sell": 4385273783,
+    "great_sell": 9265529373,
+    "myth_sell": 16056913707,
+    "marvel_sell": 20615096103,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1470000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 160
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 136
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 136
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 136
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1036
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国7档"
+  },
+  "4008": {
+    "id": 4008,
+    "zh_cn_name": "全国8档",
+    "pic": 4004,
+    "upgrade_req": 3555,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 75
+      },
+      {
+        "itemId": 2,
+        "itemNum": 79050000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 2887000
+    },
+    "cinema": [
+      14003,
+      15003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 385
+    },
+    "storysearchdollar": 8025600,
+    "level_multiple": 200,
+    "level_con": 24244880,
+    "theater_level_con": 38,
+    "good": 3270477217,
+    "big_sell": 6128116719,
+    "great_sell": 12947936276,
+    "myth_sell": 22438426018,
+    "marvel_sell": 28808170573,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1544000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 166
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 137
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 137
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 137
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1037
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国8档"
+  },
+  "4009": {
+    "id": 4009,
+    "zh_cn_name": "全国9档",
+    "pic": 4004,
+    "upgrade_req": 3822,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 70
+      },
+      {
+        "itemId": 2,
+        "itemNum": 83740000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 3173000
+    },
+    "cinema": [
+      14004,
+      15004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 390
+    },
+    "storysearchdollar": 8268800,
+    "level_multiple": 200,
+    "level_con": 28884990,
+    "theater_level_con": 37,
+    "good": 3817095404,
+    "big_sell": 7152352579,
+    "great_sell": 15112017216,
+    "myth_sell": 26188720205,
+    "marvel_sell": 33623085606,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1688000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 172
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 138
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 138
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 138
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1038
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国9档"
+  },
+  "4010": {
+    "id": 4010,
+    "zh_cn_name": "全国10档",
+    "pic": 4004,
+    "upgrade_req": 4102,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 65
+      },
+      {
+        "itemId": 2,
+        "itemNum": 85260000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 3357000
+    },
+    "cinema": [
+      14005,
+      15005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 395
+    },
+    "storysearchdollar": 8512000,
+    "level_multiple": 200,
+    "level_con": 32750340,
+    "theater_level_con": 36,
+    "good": 4241565204,
+    "big_sell": 7947710657,
+    "great_sell": 16792508333,
+    "myth_sell": 29100966205,
+    "marvel_sell": 37362050155,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1776000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 178
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 139
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 139
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 139
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1039
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "全国10档"
+  },
+  "5001": {
+    "id": 5001,
+    "zh_cn_name": "世界1档",
+    "pic": 4005,
+    "upgrade_req": 4396,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 80
+      },
+      {
+        "itemId": 2,
+        "itemNum": 90120000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 3690000
+    },
+    "cinema": [
+      16001,
+      17001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 400
+    },
+    "storysearchdollar": 8755200,
+    "level_multiple": 200,
+    "level_con": 41054320,
+    "theater_level_con": 35,
+    "good": 5213046771,
+    "big_sell": 9768042074,
+    "great_sell": 20638638596,
+    "myth_sell": 35766206716,
+    "marvel_sell": 45919396624,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1942000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 185
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 140
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 140
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 140
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1040
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界1档"
+  },
+  "5002": {
+    "id": 5002,
+    "zh_cn_name": "世界2档",
+    "pic": 4005,
+    "upgrade_req": 4704,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 75
+      },
+      {
+        "itemId": 2,
+        "itemNum": 91700000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 3910000
+    },
+    "cinema": [
+      16002,
+      17002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 405
+    },
+    "storysearchdollar": 8998400,
+    "level_multiple": 200,
+    "level_con": 56804550,
+    "theater_level_con": 34,
+    "good": 7074640505,
+    "big_sell": 13256237502,
+    "great_sell": 28008754776,
+    "myth_sell": 48538420219,
+    "marvel_sell": 62317342934,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 2047000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 192
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 141
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 141
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 141
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1041
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界2档"
+  },
+  "5003": {
+    "id": 5003,
+    "zh_cn_name": "世界3档",
+    "pic": 4005,
+    "upgrade_req": 5026,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 70
+      },
+      {
+        "itemId": 2,
+        "itemNum": 96740000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 4299000
+    },
+    "cinema": [
+      16003,
+      17003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 410
+    },
+    "storysearchdollar": 9241600,
+    "level_multiple": 200,
+    "level_con": 79724640,
+    "theater_level_con": 33,
+    "good": 9742314818,
+    "big_sell": 18254841209,
+    "great_sell": 38570172789,
+    "myth_sell": 66841074133,
+    "marvel_sell": 85815692392,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 2239000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 199
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 142
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 142
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 142
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1042
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界3档"
+  },
+  "5004": {
+    "id": 5004,
+    "zh_cn_name": "世界4档",
+    "pic": 4005,
+    "upgrade_req": 5363,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 85
+      },
+      {
+        "itemId": 2,
+        "itemNum": 98380000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 4564000
+    },
+    "cinema": [
+      16004,
+      17004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 415
+    },
+    "storysearchdollar": 9484800,
+    "level_multiple": 200,
+    "level_con": 97861630,
+    "theater_level_con": 32,
+    "good": 11737734130,
+    "big_sell": 21993794772,
+    "great_sell": 46470109194,
+    "myth_sell": 80531451890,
+    "marvel_sell": 103392448318,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 2365000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 206
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 143
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 143
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 143
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1043
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界4档"
+  },
+  "5005": {
+    "id": 5005,
+    "zh_cn_name": "世界5档",
+    "pic": 4005,
+    "upgrade_req": 5715,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 80
+      },
+      {
+        "itemId": 2,
+        "itemNum": 103590000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 5025000
+    },
+    "cinema": [
+      16005,
+      17005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 420
+    },
+    "storysearchdollar": 9728000,
+    "level_multiple": 200,
+    "level_con": 112939750,
+    "theater_level_con": 31,
+    "good": 13300534522,
+    "big_sell": 24922120692,
+    "great_sell": 52657291844,
+    "myth_sell": 91253673344,
+    "marvel_sell": 117158457783,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 2590000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 213
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 144
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 144
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 144
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1044
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界5档"
+  },
+  "5006": {
+    "id": 5006,
+    "zh_cn_name": "世界6档",
+    "pic": 4005,
+    "upgrade_req": 6082,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 75
+      },
+      {
+        "itemId": 2,
+        "itemNum": 105290000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 5347000
+    },
+    "cinema": [
+      18001,
+      19001
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 425
+    },
+    "storysearchdollar": 9971200,
+    "level_multiple": 200,
+    "level_con": 144739260,
+    "theater_level_con": 30,
+    "good": 16741793758,
+    "big_sell": 31370243345,
+    "great_sell": 66281360218,
+    "myth_sell": 114863818124,
+    "marvel_sell": 147470970685,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 2742000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 220
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 145
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 145
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 145
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1045
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界6档"
+  },
+  "5007": {
+    "id": 5007,
+    "zh_cn_name": "世界7档",
+    "pic": 4005,
+    "upgrade_req": 6465,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 90
+      },
+      {
+        "itemId": 2,
+        "itemNum": 110680000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 5894000
+    },
+    "cinema": [
+      18002,
+      19002
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 430
+    },
+    "storysearchdollar": 10214400,
+    "level_multiple": 200,
+    "level_con": 204957300,
+    "theater_level_con": 29,
+    "good": 23292186221,
+    "big_sell": 43644161454,
+    "great_sell": 92214598247,
+    "myth_sell": 159805423541,
+    "marvel_sell": 205170447164,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 3007000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 227
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 146
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 146
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 146
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1046
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界7档"
+  },
+  "5008": {
+    "id": 5008,
+    "zh_cn_name": "世界8档",
+    "pic": 4005,
+    "upgrade_req": 6864,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5001,
+        "itemNum": 85
+      },
+      {
+        "itemId": 2,
+        "itemNum": 112430000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 6292000
+    },
+    "cinema": [
+      18003,
+      19003
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 435
+    },
+    "storysearchdollar": 10457600,
+    "level_multiple": 200,
+    "level_con": 304848750,
+    "theater_level_con": 28,
+    "good": 34048310440,
+    "big_sell": 63798646636,
+    "great_sell": 134798478695,
+    "myth_sell": 233602145309,
+    "marvel_sell": 299916332949,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 3194000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 234
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 147
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 147
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 147
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1047
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界8档"
+  },
+  "5009": {
+    "id": 5009,
+    "zh_cn_name": "世界9档",
+    "pic": 4005,
+    "upgrade_req": 7279,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5003,
+        "itemNum": 80
+      },
+      {
+        "itemId": 2,
+        "itemNum": 117990000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 6952000
+    },
+    "cinema": [
+      18004,
+      19004
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 440
+    },
+    "storysearchdollar": 10700800,
+    "level_multiple": 200,
+    "level_con": 365637670,
+    "theater_level_con": 27,
+    "good": 40147166038,
+    "big_sell": 75226489253,
+    "great_sell": 158944066117,
+    "myth_sell": 275445800197,
+    "marvel_sell": 353638423194,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 3511000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 241
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 148
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 148
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 148
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1048
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界9档"
+  },
+  "5010": {
+    "id": 5010,
+    "zh_cn_name": "世界10档",
+    "pic": 4005,
+    "upgrade_req": 7711,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 7071,
+        "itemNum": 7
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 95
+      },
+      {
+        "itemId": 2,
+        "itemNum": 119810000
+      }
+    ],
+    "daily_reward": {
+      "itemId": 3,
+      "itemNum": 7451000
+    },
+    "cinema": [
+      18005,
+      19005
+    ],
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 445
+    },
+    "storysearchdollar": 10944000,
+    "level_multiple": 200,
+    "level_con": 413967420,
+    "theater_level_con": 26,
+    "good": 44697903810,
+    "big_sell": 83753517678,
+    "great_sell": 176960599679,
+    "myth_sell": 306667969277,
+    "marvel_sell": 393723836122,
+    "zh_cn_current_msg": [
+      "每日可领取启动资金{0}美元",
+      "每拍摄一部奖励{1}金币和{2}本宣传册（奥斯卡颁奖后领取）"
+    ],
+    "zh_cn_next_msg": [
+      "每天可领取启动资金+{0}美元",
+      "每拍摄一部电影奖励+{1}金币、+{2}本宣传册"
+    ],
+    "movie_daily_reward": [
+      {
+        "itemId": 2,
+        "itemNum": 3744000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 248
+      }
+    ],
+    "task_cd": 7200,
+    "city_gold": 50,
+    "city_fans": 25,
+    "party_guest": 2,
+    "shoot_story": 4,
+    "city_envoy_max": 1,
+    "finance_exchange": 20,
+    "actor_max": 3,
+    "certificate": 1,
+    "sequel_max": 6,
+    "screenwriter_max": 1,
+    "box_target1": 1000,
+    "box_target1_reward": {
+      "itemId": 6,
+      "itemNum": 149
+    },
+    "box_target2": 1000,
+    "box_target2_reward": {
+      "itemId": 6,
+      "itemNum": 149
+    },
+    "box_target3": 1000,
+    "box_target3_reward": {
+      "itemId": 6,
+      "itemNum": 149
+    },
+    "box_target_all": 3000,
+    "box_target_all_reward": {
+      "itemId": 1,
+      "itemNum": 1049
+    },
+    "new_effect": false,
+    "zh_cn_name_tips": "世界10档"
+  }
+}

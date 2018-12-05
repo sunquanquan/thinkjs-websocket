@@ -1,0 +1,4 @@
+exports.chatData = {}
+exports.chatHistoryMsg = {
+    
+}

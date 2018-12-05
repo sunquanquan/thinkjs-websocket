@@ -1,0 +1,282 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "zh_cn_from": "商务合伙人",
+    "zh_cn_name": "上映电影提成",
+    "zh_cn_description": "本期的票房提成因贵公司的公司等级达到{level}，有了少许增加。",
+    "icon": 7301,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 3
+  },
+  "1002": {
+    "id": 1002,
+    "zh_cn_from": "展会承办人",
+    "zh_cn_name": "商业赞助",
+    "zh_cn_description": "由于公司的公司等级超过{level}，由合作伙伴手里得到如下赞助。",
+    "icon": 7302,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 4
+  },
+  "1003": {
+    "id": 1003,
+    "zh_cn_from": "借款人",
+    "zh_cn_name": "偿还借款",
+    "zh_cn_description": "因贵公司粉丝数达到{fans}，我们决定优先偿还贵公司的欠款",
+    "icon": 7303,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 5
+  },
+  "1004": {
+    "id": 1004,
+    "zh_cn_from": "学校校长",
+    "zh_cn_name": "学生参观",
+    "zh_cn_description": "我校认为实地参观公司等级达到{level}的公司能激发学生的动力，希望能允许我校学生前往观摩",
+    "icon": 7304,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 6
+  },
+  "1005": {
+    "id": 1005,
+    "zh_cn_from": "粉丝会会长",
+    "zh_cn_name": "粉丝支持",
+    "zh_cn_description": "我们是公司的粉丝，特地前来支持",
+    "icon": 7305,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 7
+  },
+  "1006": {
+    "id": 1006,
+    "zh_cn_from": "电影协会",
+    "zh_cn_name": "协会奖励",
+    "zh_cn_description": "因为贵公司等级达到{level}，可以领取以下行业奖励",
+    "icon": 7306,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 3
+  },
+  "1007": {
+    "id": 1007,
+    "zh_cn_from": "合作伙伴",
+    "zh_cn_name": "商业分成",
+    "zh_cn_description": "与贵公司合作一直非常愉快，特地送上一些礼物",
+    "icon": 7307,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 4
+  },
+  "1008": {
+    "id": 1008,
+    "zh_cn_from": "电影协会",
+    "zh_cn_name": "鼓励奖",
+    "zh_cn_description": "贵公司最近表现优异，希望可以再接再厉",
+    "icon": 7308,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 5
+  },
+  "1009": {
+    "id": 1009,
+    "zh_cn_from": "周边店店主",
+    "zh_cn_name": "意外发现",
+    "zh_cn_description": "最近清理店铺发现一些东西，你们应该会喜欢",
+    "icon": 7309,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 6
+  },
+  "1010": {
+    "id": 1010,
+    "zh_cn_from": "商务合伙人",
+    "zh_cn_name": "生意利润",
+    "zh_cn_description": "最近谈成一笔小生意，这些礼物希望喜欢",
+    "icon": 7310,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 7
+  },
+  "1011": {
+    "id": 1011,
+    "zh_cn_from": "借款人",
+    "zh_cn_name": "偿还借款",
+    "zh_cn_description": "因贵公司等级达到{level}，我们决定优先偿还贵公司的欠款",
+    "icon": 7311,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 1
+      }
+    ],
+    "expect": 4
+  },
+  "1012": {
+    "id": 1012,
+    "zh_cn_from": "借款人",
+    "zh_cn_name": "偿还借款",
+    "zh_cn_description": "最近经济比较宽裕，可以先偿还部分欠款",
+    "icon": 7312,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 1
+      }
+    ],
+    "expect": 5
+  },
+  "1013": {
+    "id": 1013,
+    "zh_cn_from": "学校校长",
+    "zh_cn_name": "学生参观",
+    "zh_cn_description": "我校认为实地参观粉丝数达到{fans}的公司能激发学生的动力，希望能允许我校学生前往观摩",
+    "icon": 7313,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 1
+      }
+    ],
+    "expect": 6
+  },
+  "1014": {
+    "id": 1014,
+    "zh_cn_from": "粉丝会会长",
+    "zh_cn_name": "粉丝支持",
+    "zh_cn_description": "最近我们又多了很多粉丝，这是他们表示的支持",
+    "icon": 7314,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 1
+      }
+    ],
+    "expect": 7
+  },
+  "1015": {
+    "id": 1015,
+    "zh_cn_from": "电影协会",
+    "zh_cn_name": "粉丝奖励",
+    "zh_cn_description": "因为贵公司粉丝达到{fans}，可以领取以下行业奖励",
+    "icon": 7301,
+    "reward": [
+      {
+        "itemId": 6,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5
+  },
+  "1016": {
+    "id": 1016,
+    "zh_cn_from": "电影协会",
+    "zh_cn_name": "政府奖励",
+    "zh_cn_description": "最近政府鼓励电影拍摄，这是赠送的礼物",
+    "icon": 7302,
+    "reward": [
+      {
+        "itemId": 6,
+        "itemNum": 38
+      }
+    ],
+    "expect": 6
+  },
+  "1017": {
+    "id": 1017,
+    "zh_cn_from": "神秘赞助人",
+    "zh_cn_name": "神秘赞助",
+    "zh_cn_description": "我们收到一笔神秘赞助，目前还不知道对方是谁",
+    "icon": 7308,
+    "reward": [
+      {
+        "itemId": 6,
+        "itemNum": 40
+      }
+    ],
+    "expect": 7
+  },
+  "1018": {
+    "id": 1018,
+    "zh_cn_from": "商务合伙人",
+    "zh_cn_name": "上映电影提成",
+    "zh_cn_description": "本期的票房提成因贵公司的粉丝达到{fans}，有了少许增加。",
+    "icon": 7309,
+    "reward": [
+      {
+        "itemId": 6,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5
+  },
+  "1019": {
+    "id": 1019,
+    "zh_cn_from": "商务合伙人",
+    "zh_cn_name": "新的合作机会",
+    "zh_cn_description": "最近接到一个新的合作机会，这是对方预付的诚意金",
+    "icon": 7304,
+    "reward": [
+      {
+        "itemId": 6,
+        "itemNum": 50
+      }
+    ],
+    "expect": 6
+  },
+  "1020": {
+    "id": 1020,
+    "zh_cn_from": "商务合伙人",
+    "zh_cn_name": "打压对手",
+    "zh_cn_description": "在上次打压对手的行动中，我们收获了这些东西",
+    "icon": 7305,
+    "reward": [
+      {
+        "itemId": 6,
+        "itemNum": 55
+      }
+    ],
+    "expect": 7
+  }
+}

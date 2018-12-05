@@ -1,0 +1,238 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "zh_cn_name": "60钻石",
+    "product_name": "Lv1 diamonds pack",
+    "product_id": "movieinc.diamonds.lv1",
+    "cost_dollar": 0.990000009536743,
+    "item": {
+      "itemId": 1,
+      "itemNum": 60
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 3
+      }
+    ],
+    "double": 1,
+    "go": 0,
+    "term": 0,
+    "is_show": true,
+    "limit": {
+      "itemId": 0,
+      "itemNum": 0
+    }
+  },
+  "1002": {
+    "id": 1002,
+    "zh_cn_name": "300钻石",
+    "product_name": "Lv2 diamonds pack",
+    "product_id": "movieinc.diamonds.lv2",
+    "cost_dollar": 4.98999977111816,
+    "item": {
+      "itemId": 1,
+      "itemNum": 300
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      }
+    ],
+    "double": 1,
+    "go": 0,
+    "term": 0,
+    "is_show": true,
+    "limit": {
+      "itemId": 0,
+      "itemNum": 0
+    }
+  },
+  "1003": {
+    "id": 1003,
+    "zh_cn_name": "680钻石",
+    "product_name": "Lv3 diamonds pack",
+    "product_id": "movieinc.diamonds.lv3",
+    "cost_dollar": 9.98999977111816,
+    "item": {
+      "itemId": 1,
+      "itemNum": 680
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 70
+      }
+    ],
+    "double": 1,
+    "go": 0,
+    "term": 0,
+    "is_show": true,
+    "limit": {
+      "itemId": 0,
+      "itemNum": 0
+    }
+  },
+  "1004": {
+    "id": 1004,
+    "zh_cn_name": "980钻石",
+    "product_name": "Lv4 diamonds pack",
+    "product_id": "movieinc.diamonds.lv4",
+    "cost_dollar": 14.9899997711182,
+    "item": {
+      "itemId": 1,
+      "itemNum": 980
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 110
+      }
+    ],
+    "double": 1,
+    "go": 0,
+    "term": 0,
+    "is_show": true,
+    "limit": {
+      "itemId": 0,
+      "itemNum": 0
+    }
+  },
+  "1005": {
+    "id": 1005,
+    "zh_cn_name": "1280钻石",
+    "product_name": "Lv5 diamonds pack",
+    "product_id": "movieinc.diamonds.lv5",
+    "cost_dollar": 18.9899997711182,
+    "item": {
+      "itemId": 1,
+      "itemNum": 1280
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 150
+      }
+    ],
+    "double": 1,
+    "go": 0,
+    "term": 0,
+    "is_show": true,
+    "limit": {
+      "itemId": 0,
+      "itemNum": 0
+    }
+  },
+  "1006": {
+    "id": 1006,
+    "zh_cn_name": "2580钻石",
+    "product_name": "Lv6 diamonds pack",
+    "product_id": "movieinc.diamonds.lv6",
+    "cost_dollar": 37.9900016784668,
+    "item": {
+      "itemId": 1,
+      "itemNum": 2580
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 310
+      }
+    ],
+    "double": 1,
+    "go": 0,
+    "term": 0,
+    "is_show": true,
+    "limit": {
+      "itemId": 0,
+      "itemNum": 0
+    }
+  },
+  "1007": {
+    "id": 1007,
+    "zh_cn_name": "6480钻石",
+    "product_name": "Lv7 diamonds pack",
+    "product_id": "movieinc.diamonds.lv7",
+    "cost_dollar": 94.9899978637695,
+    "item": {
+      "itemId": 1,
+      "itemNum": 6480
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 800
+      }
+    ],
+    "double": 1,
+    "go": 0,
+    "term": 0,
+    "is_show": true,
+    "limit": {
+      "itemId": 0,
+      "itemNum": 0
+    }
+  },
+  "1008": {
+    "id": 1008,
+    "zh_cn_name": "终身秘书",
+    "product_name": "Lifetime Secretary",
+    "product_id": "movieinc.value.secretary01",
+    "cost_dollar": 4.98999977111816,
+    "item": {
+      "itemId": 9,
+      "itemNum": 1
+    },
+    "gift": [
+      {
+        "itemId": 0
+      }
+    ],
+    "double": 0,
+    "go": 0,
+    "term": 0,
+    "is_show": false,
+    "limit": {
+      "itemId": 3,
+      "itemNum": 1
+    }
+  },
+  "1009": {
+    "id": 1009,
+    "zh_cn_name": "秘书每日礼包",
+    "product_name": "Secretary Daily Pack",
+    "product_id": "movieinc.value.secretary2",
+    "cost_dollar": 0.990000009536743,
+    "item": {
+      "itemId": 1,
+      "itemNum": 10
+    },
+    "gift": [
+      {
+        "itemId": 9001,
+        "itemNum": 10
+      },
+      {
+        "itemId": 9002,
+        "itemNum": 10
+      },
+      {
+        "itemId": 9003,
+        "itemNum": 10
+      },
+      {
+        "itemId": 9004,
+        "itemNum": 10
+      }
+    ],
+    "double": 0,
+    "go": 0,
+    "term": 0,
+    "is_show": false,
+    "limit": {
+      "itemId": 1,
+      "itemNum": 1
+    }
+  }
+}

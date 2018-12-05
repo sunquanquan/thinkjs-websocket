@@ -1,0 +1,36 @@
+{
+   "domain": "messages",
+   "locale_data": {
+      "messages": {
+         "": {
+            "domain": "messages",
+            "plural_forms": "nplurals=2; plural=(n != 1);",
+            "lang": "en"
+         },
+         "ERROR_OK": [
+            null,
+            "OK"
+         ],
+         "ERROR_BAD_REQUEST": [
+            null,
+            "Bad Request"
+         ],
+         "ERROR_UNAUTHORIZED": [
+            null,
+            "Unauthorized"
+         ],
+         "ERROR_FORBIDDEN": [
+            null,
+            "Forbidden"
+         ],
+         "ERROR_METHOD_NOT_ALLOWED": [
+            null,
+            "Method not allowed"
+         ],
+         "ERROR_INTERNAL_SERVER_ERROR": [
+            null,
+            "Internal Server Error"
+         ]
+      }
+   }
+}

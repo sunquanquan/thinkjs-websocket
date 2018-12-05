@@ -1,0 +1,1132 @@
+﻿{
+  "1": {
+    "id": 1,
+    "zh_cn_name": "超级英雄",
+    "scripts": [
+      1053,
+      1068,
+      1090,
+      1091,
+      1092
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 225
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "zh_cn_name": "铁血硬汉",
+    "scripts": [
+      1003,
+      1154,
+      1155,
+      1158,
+      1159
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 225
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "zh_cn_name": "枪林弹雨",
+    "scripts": [
+      1002,
+      1006,
+      1007,
+      1008,
+      1012
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 210
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "zh_cn_name": "动人爱情",
+    "scripts": [
+      1009,
+      1030,
+      1033,
+      1041,
+      1118
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 105
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 15
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "zh_cn_name": "神神叨叨",
+    "scripts": [
+      1045,
+      1049,
+      1051,
+      1052,
+      1054
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 180
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "zh_cn_name": "太空幻想",
+    "scripts": [
+      1094,
+      1095,
+      1096,
+      1108
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 96
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 10
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "zh_cn_name": "喜笑颜开",
+    "scripts": [
+      1026,
+      1032,
+      1035
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 90
+      },
+      {
+        "itemId": 2,
+        "itemNum": 300000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 5
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "zh_cn_name": "意味深长",
+    "scripts": [
+      1034,
+      1074,
+      1077
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 54
+      },
+      {
+        "itemId": 2,
+        "itemNum": 300000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "zh_cn_name": "心惊胆战",
+    "scripts": [
+      1043,
+      1088,
+      1100,
+      1131,
+      1142
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 255
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "zh_cn_name": "奋发图强",
+    "scripts": [
+      1079,
+      1084
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 36
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "zh_cn_name": "动画天地",
+    "scripts": [
+      1060,
+      1061,
+      1064
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 108
+      },
+      {
+        "itemId": 2,
+        "itemNum": 300000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "zh_cn_name": "杀人无形",
+    "scripts": [
+      1071,
+      1148
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 36
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "zh_cn_name": "鼓舞人心",
+    "scripts": [
+      1080,
+      1082,
+      1085,
+      1086,
+      1087
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 210
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "zh_cn_name": "热血复仇",
+    "scripts": [
+      1029,
+      1063
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 36
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 5
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "zh_cn_name": "畅想未来",
+    "scripts": [
+      1097,
+      1099,
+      1106,
+      1107,
+      1125
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 270
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "zh_cn_name": "科幻故事",
+    "scripts": [
+      1098,
+      1103,
+      1104,
+      1105,
+      1109
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 240
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "zh_cn_name": "行尸走肉",
+    "scripts": [
+      1014,
+      1020,
+      1023,
+      1067
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 144
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 10
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "zh_cn_name": "怪物横行",
+    "scripts": [
+      1013,
+      1019,
+      1021,
+      1022,
+      1025
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 180
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "zh_cn_name": "魔幻世界",
+    "scripts": [
+      1046,
+      1047,
+      1056,
+      1058
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 132
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 10
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "zh_cn_name": "古代传奇",
+    "scripts": [
+      1110,
+      1112,
+      1113,
+      1115
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 168
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 10
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "zh_cn_name": "红颜薄命",
+    "scripts": [
+      1044,
+      1114
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "zh_cn_name": "悬疑惊悚",
+    "scripts": [
+      1016,
+      1018,
+      1078,
+      1130,
+      1132
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 255
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "zh_cn_name": "猫鼠游戏",
+    "scripts": [
+      1123,
+      1136,
+      1137,
+      1144
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 192
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 10
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "zh_cn_name": "谍影重重",
+    "scripts": [
+      1150,
+      1151,
+      1153,
+      1157,
+      1162
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 240
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "zh_cn_name": "荒诞讽刺",
+    "scripts": [
+      1066
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 9
+      },
+      {
+        "itemId": 2,
+        "itemNum": 100000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "zh_cn_name": "末日余生",
+    "scripts": [
+      1024,
+      1102,
+      1121,
+      1124
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 132
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 10
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "zh_cn_name": "犯罪记录",
+    "scripts": [
+      1128,
+      1139,
+      1145
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 90
+      },
+      {
+        "itemId": 2,
+        "itemNum": 300000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 5
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "zh_cn_name": "动作打斗",
+    "scripts": [
+      1089,
+      1122,
+      1138,
+      1140,
+      1161
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 150
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "zh_cn_name": "残酷战争",
+    "scripts": [
+      1001,
+      1004,
+      1005,
+      1010,
+      1011
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 285
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "zh_cn_name": "生离死别",
+    "scripts": [
+      1015
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 12
+      },
+      {
+        "itemId": 2,
+        "itemNum": 100000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "zh_cn_name": "力挽狂澜",
+    "scripts": [
+      1017,
+      1050
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 48
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "zh_cn_name": "金钱诱惑",
+    "scripts": [
+      1027,
+      1042
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 48
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 5
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "zh_cn_name": "感人故事",
+    "scripts": [
+      1038,
+      1076,
+      1081,
+      1083
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 168
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 10
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "zh_cn_name": "边缘情感",
+    "scripts": [
+      1036,
+      1039
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 42
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "zh_cn_name": "奇幻历险",
+    "scripts": [
+      1048,
+      1055,
+      1057,
+      1065,
+      1069
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 300
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "zh_cn_name": "卡通英雄",
+    "scripts": [
+      1059,
+      1072,
+      1073
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 63
+      },
+      {
+        "itemId": 2,
+        "itemNum": 300000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "zh_cn_name": "追逐梦想",
+    "scripts": [
+      1031,
+      1075
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 42
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "zh_cn_name": "古典气质",
+    "scripts": [
+      1111,
+      1116,
+      1117,
+      1120
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 168
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 10
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "zh_cn_name": "欢喜冤家",
+    "scripts": [
+      1028,
+      1037,
+      1040,
+      1119,
+      1149
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 150
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "zh_cn_name": "黑道称雄",
+    "scripts": [
+      1126,
+      1134
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 48
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "zh_cn_name": "反乌托邦",
+    "scripts": [
+      1070,
+      1093,
+      1101,
+      1129,
+      1143
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 135
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 15
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "zh_cn_name": "蛇蝎心肠",
+    "scripts": [
+      1127,
+      1133,
+      1135,
+      1141
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 120
+      },
+      {
+        "itemId": 2,
+        "itemNum": 400000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 10
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "zh_cn_name": "极限竞速",
+    "scripts": [
+      1062,
+      1146,
+      1147
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 81
+      },
+      {
+        "itemId": 2,
+        "itemNum": 300000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1601,
+        "rate": 5
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "zh_cn_name": "悬疑探案",
+    "scripts": [
+      1152,
+      1156,
+      1160
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 72
+      },
+      {
+        "itemId": 2,
+        "itemNum": 300000
+      }
+    ],
+    "addition_scene": [
+      {
+        "storyeffect": 1602,
+        "rate": 5
+      }
+    ]
+  }
+}

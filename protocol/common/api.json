@@ -1,0 +1,10 @@
+{
+    "chat": {
+        "Sheielding": {
+            "<req>": {
+                "userId": "int" // 玩家id
+            },
+            "<res>": {}
+        }
+    }
+}

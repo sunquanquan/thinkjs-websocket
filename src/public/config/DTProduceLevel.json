@@ -1,0 +1,852 @@
+﻿{
+  "1": {
+    "id": 1,
+    "line": 1,
+    "save": 10,
+    "time": 0,
+    "output_initial": 2,
+    "time_add": 0,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1000
+    },
+    "limit_grade": [
+      0,
+      0,
+      0
+    ]
+  },
+  "2": {
+    "id": 2,
+    "line": 2,
+    "save": 20,
+    "time": 60,
+    "output_initial": 4,
+    "time_add": 150,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1500
+    },
+    "limit_grade": [
+      0,
+      0,
+      0
+    ]
+  },
+  "3": {
+    "id": 3,
+    "line": 3,
+    "save": 30,
+    "time": 120,
+    "output_initial": 6,
+    "time_add": 300,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 2500
+    },
+    "limit_grade": [
+      0,
+      0,
+      0
+    ]
+  },
+  "4": {
+    "id": 4,
+    "line": 4,
+    "save": 40,
+    "time": 180,
+    "output_initial": 8,
+    "time_add": 450,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 5000
+    },
+    "limit_grade": [
+      0,
+      0,
+      0
+    ]
+  },
+  "5": {
+    "id": 5,
+    "line": 5,
+    "save": 50,
+    "time": 240,
+    "output_initial": 10,
+    "time_add": 600,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 17000
+    },
+    "limit_grade": [
+      0,
+      0,
+      0
+    ]
+  },
+  "6": {
+    "id": 6,
+    "line": 6,
+    "save": 60,
+    "time": 300,
+    "output_initial": 12,
+    "time_add": 750,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 25000
+    },
+    "limit_grade": [
+      8002,
+      14002,
+      15002
+    ]
+  },
+  "7": {
+    "id": 7,
+    "line": 7,
+    "save": 70,
+    "time": 360,
+    "output_initial": 14,
+    "time_add": 900,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 34000
+    },
+    "limit_grade": [
+      8003,
+      14003,
+      15003
+    ]
+  },
+  "8": {
+    "id": 8,
+    "line": 8,
+    "save": 80,
+    "time": 420,
+    "output_initial": 16,
+    "time_add": 1050,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 42000
+    },
+    "limit_grade": [
+      8004,
+      14004,
+      15004
+    ]
+  },
+  "9": {
+    "id": 9,
+    "line": 9,
+    "save": 90,
+    "time": 480,
+    "output_initial": 18,
+    "time_add": 1200,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 120000
+    },
+    "limit_grade": [
+      8005,
+      14005,
+      15005
+    ]
+  },
+  "10": {
+    "id": 10,
+    "line": 10,
+    "save": 100,
+    "time": 540,
+    "output_initial": 20,
+    "time_add": 1350,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 140000
+    },
+    "limit_grade": [
+      8006,
+      14006,
+      15006
+    ]
+  },
+  "11": {
+    "id": 11,
+    "line": 11,
+    "save": 110,
+    "time": 600,
+    "output_initial": 22,
+    "time_add": 1500,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 160000
+    },
+    "limit_grade": [
+      8007,
+      14007,
+      15007
+    ]
+  },
+  "12": {
+    "id": 12,
+    "line": 12,
+    "save": 120,
+    "time": 660,
+    "output_initial": 24,
+    "time_add": 1650,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 180000
+    },
+    "limit_grade": [
+      8008,
+      14008,
+      15008
+    ]
+  },
+  "13": {
+    "id": 13,
+    "line": 13,
+    "save": 130,
+    "time": 720,
+    "output_initial": 26,
+    "time_add": 1800,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 300000
+    },
+    "limit_grade": [
+      8009,
+      14009,
+      15009
+    ]
+  },
+  "14": {
+    "id": 14,
+    "line": 14,
+    "save": 140,
+    "time": 780,
+    "output_initial": 28,
+    "time_add": 1950,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 330000
+    },
+    "limit_grade": [
+      8010,
+      14010,
+      15010
+    ]
+  },
+  "15": {
+    "id": 15,
+    "line": 15,
+    "save": 150,
+    "time": 840,
+    "output_initial": 30,
+    "time_add": 2100,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 360000
+    },
+    "limit_grade": [
+      8011,
+      14011,
+      15011
+    ]
+  },
+  "16": {
+    "id": 16,
+    "line": 16,
+    "save": 160,
+    "time": 900,
+    "output_initial": 32,
+    "time_add": 2250,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 390000
+    },
+    "limit_grade": [
+      8012,
+      14012,
+      15012
+    ]
+  },
+  "17": {
+    "id": 17,
+    "line": 17,
+    "save": 170,
+    "time": 960,
+    "output_initial": 34,
+    "time_add": 2400,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 500000
+    },
+    "limit_grade": [
+      8013,
+      14013,
+      15013
+    ]
+  },
+  "18": {
+    "id": 18,
+    "line": 18,
+    "save": 180,
+    "time": 1020,
+    "output_initial": 36,
+    "time_add": 2550,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 540000
+    },
+    "limit_grade": [
+      8014,
+      14014,
+      15014
+    ]
+  },
+  "19": {
+    "id": 19,
+    "line": 19,
+    "save": 190,
+    "time": 1080,
+    "output_initial": 38,
+    "time_add": 2700,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 580000
+    },
+    "limit_grade": [
+      8015,
+      14015,
+      15015
+    ]
+  },
+  "20": {
+    "id": 20,
+    "line": 20,
+    "save": 200,
+    "time": 1140,
+    "output_initial": 40,
+    "time_add": 2850,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 620000
+    },
+    "limit_grade": [
+      8016,
+      14016,
+      15016
+    ]
+  },
+  "21": {
+    "id": 21,
+    "line": 21,
+    "save": 210,
+    "time": 1200,
+    "output_initial": 42,
+    "time_add": 3000,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 700000
+    },
+    "limit_grade": [
+      8017,
+      14017,
+      15017
+    ]
+  },
+  "22": {
+    "id": 22,
+    "line": 22,
+    "save": 220,
+    "time": 1260,
+    "output_initial": 44,
+    "time_add": 3150,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 750000
+    },
+    "limit_grade": [
+      8018,
+      14018,
+      15018
+    ]
+  },
+  "23": {
+    "id": 23,
+    "line": 23,
+    "save": 230,
+    "time": 1320,
+    "output_initial": 46,
+    "time_add": 3300,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 800000
+    },
+    "limit_grade": [
+      8019,
+      14019,
+      15019
+    ]
+  },
+  "24": {
+    "id": 24,
+    "line": 24,
+    "save": 240,
+    "time": 1380,
+    "output_initial": 48,
+    "time_add": 3450,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 850000
+    },
+    "limit_grade": [
+      8020,
+      14020,
+      15020
+    ]
+  },
+  "25": {
+    "id": 25,
+    "line": 25,
+    "save": 250,
+    "time": 1440,
+    "output_initial": 50,
+    "time_add": 3600,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 900000
+    },
+    "limit_grade": [
+      8021,
+      14021,
+      15021
+    ]
+  },
+  "26": {
+    "id": 26,
+    "line": 26,
+    "save": 260,
+    "time": 1500,
+    "output_initial": 52,
+    "time_add": 3750,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 960000
+    },
+    "limit_grade": [
+      8022,
+      14022,
+      15022
+    ]
+  },
+  "27": {
+    "id": 27,
+    "line": 27,
+    "save": 270,
+    "time": 1560,
+    "output_initial": 54,
+    "time_add": 3900,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1020000
+    },
+    "limit_grade": [
+      8023,
+      14023,
+      15023
+    ]
+  },
+  "28": {
+    "id": 28,
+    "line": 28,
+    "save": 280,
+    "time": 1620,
+    "output_initial": 56,
+    "time_add": 4050,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1080000
+    },
+    "limit_grade": [
+      8024,
+      14024,
+      15024
+    ]
+  },
+  "29": {
+    "id": 29,
+    "line": 29,
+    "save": 290,
+    "time": 1680,
+    "output_initial": 58,
+    "time_add": 4200,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1200000
+    },
+    "limit_grade": [
+      8025,
+      14025,
+      15025
+    ]
+  },
+  "30": {
+    "id": 30,
+    "line": 30,
+    "save": 300,
+    "time": 1740,
+    "output_initial": 60,
+    "time_add": 4350,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1270000
+    },
+    "limit_grade": [
+      8026,
+      14026,
+      15026
+    ]
+  },
+  "31": {
+    "id": 31,
+    "line": 31,
+    "save": 310,
+    "time": 1800,
+    "output_initial": 62,
+    "time_add": 4500,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1340000
+    },
+    "limit_grade": [
+      8027,
+      14027,
+      15027
+    ]
+  },
+  "32": {
+    "id": 32,
+    "line": 32,
+    "save": 320,
+    "time": 1860,
+    "output_initial": 64,
+    "time_add": 4650,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1410000
+    },
+    "limit_grade": [
+      8028,
+      14028,
+      15028
+    ]
+  },
+  "33": {
+    "id": 33,
+    "line": 33,
+    "save": 330,
+    "time": 1920,
+    "output_initial": 66,
+    "time_add": 4800,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1500000
+    },
+    "limit_grade": [
+      8029,
+      14029,
+      15029
+    ]
+  },
+  "34": {
+    "id": 34,
+    "line": 34,
+    "save": 340,
+    "time": 1980,
+    "output_initial": 68,
+    "time_add": 4950,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1580000
+    },
+    "limit_grade": [
+      8030,
+      14030,
+      15030
+    ]
+  },
+  "35": {
+    "id": 35,
+    "line": 35,
+    "save": 350,
+    "time": 2040,
+    "output_initial": 70,
+    "time_add": 5100,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1660000
+    },
+    "limit_grade": [
+      8031,
+      14031,
+      15031
+    ]
+  },
+  "36": {
+    "id": 36,
+    "line": 36,
+    "save": 360,
+    "time": 2100,
+    "output_initial": 72,
+    "time_add": 5250,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1740000
+    },
+    "limit_grade": [
+      8032,
+      14032,
+      15032
+    ]
+  },
+  "37": {
+    "id": 37,
+    "line": 37,
+    "save": 370,
+    "time": 2160,
+    "output_initial": 74,
+    "time_add": 5400,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1800000
+    },
+    "limit_grade": [
+      8033,
+      14033,
+      15033
+    ]
+  },
+  "38": {
+    "id": 38,
+    "line": 38,
+    "save": 380,
+    "time": 2220,
+    "output_initial": 76,
+    "time_add": 5550,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1890000
+    },
+    "limit_grade": [
+      8034,
+      14034,
+      15034
+    ]
+  },
+  "39": {
+    "id": 39,
+    "line": 39,
+    "save": 390,
+    "time": 2280,
+    "output_initial": 78,
+    "time_add": 5700,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 1980000
+    },
+    "limit_grade": [
+      8035,
+      14035,
+      15035
+    ]
+  },
+  "40": {
+    "id": 40,
+    "line": 40,
+    "save": 400,
+    "time": 2340,
+    "output_initial": 80,
+    "time_add": 5850,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 2070000
+    },
+    "limit_grade": [
+      8036,
+      14036,
+      15036
+    ]
+  },
+  "41": {
+    "id": 41,
+    "line": 41,
+    "save": 410,
+    "time": 2400,
+    "output_initial": 82,
+    "time_add": 6000,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 2200000
+    },
+    "limit_grade": [
+      8037,
+      14037,
+      15037
+    ]
+  },
+  "42": {
+    "id": 42,
+    "line": 42,
+    "save": 420,
+    "time": 2460,
+    "output_initial": 84,
+    "time_add": 6150,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 2300000
+    },
+    "limit_grade": [
+      8038,
+      14038,
+      15038
+    ]
+  },
+  "43": {
+    "id": 43,
+    "line": 43,
+    "save": 430,
+    "time": 2520,
+    "output_initial": 86,
+    "time_add": 6300,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 2400000
+    },
+    "limit_grade": [
+      8039,
+      14039,
+      15039
+    ]
+  },
+  "44": {
+    "id": 44,
+    "line": 44,
+    "save": 440,
+    "time": 2580,
+    "output_initial": 88,
+    "time_add": 6450,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 2500000
+    },
+    "limit_grade": [
+      8040,
+      14040,
+      15040
+    ]
+  },
+  "45": {
+    "id": 45,
+    "line": 45,
+    "save": 450,
+    "time": 2640,
+    "output_initial": 90,
+    "time_add": 6600,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 2600000
+    },
+    "limit_grade": [
+      8041,
+      14041,
+      15041
+    ]
+  },
+  "46": {
+    "id": 46,
+    "line": 46,
+    "save": 460,
+    "time": 2700,
+    "output_initial": 92,
+    "time_add": 6750,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 2650000
+    },
+    "limit_grade": [
+      8042,
+      14042,
+      15042
+    ]
+  },
+  "47": {
+    "id": 47,
+    "line": 47,
+    "save": 470,
+    "time": 2760,
+    "output_initial": 94,
+    "time_add": 6900,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 27000000
+    },
+    "limit_grade": [
+      8043,
+      14043,
+      15043
+    ]
+  },
+  "48": {
+    "id": 48,
+    "line": 48,
+    "save": 480,
+    "time": 2820,
+    "output_initial": 96,
+    "time_add": 7050,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 27500000
+    },
+    "limit_grade": [
+      8044,
+      14044,
+      15044
+    ]
+  },
+  "49": {
+    "id": 49,
+    "line": 49,
+    "save": 490,
+    "time": 2880,
+    "output_initial": 98,
+    "time_add": 7200,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 29000000
+    },
+    "limit_grade": [
+      8044,
+      14044,
+      15044
+    ]
+  },
+  "50": {
+    "id": 50,
+    "line": 50,
+    "save": 500,
+    "time": 2940,
+    "output_initial": 100,
+    "time_add": 7350,
+    "cost": {
+      "itemId": 2,
+      "itemNum": 30000000
+    },
+    "limit_grade": [
+      8045,
+      14045,
+      15045
+    ]
+  }
+}

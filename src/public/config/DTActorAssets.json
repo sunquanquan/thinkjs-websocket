@@ -1,0 +1,2450 @@
+﻿{
+  "100101": {
+    "id": 100101,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100102": {
+    "id": 100102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100103": {
+    "id": 100103,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "100104": {
+    "id": 100104,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "100201": {
+    "id": 100201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100202": {
+    "id": 100202,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "100203": {
+    "id": 100203,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100204": {
+    "id": 100204,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "100301": {
+    "id": 100301,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100302": {
+    "id": 100302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100303": {
+    "id": 100303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "100304": {
+    "id": 100304,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "100401": {
+    "id": 100401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100402": {
+    "id": 100402,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "100403": {
+    "id": 100403,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "100404": {
+    "id": 100404,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "100501": {
+    "id": 100501,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "100502": {
+    "id": 100502,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "100503": {
+    "id": 100503,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100504": {
+    "id": 100504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "100601": {
+    "id": 100601,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "100602": {
+    "id": 100602,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "100603": {
+    "id": 100603,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "100604": {
+    "id": 100604,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200101": {
+    "id": 200101,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200102": {
+    "id": 200102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200103": {
+    "id": 200103,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200104": {
+    "id": 200104,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200201": {
+    "id": 200201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200202": {
+    "id": 200202,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200203": {
+    "id": 200203,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200204": {
+    "id": 200204,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200301": {
+    "id": 200301,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200302": {
+    "id": 200302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200303": {
+    "id": 200303,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200304": {
+    "id": 200304,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200401": {
+    "id": 200401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200402": {
+    "id": 200402,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200403": {
+    "id": 200403,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200404": {
+    "id": 200404,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200501": {
+    "id": 200501,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200502": {
+    "id": 200502,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200503": {
+    "id": 200503,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200504": {
+    "id": 200504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200601": {
+    "id": 200601,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200602": {
+    "id": 200602,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200603": {
+    "id": 200603,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200604": {
+    "id": 200604,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200701": {
+    "id": 200701,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200702": {
+    "id": 200702,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200703": {
+    "id": 200703,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200704": {
+    "id": 200704,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200801": {
+    "id": 200801,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200802": {
+    "id": 200802,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200803": {
+    "id": 200803,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200804": {
+    "id": 200804,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "200901": {
+    "id": 200901,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200902": {
+    "id": 200902,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "200903": {
+    "id": 200903,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "200904": {
+    "id": 200904,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "201001": {
+    "id": 201001,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "201002": {
+    "id": 201002,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "201003": {
+    "id": 201003,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "201004": {
+    "id": 201004,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "201101": {
+    "id": 201101,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "201102": {
+    "id": 201102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "201103": {
+    "id": 201103,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "201104": {
+    "id": 201104,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "201201": {
+    "id": 201201,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "201202": {
+    "id": 201202,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "201203": {
+    "id": 201203,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "201204": {
+    "id": 201204,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "201301": {
+    "id": 201301,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "201302": {
+    "id": 201302,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "201303": {
+    "id": 201303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "201304": {
+    "id": 201304,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "201401": {
+    "id": 201401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "201402": {
+    "id": 201402,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "201403": {
+    "id": 201403,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "201404": {
+    "id": 201404,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "201501": {
+    "id": 201501,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "201502": {
+    "id": 201502,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "201503": {
+    "id": 201503,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "201504": {
+    "id": 201504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300101": {
+    "id": 300101,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300102": {
+    "id": 300102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300103": {
+    "id": 300103,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300104": {
+    "id": 300104,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300201": {
+    "id": 300201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300202": {
+    "id": 300202,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300203": {
+    "id": 300203,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300204": {
+    "id": 300204,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300301": {
+    "id": 300301,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300302": {
+    "id": 300302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300303": {
+    "id": 300303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300304": {
+    "id": 300304,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300401": {
+    "id": 300401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300402": {
+    "id": 300402,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300403": {
+    "id": 300403,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300404": {
+    "id": 300404,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300501": {
+    "id": 300501,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300502": {
+    "id": 300502,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300503": {
+    "id": 300503,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300504": {
+    "id": 300504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300601": {
+    "id": 300601,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300602": {
+    "id": 300602,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300603": {
+    "id": 300603,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300604": {
+    "id": 300604,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300701": {
+    "id": 300701,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300702": {
+    "id": 300702,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300703": {
+    "id": 300703,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300704": {
+    "id": 300704,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300801": {
+    "id": 300801,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300802": {
+    "id": 300802,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300803": {
+    "id": 300803,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300804": {
+    "id": 300804,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "300901": {
+    "id": 300901,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300902": {
+    "id": 300902,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "300903": {
+    "id": 300903,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "300904": {
+    "id": 300904,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301001": {
+    "id": 301001,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301002": {
+    "id": 301002,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301003": {
+    "id": 301003,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301004": {
+    "id": 301004,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301101": {
+    "id": 301101,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301102": {
+    "id": 301102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301103": {
+    "id": 301103,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301104": {
+    "id": 301104,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301201": {
+    "id": 301201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301202": {
+    "id": 301202,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301203": {
+    "id": 301203,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301204": {
+    "id": 301204,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301301": {
+    "id": 301301,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301302": {
+    "id": 301302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301303": {
+    "id": 301303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301304": {
+    "id": 301304,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301401": {
+    "id": 301401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301402": {
+    "id": 301402,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301403": {
+    "id": 301403,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301404": {
+    "id": 301404,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301501": {
+    "id": 301501,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301502": {
+    "id": 301502,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301503": {
+    "id": 301503,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301504": {
+    "id": 301504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301601": {
+    "id": 301601,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301602": {
+    "id": 301602,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301603": {
+    "id": 301603,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301604": {
+    "id": 301604,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301701": {
+    "id": 301701,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301702": {
+    "id": 301702,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301703": {
+    "id": 301703,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301704": {
+    "id": 301704,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "301801": {
+    "id": 301801,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "301802": {
+    "id": 301802,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301803": {
+    "id": 301803,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "301804": {
+    "id": 301804,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400101": {
+    "id": 400101,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400102": {
+    "id": 400102,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400103": {
+    "id": 400103,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400104": {
+    "id": 400104,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400201": {
+    "id": 400201,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400202": {
+    "id": 400202,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400203": {
+    "id": 400203,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400204": {
+    "id": 400204,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400301": {
+    "id": 400301,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400302": {
+    "id": 400302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400303": {
+    "id": 400303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400304": {
+    "id": 400304,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400401": {
+    "id": 400401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400402": {
+    "id": 400402,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400403": {
+    "id": 400403,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400404": {
+    "id": 400404,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400501": {
+    "id": 400501,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400502": {
+    "id": 400502,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400503": {
+    "id": 400503,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400504": {
+    "id": 400504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400601": {
+    "id": 400601,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400602": {
+    "id": 400602,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400603": {
+    "id": 400603,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400604": {
+    "id": 400604,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400701": {
+    "id": 400701,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400702": {
+    "id": 400702,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400703": {
+    "id": 400703,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400704": {
+    "id": 400704,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400801": {
+    "id": 400801,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400802": {
+    "id": 400802,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400803": {
+    "id": 400803,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400804": {
+    "id": 400804,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400901": {
+    "id": 400901,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "400902": {
+    "id": 400902,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "400903": {
+    "id": 400903,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "400904": {
+    "id": 400904,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401001": {
+    "id": 401001,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401002": {
+    "id": 401002,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401003": {
+    "id": 401003,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401004": {
+    "id": 401004,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401101": {
+    "id": 401101,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401102": {
+    "id": 401102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401103": {
+    "id": 401103,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401104": {
+    "id": 401104,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401201": {
+    "id": 401201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401202": {
+    "id": 401202,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401203": {
+    "id": 401203,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401204": {
+    "id": 401204,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401301": {
+    "id": 401301,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401302": {
+    "id": 401302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401303": {
+    "id": 401303,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401304": {
+    "id": 401304,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401401": {
+    "id": 401401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401402": {
+    "id": 401402,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401403": {
+    "id": 401403,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401404": {
+    "id": 401404,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401501": {
+    "id": 401501,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401502": {
+    "id": 401502,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401503": {
+    "id": 401503,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401504": {
+    "id": 401504,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401601": {
+    "id": 401601,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401602": {
+    "id": 401602,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401603": {
+    "id": 401603,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401604": {
+    "id": 401604,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401701": {
+    "id": 401701,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401702": {
+    "id": 401702,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401703": {
+    "id": 401703,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401704": {
+    "id": 401704,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401801": {
+    "id": 401801,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401802": {
+    "id": 401802,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401803": {
+    "id": 401803,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "401804": {
+    "id": 401804,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401901": {
+    "id": 401901,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "401902": {
+    "id": 401902,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401903": {
+    "id": 401903,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "401904": {
+    "id": 401904,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402001": {
+    "id": 402001,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402002": {
+    "id": 402002,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402003": {
+    "id": 402003,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402004": {
+    "id": 402004,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402101": {
+    "id": 402101,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402102": {
+    "id": 402102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402103": {
+    "id": 402103,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402104": {
+    "id": 402104,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "402201": {
+    "id": 402201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402202": {
+    "id": 402202,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402203": {
+    "id": 402203,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402204": {
+    "id": 402204,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402301": {
+    "id": 402301,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "402302": {
+    "id": 402302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402303": {
+    "id": 402303,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402304": {
+    "id": 402304,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402401": {
+    "id": 402401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402402": {
+    "id": 402402,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402403": {
+    "id": 402403,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402404": {
+    "id": 402404,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "402501": {
+    "id": 402501,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "402502": {
+    "id": 402502,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402503": {
+    "id": 402503,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402504": {
+    "id": 402504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402601": {
+    "id": 402601,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402602": {
+    "id": 402602,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402603": {
+    "id": 402603,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402604": {
+    "id": 402604,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "402701": {
+    "id": 402701,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "402702": {
+    "id": 402702,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402703": {
+    "id": 402703,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402704": {
+    "id": 402704,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402801": {
+    "id": 402801,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "402802": {
+    "id": 402802,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402803": {
+    "id": 402803,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "402804": {
+    "id": 402804,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "402901": {
+    "id": 402901,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402902": {
+    "id": 402902,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402903": {
+    "id": 402903,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "402904": {
+    "id": 402904,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "403001": {
+    "id": 403001,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "403002": {
+    "id": 403002,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "403003": {
+    "id": 403003,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "403004": {
+    "id": 403004,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500101": {
+    "id": 500101,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500102": {
+    "id": 500102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500103": {
+    "id": 500103,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500104": {
+    "id": 500104,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500201": {
+    "id": 500201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500202": {
+    "id": 500202,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500203": {
+    "id": 500203,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500204": {
+    "id": 500204,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "500301": {
+    "id": 500301,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500302": {
+    "id": 500302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500303": {
+    "id": 500303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "500304": {
+    "id": 500304,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500401": {
+    "id": 500401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500402": {
+    "id": 500402,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500403": {
+    "id": 500403,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500404": {
+    "id": 500404,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500501": {
+    "id": 500501,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500502": {
+    "id": 500502,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500503": {
+    "id": 500503,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500504": {
+    "id": 500504,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500601": {
+    "id": 500601,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500602": {
+    "id": 500602,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500603": {
+    "id": 500603,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500604": {
+    "id": 500604,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "500701": {
+    "id": 500701,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500702": {
+    "id": 500702,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500703": {
+    "id": 500703,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500704": {
+    "id": 500704,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "500801": {
+    "id": 500801,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500802": {
+    "id": 500802,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500803": {
+    "id": 500803,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500804": {
+    "id": 500804,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500901": {
+    "id": 500901,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "500902": {
+    "id": 500902,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "500903": {
+    "id": 500903,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "500904": {
+    "id": 500904,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501001": {
+    "id": 501001,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501002": {
+    "id": 501002,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501003": {
+    "id": 501003,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501004": {
+    "id": 501004,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501101": {
+    "id": 501101,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501102": {
+    "id": 501102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501103": {
+    "id": 501103,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501104": {
+    "id": 501104,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501201": {
+    "id": 501201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501202": {
+    "id": 501202,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501203": {
+    "id": 501203,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501204": {
+    "id": 501204,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501301": {
+    "id": 501301,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501302": {
+    "id": 501302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501303": {
+    "id": 501303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501304": {
+    "id": 501304,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501401": {
+    "id": 501401,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501402": {
+    "id": 501402,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501403": {
+    "id": 501403,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501404": {
+    "id": 501404,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501501": {
+    "id": 501501,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501502": {
+    "id": 501502,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501503": {
+    "id": 501503,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501504": {
+    "id": 501504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501601": {
+    "id": 501601,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501602": {
+    "id": 501602,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501603": {
+    "id": 501603,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501604": {
+    "id": 501604,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501701": {
+    "id": 501701,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501702": {
+    "id": 501702,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501703": {
+    "id": 501703,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501704": {
+    "id": 501704,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501801": {
+    "id": 501801,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501802": {
+    "id": 501802,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501803": {
+    "id": 501803,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "501804": {
+    "id": 501804,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501901": {
+    "id": 501901,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "501902": {
+    "id": 501902,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501903": {
+    "id": 501903,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "501904": {
+    "id": 501904,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502001": {
+    "id": 502001,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502002": {
+    "id": 502002,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502003": {
+    "id": 502003,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502004": {
+    "id": 502004,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502101": {
+    "id": 502101,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502102": {
+    "id": 502102,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502103": {
+    "id": 502103,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502104": {
+    "id": 502104,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502201": {
+    "id": 502201,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502202": {
+    "id": 502202,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502203": {
+    "id": 502203,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502204": {
+    "id": 502204,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502301": {
+    "id": 502301,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502302": {
+    "id": 502302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502303": {
+    "id": 502303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502304": {
+    "id": 502304,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502401": {
+    "id": 502401,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502402": {
+    "id": 502402,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502403": {
+    "id": 502403,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502404": {
+    "id": 502404,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502501": {
+    "id": 502501,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502502": {
+    "id": 502502,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502503": {
+    "id": 502503,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502504": {
+    "id": 502504,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502601": {
+    "id": 502601,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502602": {
+    "id": 502602,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502603": {
+    "id": 502603,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502604": {
+    "id": 502604,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502701": {
+    "id": 502701,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502702": {
+    "id": 502702,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502703": {
+    "id": 502703,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502704": {
+    "id": 502704,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502801": {
+    "id": 502801,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "502802": {
+    "id": 502802,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502803": {
+    "id": 502803,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502804": {
+    "id": 502804,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502901": {
+    "id": 502901,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "502902": {
+    "id": 502902,
+    "type": 2,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502903": {
+    "id": 502903,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "502904": {
+    "id": 502904,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "503001": {
+    "id": 503001,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "503002": {
+    "id": 503002,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "503003": {
+    "id": 503003,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "503004": {
+    "id": 503004,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "503101": {
+    "id": 503101,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "503102": {
+    "id": 503102,
+    "type": 2,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "503103": {
+    "id": 503103,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "503104": {
+    "id": 503104,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "503201": {
+    "id": 503201,
+    "type": 1,
+    "actor_property": 1602,
+    "tips": ""
+  },
+  "503202": {
+    "id": 503202,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "503203": {
+    "id": 503203,
+    "type": 3,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "503204": {
+    "id": 503204,
+    "type": 4,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "503301": {
+    "id": 503301,
+    "type": 1,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "503302": {
+    "id": 503302,
+    "type": 2,
+    "actor_property": 1601,
+    "tips": ""
+  },
+  "503303": {
+    "id": 503303,
+    "type": 3,
+    "actor_property": 1603,
+    "tips": ""
+  },
+  "503304": {
+    "id": 503304,
+    "type": 4,
+    "actor_property": 1602,
+    "tips": ""
+  }
+}

@@ -1,0 +1,5121 @@
+﻿{
+  "1": {
+    "id": 1,
+    "zh_cn_name": "钻石",
+    "zh_cn_item_des": "用于游戏内消费",
+    "icon": 2001,
+    "star": 0,
+    "type": 1,
+    "max_num": 0,
+    "get_way": [
+      22
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过充值获得"
+  },
+  "2": {
+    "id": 2,
+    "zh_cn_name": "金币",
+    "zh_cn_item_des": "用于建筑、艺人升级",
+    "icon": 2002,
+    "star": 0,
+    "type": 2,
+    "max_num": 0,
+    "get_way": [
+      5,
+      52
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "占领市场可获得大量金币，订单中也会获得一些"
+  },
+  "3": {
+    "id": 3,
+    "zh_cn_name": "美元",
+    "zh_cn_item_des": "用于市场宣传与占领",
+    "icon": 2003,
+    "star": 0,
+    "type": 3,
+    "max_num": 0,
+    "get_way": [
+      3,
+      53
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过拍摄电影获得，公务中也可获得一些"
+  },
+  "4": {
+    "id": 4,
+    "zh_cn_name": "拍摄许可证",
+    "zh_cn_item_des": "用于拍摄电影",
+    "icon": 2004,
+    "star": 0,
+    "type": 10,
+    "max_num": 2,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "每隔一段时间电影协会都会发放一张"
+  },
+  "5": {
+    "id": 5,
+    "zh_cn_name": "粉丝",
+    "zh_cn_item_des": "粉丝数量越多，公司等级越高",
+    "icon": 2043,
+    "star": 0,
+    "type": 11,
+    "max_num": 0,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "市场占领，拍摄电影都会获得"
+  },
+  "6": {
+    "id": 6,
+    "zh_cn_name": "点赞",
+    "zh_cn_item_des": "用于招募艺人和搜寻剧本",
+    "icon": 2044,
+    "star": 0,
+    "type": 12,
+    "max_num": 0,
+    "get_way": [
+      3,
+      53,
+      55
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "电影的媒体评价越高，获得的点赞数就越多"
+  },
+  "7": {
+    "id": 7,
+    "zh_cn_name": "生产图纸",
+    "zh_cn_item_des": "生产电影周边需要消耗的图纸",
+    "icon": 2045,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      21
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过拍摄电影获得,会议和公务中也可获得"
+  },
+  "8": {
+    "id": 8,
+    "zh_cn_name": "期待",
+    "zh_cn_item_des": "提升电影的上映票房",
+    "icon": 2047,
+    "star": 0,
+    "type": 13,
+    "max_num": 0,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "订单、公务、粉丝、会议都可获得"
+  },
+  "9": {
+    "id": 9,
+    "zh_cn_name": "小秘书",
+    "zh_cn_item_des": "小秘书",
+    "icon": 5038,
+    "star": 0,
+    "type": 0,
+    "max_num": 0,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "14": {
+    "id": 14,
+    "zh_cn_name": "奖杯",
+    "zh_cn_item_des": "每天22点由奥斯卡颁发的奖杯，奖杯越多，比赛档次越高",
+    "icon": 2052,
+    "star": 0,
+    "type": 14,
+    "max_num": 0,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "奥斯卡颁发的奖杯，大卖电影越多，获得的奖杯越多"
+  },
+  "15": {
+    "id": 15,
+    "zh_cn_name": "艺人体力",
+    "zh_cn_item_des": "用于释放技能的体力值",
+    "icon": 2050,
+    "star": 0,
+    "type": 15,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "用于释放技能的体力值"
+  },
+  "4001": {
+    "id": 4001,
+    "zh_cn_name": "飞船模型",
+    "zh_cn_item_des": "经常在银河战争中出现的飞船，最新研究的激光发射器使其具备无与伦比的攻击力",
+    "icon": 2005,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4002": {
+    "id": 4002,
+    "zh_cn_name": "魔法杖",
+    "zh_cn_item_des": "这根魔法杖的使用者只有两种结局，统一大陆或者死于非命，而今，它来到你的身边……",
+    "icon": 2006,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4003": {
+    "id": 4003,
+    "zh_cn_name": "笔记本电脑",
+    "zh_cn_item_des": "贵重的的社会精英用品，身份的象征",
+    "icon": 2007,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4004": {
+    "id": 4004,
+    "zh_cn_name": "鸭舌帽",
+    "zh_cn_item_des": "曾经是一个残疾奥运会选手的最爱，感觉多洗两次就掉色了",
+    "icon": 2008,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4005": {
+    "id": 4005,
+    "zh_cn_name": "破损头盔",
+    "zh_cn_item_des": "它的主人是凭借一人之力拯救198名队友的医疗兵",
+    "icon": 2009,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4006": {
+    "id": 4006,
+    "zh_cn_name": "丛林部落雕像",
+    "zh_cn_item_des": "胡博士相信这个雕像能给予他极佳的运气，每当遇到危险他的第一反应都是保护这个雕像",
+    "icon": 2010,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4007": {
+    "id": 4007,
+    "zh_cn_name": "盾牌",
+    "zh_cn_item_des": "七国时期著名大将蒙梭的盾牌，陪伴他打过无数战斗",
+    "icon": 2011,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4008": {
+    "id": 4008,
+    "zh_cn_name": "匕首",
+    "zh_cn_item_des": "史上最大银行劫案“三亿英镑大劫案”的罪犯在实施犯罪时所使用的匕首",
+    "icon": 2012,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4009": {
+    "id": 4009,
+    "zh_cn_name": "黑色宽檐帽",
+    "zh_cn_item_des": "最强特工008的宽檐帽，具有GPS定位、无线信号接收、窃听器等功能……当然是不存在的",
+    "icon": 2013,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4010": {
+    "id": 4010,
+    "zh_cn_name": "对讲机",
+    "zh_cn_item_des": "拥有照明、点火、太阳能充电、防水等功能，灾难来临时的必备用品，就是不能通话",
+    "icon": 2014,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4011": {
+    "id": 4011,
+    "zh_cn_name": "日记本",
+    "zh_cn_item_des": "主角童年使用的日记本同款，或许你也能从自己的抽屉里找到",
+    "icon": 2015,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4012": {
+    "id": 4012,
+    "zh_cn_name": "小丑鞋",
+    "zh_cn_item_des": "小孩看到它都想穿在脚上玩",
+    "icon": 2016,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4013": {
+    "id": 4013,
+    "zh_cn_name": "拳套",
+    "zh_cn_item_des": "每个细节都还原了武术天才曾经用过的拳套",
+    "icon": 2017,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4014": {
+    "id": 4014,
+    "zh_cn_name": "心型气球",
+    "zh_cn_item_des": "见证过无数情侣的结合，将世间最动人的瞬间铭记在此",
+    "icon": 2018,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4015": {
+    "id": 4015,
+    "zh_cn_name": "唱片机",
+    "zh_cn_item_des": "可以无数遍重听那首洗脑神曲",
+    "icon": 2019,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4016": {
+    "id": 4016,
+    "zh_cn_name": "白手套",
+    "zh_cn_item_des": "体验和主角一样的恐慌、无助，只是你不需要解谜来获得钥匙",
+    "icon": 2020,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4017": {
+    "id": 4017,
+    "zh_cn_name": "面具",
+    "zh_cn_item_des": "每个戴上这个面具的人，都将获得那个恐怖的名字",
+    "icon": 2021,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "4018": {
+    "id": 4018,
+    "zh_cn_name": "玩偶",
+    "zh_cn_item_des": "Q版而充满童真，看到的人都想捏一捏",
+    "icon": 2022,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      51,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "拍摄电影有时会得到周边产品，也可以通过完成生产能获得"
+  },
+  "6101": {
+    "id": 6101,
+    "zh_cn_name": "1星滑板",
+    "zh_cn_item_des": "可以送给偶像派艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2023,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6101,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6102": {
+    "id": 6102,
+    "zh_cn_name": "1星小提琴",
+    "zh_cn_item_des": "可以送给欧洲艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2024,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6102,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6103": {
+    "id": 6103,
+    "zh_cn_name": "1星折扇",
+    "zh_cn_item_des": "可以送给亚洲艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2025,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6103,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6104": {
+    "id": 6104,
+    "zh_cn_name": "1星烟斗",
+    "zh_cn_item_des": "可以送给男性艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2026,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6104,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6105": {
+    "id": 6105,
+    "zh_cn_name": "1星高跟鞋",
+    "zh_cn_item_des": "可以送给女性艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2027,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6105,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6106": {
+    "id": 6106,
+    "zh_cn_name": "1星低帮球鞋",
+    "zh_cn_item_des": "可以送给青春型艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2028,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6106,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6107": {
+    "id": 6107,
+    "zh_cn_name": "1星雕塑",
+    "zh_cn_item_des": "可以送给演技派艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2029,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6107,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6108": {
+    "id": 6108,
+    "zh_cn_name": "1星手表",
+    "zh_cn_item_des": "可以送给成熟型艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2030,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6108,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6109": {
+    "id": 6109,
+    "zh_cn_name": "1星手机",
+    "zh_cn_item_des": "可以送给北美艺人增加忠诚度。在仓库可合成为高星资产",
+    "icon": 2031,
+    "star": 1301,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6109,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6201": {
+    "id": 6201,
+    "zh_cn_name": "2星滑板",
+    "zh_cn_item_des": "可以送给偶像派艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2023,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6201,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6202": {
+    "id": 6202,
+    "zh_cn_name": "2星小提琴",
+    "zh_cn_item_des": "可以送给欧洲艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2024,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6202,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6203": {
+    "id": 6203,
+    "zh_cn_name": "2星折扇",
+    "zh_cn_item_des": "可以送给亚洲艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2025,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6203,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6204": {
+    "id": 6204,
+    "zh_cn_name": "2星烟斗",
+    "zh_cn_item_des": "可以送给男性艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2026,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6204,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6205": {
+    "id": 6205,
+    "zh_cn_name": "2星高跟鞋",
+    "zh_cn_item_des": "可以送给女性艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2027,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6205,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6206": {
+    "id": 6206,
+    "zh_cn_name": "2星低帮球鞋",
+    "zh_cn_item_des": "可以送给青春型艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2028,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6206,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6207": {
+    "id": 6207,
+    "zh_cn_name": "2星雕塑",
+    "zh_cn_item_des": "可以送给演技派艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2029,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6207,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6208": {
+    "id": 6208,
+    "zh_cn_name": "2星手表",
+    "zh_cn_item_des": "可以送给成熟型艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2030,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6208,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6209": {
+    "id": 6209,
+    "zh_cn_name": "2星手机",
+    "zh_cn_item_des": "可以送给北美艺人增加忠诚度。在仓库可分解为低星资产，合成为高星资产",
+    "icon": 2031,
+    "star": 1302,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6209,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6301": {
+    "id": 6301,
+    "zh_cn_name": "3星滑板",
+    "zh_cn_item_des": "可以送给偶像派艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2023,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6301,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6302": {
+    "id": 6302,
+    "zh_cn_name": "3星小提琴",
+    "zh_cn_item_des": "可以送给欧洲艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2024,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6302,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6303": {
+    "id": 6303,
+    "zh_cn_name": "3星折扇",
+    "zh_cn_item_des": "可以送给亚洲艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2025,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6303,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6304": {
+    "id": 6304,
+    "zh_cn_name": "3星烟斗",
+    "zh_cn_item_des": "可以送给男性艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2026,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6304,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6305": {
+    "id": 6305,
+    "zh_cn_name": "3星高跟鞋",
+    "zh_cn_item_des": "可以送给女性艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2027,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6305,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6306": {
+    "id": 6306,
+    "zh_cn_name": "3星低帮球鞋",
+    "zh_cn_item_des": "可以送给青春型艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2028,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6306,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6307": {
+    "id": 6307,
+    "zh_cn_name": "3星雕塑",
+    "zh_cn_item_des": "可以送给演技派艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2029,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6307,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6308": {
+    "id": 6308,
+    "zh_cn_name": "3星手表",
+    "zh_cn_item_des": "可以送给成熟型艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2030,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6308,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "6309": {
+    "id": 6309,
+    "zh_cn_name": "3星手机",
+    "zh_cn_item_des": "可以送给北美艺人增加忠诚度。在仓库可分解为低星资产",
+    "icon": 2031,
+    "star": 1303,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 6309,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成订单后可以获得艺人资产"
+  },
+  "9001": {
+    "id": 9001,
+    "zh_cn_name": "钢材",
+    "zh_cn_item_des": "升级电影院等建筑和扩建楼层时使用的材料",
+    "icon": 2032,
+    "star": 0,
+    "type": 9,
+    "max_num": 9999,
+    "get_way": [
+      53,
+      54,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过探班和公务获得，在电影下映后的持续收益中也能获得"
+  },
+  "9002": {
+    "id": 9002,
+    "zh_cn_name": "涂料",
+    "zh_cn_item_des": "升级经营类建筑的材料",
+    "icon": 2033,
+    "star": 0,
+    "type": 9,
+    "max_num": 9999,
+    "get_way": [
+      52,
+      54,
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可以在订单或粉丝探班中获得，电影下映后的持续收益也能获得"
+  },
+  "9003": {
+    "id": 9003,
+    "zh_cn_name": "水泥",
+    "zh_cn_item_des": "升级仓库的建筑材料",
+    "icon": 2034,
+    "star": 0,
+    "type": 9,
+    "max_num": 9999,
+    "get_way": [
+      3
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可通过拍摄电影获得"
+  },
+  "9004": {
+    "id": 9004,
+    "zh_cn_name": "砖头",
+    "zh_cn_item_des": "升级艺人教室等建筑的材料",
+    "icon": 2035,
+    "star": 0,
+    "type": 9,
+    "max_num": 9999,
+    "get_way": [
+      55
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "完成会议获得"
+  },
+  "5001": {
+    "id": 5001,
+    "zh_cn_name": "培养手册",
+    "zh_cn_item_des": "当天的培养次数使用完后，消耗此道具可以增加额外培养次数",
+    "icon": 2036,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      21,
+      106
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "商城购买，比赛档次提升也可获得大量"
+  },
+  "5002": {
+    "id": 5002,
+    "zh_cn_name": "邀请函",
+    "zh_cn_item_des": "邀请艺人进行通告的函件",
+    "icon": 2037,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      53
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可在公务中获得"
+  },
+  "5003": {
+    "id": 5003,
+    "zh_cn_name": "忠诚奖章",
+    "zh_cn_item_des": "增加艺人相应资产的赠送上限",
+    "icon": 2038,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      106
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "提升比赛档次时获得"
+  },
+  "5004": {
+    "id": 5004,
+    "zh_cn_name": "进修券",
+    "zh_cn_item_des": "培养艺人所需要消耗的物品",
+    "icon": 2039,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      52
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可通过订单获得"
+  },
+  "5005": {
+    "id": 5005,
+    "zh_cn_name": "宣传册",
+    "zh_cn_item_des": "宣传册可以增加电影关注度，提升电影的持续收益",
+    "icon": 2040,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      52
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "奥斯卡颁奖时获得，订单中也会获得一部分"
+  },
+  "5006": {
+    "id": 5006,
+    "zh_cn_name": "喇叭（废弃）",
+    "zh_cn_item_des": "#N/A",
+    "icon": 2041,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      21
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "5007": {
+    "id": 5007,
+    "zh_cn_name": "星探放大镜",
+    "zh_cn_item_des": "星探次数使用完或正在恢复中时消耗此道具可以立刻探查一次",
+    "icon": 2046,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      21,
+      106
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "商城购买，比赛档次提升也可获得大量"
+  },
+  "5008": {
+    "id": 5008,
+    "zh_cn_name": "改名卡",
+    "zh_cn_item_des": "修改玩家名字时使用的道具",
+    "icon": 2048,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      21
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过商店购买获得"
+  },
+  "5009": {
+    "id": 5009,
+    "zh_cn_name": "通告函（废弃）",
+    "zh_cn_item_des": "无",
+    "icon": 2049,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "5010": {
+    "id": 5010,
+    "zh_cn_name": "技能药剂",
+    "zh_cn_item_des": "恢复25点艺人体力值",
+    "icon": 2050,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      21
+    ],
+    "can_use": true,
+    "use_type": 3,
+    "reward": [
+      {
+        "itemId": 15,
+        "itemNum": 25
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过商店购买获得"
+  },
+  "5011": {
+    "id": 5011,
+    "zh_cn_name": "亲密卡（废弃）",
+    "zh_cn_item_des": "#N/A",
+    "icon": 2036,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "8001": {
+    "id": 8001,
+    "zh_cn_name": "一星资产礼包",
+    "zh_cn_item_des": "打开会获得一份随机1星艺人资产",
+    "icon": 2042,
+    "star": 1301,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8002": {
+    "id": 8002,
+    "zh_cn_name": "二星资产礼包",
+    "zh_cn_item_des": "打开会获得一份随机2星艺人资产",
+    "icon": 2042,
+    "star": 1302,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 6201,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6202,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6203,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6204,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6205,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6206,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6207,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6208,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6209,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8003": {
+    "id": 8003,
+    "zh_cn_name": "三星资产礼包",
+    "zh_cn_item_des": "打开会获得一份随机3星艺人资产",
+    "icon": 2042,
+    "star": 1303,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 6301,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6302,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6303,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6304,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6305,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6306,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6307,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6308,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6309,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8004": {
+    "id": 8004,
+    "zh_cn_name": "资产大礼包",
+    "zh_cn_item_des": "打开获得大量艺人资产",
+    "icon": 2042,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      25
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 100
+      },
+      {
+        "itemId": 6102,
+        "itemNum": 100
+      },
+      {
+        "itemId": 6103,
+        "itemNum": 100
+      },
+      {
+        "itemId": 6104,
+        "itemNum": 100
+      },
+      {
+        "itemId": 6105,
+        "itemNum": 100
+      },
+      {
+        "itemId": 6106,
+        "itemNum": 100
+      },
+      {
+        "itemId": 6107,
+        "itemNum": 100
+      },
+      {
+        "itemId": 6108,
+        "itemNum": 100
+      },
+      {
+        "itemId": 6109,
+        "itemNum": 100
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8005": {
+    "id": 8005,
+    "zh_cn_name": "资源大礼包·一",
+    "zh_cn_item_des": "打开获得金币*100万、美金*50万、点赞*1万、生产图纸*100、星探放大镜*10",
+    "icon": 2042,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      25
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1000000
+      },
+      {
+        "itemId": 3,
+        "itemNum": 500000
+      },
+      {
+        "itemId": 6,
+        "itemNum": 10000
+      },
+      {
+        "itemId": 7,
+        "itemNum": 100
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 10
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8006": {
+    "id": 8006,
+    "zh_cn_name": "资源大礼包·二",
+    "zh_cn_item_des": "打开获得金币*100万、美金*50万、点赞*1万、生产图纸*100、星探放大镜*10",
+    "icon": 2042,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      25
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1000000
+      },
+      {
+        "itemId": 3,
+        "itemNum": 500000
+      },
+      {
+        "itemId": 6,
+        "itemNum": 10000
+      },
+      {
+        "itemId": 7,
+        "itemNum": 100
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 10
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8007": {
+    "id": 8007,
+    "zh_cn_name": "资源大礼包·三",
+    "zh_cn_item_des": "打开获得金币*100万、美金*50万、点赞*1万、生产图纸*200、星探放大镜*20",
+    "icon": 2042,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      25
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 1000000
+      },
+      {
+        "itemId": 3,
+        "itemNum": 500000
+      },
+      {
+        "itemId": 6,
+        "itemNum": 10000
+      },
+      {
+        "itemId": 7,
+        "itemNum": 200
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 20
+      },
+      {}
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8008": {
+    "id": 8008,
+    "zh_cn_name": "资源大礼包·四",
+    "zh_cn_item_des": "打开获得金币*200万、美金*50万、点赞*2万、生产图纸*100、星探放大镜*10",
+    "icon": 2042,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      25
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 2000000
+      },
+      {
+        "itemId": 3,
+        "itemNum": 500000
+      },
+      {
+        "itemId": 6,
+        "itemNum": 20000
+      },
+      {
+        "itemId": 7,
+        "itemNum": 100
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 10
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8009": {
+    "id": 8009,
+    "zh_cn_name": "资源大礼包·五",
+    "zh_cn_item_des": "打开获得金币*500万、美金*50万、生产图纸*100、进修券*200",
+    "icon": 2042,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      25
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000000
+      },
+      {
+        "itemId": 3,
+        "itemNum": 500000
+      },
+      {
+        "itemId": 7,
+        "itemNum": 100
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 200
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8010": {
+    "id": 8010,
+    "zh_cn_name": "资源大礼包·六",
+    "zh_cn_item_des": "打开获得金币*500万、点赞*2万、生产图纸*200、进修券*200",
+    "icon": 2042,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      25
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000000
+      },
+      {
+        "itemId": 6,
+        "itemNum": 20000
+      },
+      {
+        "itemId": 7,
+        "itemNum": 200
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 200
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "8011": {
+    "id": 8011,
+    "zh_cn_name": "资源大礼包·七",
+    "zh_cn_item_des": "打开获得金币*800万、美金*100万",
+    "icon": 2042,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      25
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 8000000
+      },
+      {
+        "itemId": 3,
+        "itemNum": 1000000
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过活动获得"
+  },
+  "7001": {
+    "id": 7001,
+    "zh_cn_name": "斯昆合同",
+    "zh_cn_item_des": "收集10份可以签约艺人斯昆",
+    "icon": 1014,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1001,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7002": {
+    "id": 7002,
+    "zh_cn_name": "查姆合同",
+    "zh_cn_item_des": "收集10份可以签约艺人查姆",
+    "icon": 1050,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1002,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7003": {
+    "id": 7003,
+    "zh_cn_name": "谢波合同",
+    "zh_cn_item_des": "收集10份可以签约艺人谢波",
+    "icon": 1072,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1003,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7004": {
+    "id": 7004,
+    "zh_cn_name": "斯诺合同",
+    "zh_cn_item_des": "收集10份可以签约艺人斯诺",
+    "icon": 1082,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1004,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7005": {
+    "id": 7005,
+    "zh_cn_name": "章芬合同",
+    "zh_cn_item_des": "收集10份可以签约艺人章芬",
+    "icon": 1055,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1005,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7006": {
+    "id": 7006,
+    "zh_cn_name": "凯特合同",
+    "zh_cn_item_des": "收集10份可以签约艺人凯特",
+    "icon": 1097,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1006,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7007": {
+    "id": 7007,
+    "zh_cn_name": "汉克合同",
+    "zh_cn_item_des": "收集20份可以签约艺人汉克",
+    "icon": 1003,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2001,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7008": {
+    "id": 7008,
+    "zh_cn_name": "罗素合同",
+    "zh_cn_item_des": "收集20份可以签约艺人罗素",
+    "icon": 1006,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2002,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7009": {
+    "id": 7009,
+    "zh_cn_name": "贾亭合同",
+    "zh_cn_item_des": "收集20份可以签约艺人贾亭",
+    "icon": 1023,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2003,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7010": {
+    "id": 7010,
+    "zh_cn_name": "汉克特合同",
+    "zh_cn_item_des": "收集20份可以签约艺人汉克特",
+    "icon": 1047,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2004,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7011": {
+    "id": 7011,
+    "zh_cn_name": "裘华合同",
+    "zh_cn_item_des": "收集20份可以签约艺人裘华",
+    "icon": 1063,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2005,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7012": {
+    "id": 7012,
+    "zh_cn_name": "张宁玉合同",
+    "zh_cn_item_des": "收集20份可以签约艺人张宁玉",
+    "icon": 1067,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2006,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7013": {
+    "id": 7013,
+    "zh_cn_name": "龚莉合同",
+    "zh_cn_item_des": "收集20份可以签约艺人龚莉",
+    "icon": 1068,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2007,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7014": {
+    "id": 7014,
+    "zh_cn_name": "郭达森合同",
+    "zh_cn_item_des": "收集20份可以签约艺人郭达森",
+    "icon": 1078,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2008,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7015": {
+    "id": 7015,
+    "zh_cn_name": "桑德亚合同",
+    "zh_cn_item_des": "收集20份可以签约艺人桑德亚",
+    "icon": 1083,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2009,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7016": {
+    "id": 7016,
+    "zh_cn_name": "赵古拉合同",
+    "zh_cn_item_des": "收集20份可以签约艺人赵古拉",
+    "icon": 1084,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2010,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7017": {
+    "id": 7017,
+    "zh_cn_name": "鲁妮拉合同",
+    "zh_cn_item_des": "收集20份可以签约艺人鲁妮拉",
+    "icon": 1086,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2011,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7018": {
+    "id": 7018,
+    "zh_cn_name": "绪子合同",
+    "zh_cn_item_des": "收集20份可以签约艺人绪子",
+    "icon": 1089,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2012,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7019": {
+    "id": 7019,
+    "zh_cn_name": "戴维合同",
+    "zh_cn_item_des": "收集20份可以签约艺人戴维",
+    "icon": 1007,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2013,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7020": {
+    "id": 7020,
+    "zh_cn_name": "西尔合同",
+    "zh_cn_item_des": "收集20份可以签约艺人西尔",
+    "icon": 1091,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2014,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7021": {
+    "id": 7021,
+    "zh_cn_name": "薇丝帕合同",
+    "zh_cn_item_des": "收集20份可以签约艺人薇丝帕",
+    "icon": 1060,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2015,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7022": {
+    "id": 7022,
+    "zh_cn_name": "施格尔合同",
+    "zh_cn_item_des": "收集30份可以签约艺人施格尔",
+    "icon": 1008,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3001,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7023": {
+    "id": 7023,
+    "zh_cn_name": "查林合同",
+    "zh_cn_item_des": "收集30份可以签约艺人查林",
+    "icon": 1010,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3002,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7024": {
+    "id": 7024,
+    "zh_cn_name": "马度龙合同",
+    "zh_cn_item_des": "收集30份可以签约艺人马度龙",
+    "icon": 1011,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3003,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7025": {
+    "id": 7025,
+    "zh_cn_name": "莫里曼合同",
+    "zh_cn_item_des": "收集30份可以签约艺人莫里曼",
+    "icon": 1012,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3004,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7026": {
+    "id": 7026,
+    "zh_cn_name": "詹一合同",
+    "zh_cn_item_des": "收集30份可以签约艺人詹一",
+    "icon": 1019,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3005,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7027": {
+    "id": 7027,
+    "zh_cn_name": "索菲合同",
+    "zh_cn_item_des": "收集30份可以签约艺人索菲",
+    "icon": 1056,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3006,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7028": {
+    "id": 7028,
+    "zh_cn_name": "威廉合同",
+    "zh_cn_item_des": "收集30份可以签约艺人威廉",
+    "icon": 1064,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3007,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7029": {
+    "id": 7029,
+    "zh_cn_name": "格伦合同",
+    "zh_cn_item_des": "收集30份可以签约艺人格伦",
+    "icon": 1065,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3008,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7030": {
+    "id": 7030,
+    "zh_cn_name": "玛歌合同",
+    "zh_cn_item_des": "收集30份可以签约艺人玛歌",
+    "icon": 1071,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3009,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7031": {
+    "id": 7031,
+    "zh_cn_name": "盖瑞特合同",
+    "zh_cn_item_des": "收集30份可以签约艺人盖瑞特",
+    "icon": 1073,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3010,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7032": {
+    "id": 7032,
+    "zh_cn_name": "克拉丽丝合同",
+    "zh_cn_item_des": "收集30份可以签约艺人克拉丽丝",
+    "icon": 1080,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3011,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7033": {
+    "id": 7033,
+    "zh_cn_name": "查克合同",
+    "zh_cn_item_des": "收集30份可以签约艺人查克",
+    "icon": 1085,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3012,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7034": {
+    "id": 7034,
+    "zh_cn_name": "迪娜合同",
+    "zh_cn_item_des": "收集30份可以签约艺人迪娜",
+    "icon": 1087,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3013,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7035": {
+    "id": 7035,
+    "zh_cn_name": "北原合同",
+    "zh_cn_item_des": "收集30份可以签约艺人北原",
+    "icon": 1090,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3014,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7036": {
+    "id": 7036,
+    "zh_cn_name": "卡森合同",
+    "zh_cn_item_des": "收集30份可以签约艺人卡森",
+    "icon": 1088,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3015,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7037": {
+    "id": 7037,
+    "zh_cn_name": "巴拉娜合同",
+    "zh_cn_item_des": "收集30份可以签约艺人巴拉娜",
+    "icon": 1093,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3016,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7038": {
+    "id": 7038,
+    "zh_cn_name": "巴顿合同",
+    "zh_cn_item_des": "收集30份可以签约艺人巴顿",
+    "icon": 1098,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3017,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7039": {
+    "id": 7039,
+    "zh_cn_name": "孔毅合同",
+    "zh_cn_item_des": "收集30份可以签约艺人孔毅",
+    "icon": 1100,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3018,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7040": {
+    "id": 7040,
+    "zh_cn_name": "玛丽安合同",
+    "zh_cn_item_des": "收集40份可以签约艺人玛丽安",
+    "icon": 1017,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4001,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7041": {
+    "id": 7041,
+    "zh_cn_name": "克洛伊合同",
+    "zh_cn_item_des": "收集40份可以签约艺人克洛伊",
+    "icon": 1022,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4002,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7042": {
+    "id": 7042,
+    "zh_cn_name": "安娜合同",
+    "zh_cn_item_des": "收集40份可以签约艺人安娜",
+    "icon": 1029,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4003,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7043": {
+    "id": 7043,
+    "zh_cn_name": "布兰顿合同",
+    "zh_cn_item_des": "收集40份可以签约艺人布兰顿",
+    "icon": 1031,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4004,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7044": {
+    "id": 7044,
+    "zh_cn_name": "埃文合同",
+    "zh_cn_item_des": "收集40份可以签约艺人埃文",
+    "icon": 1001,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4005,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7045": {
+    "id": 7045,
+    "zh_cn_name": "瑞克合同",
+    "zh_cn_item_des": "收集40份可以签约艺人瑞克",
+    "icon": 1015,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4006,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7046": {
+    "id": 7046,
+    "zh_cn_name": "乔克合同",
+    "zh_cn_item_des": "收集40份可以签约艺人乔克",
+    "icon": 1016,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4007,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7047": {
+    "id": 7047,
+    "zh_cn_name": "林斯合同",
+    "zh_cn_item_des": "收集40份可以签约艺人林斯",
+    "icon": 1020,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4008,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7048": {
+    "id": 7048,
+    "zh_cn_name": "托尼合同",
+    "zh_cn_item_des": "收集40份可以签约艺人托尼",
+    "icon": 1024,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4009,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7049": {
+    "id": 7049,
+    "zh_cn_name": "曼迪合同",
+    "zh_cn_item_des": "收集40份可以签约艺人曼迪",
+    "icon": 1025,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4010,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7050": {
+    "id": 7050,
+    "zh_cn_name": "凯莉合同",
+    "zh_cn_item_des": "收集40份可以签约艺人凯莉",
+    "icon": 1037,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4011,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7051": {
+    "id": 7051,
+    "zh_cn_name": "诺尔合同",
+    "zh_cn_item_des": "收集40份可以签约艺人诺尔",
+    "icon": 1042,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4012,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7052": {
+    "id": 7052,
+    "zh_cn_name": "本杰明合同",
+    "zh_cn_item_des": "收集40份可以签约艺人本杰明",
+    "icon": 1044,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4013,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7053": {
+    "id": 7053,
+    "zh_cn_name": "蒂莫西合同",
+    "zh_cn_item_des": "收集40份可以签约艺人蒂莫西",
+    "icon": 1046,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4014,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7054": {
+    "id": 7054,
+    "zh_cn_name": "詹娜合同",
+    "zh_cn_item_des": "收集40份可以签约艺人詹娜",
+    "icon": 1053,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4015,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7055": {
+    "id": 7055,
+    "zh_cn_name": "琳达合同",
+    "zh_cn_item_des": "收集40份可以签约艺人琳达",
+    "icon": 1058,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4016,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7056": {
+    "id": 7056,
+    "zh_cn_name": "马里合同",
+    "zh_cn_item_des": "收集40份可以签约艺人马里",
+    "icon": 1066,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4017,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7057": {
+    "id": 7057,
+    "zh_cn_name": "普尔合同",
+    "zh_cn_item_des": "收集40份可以签约艺人普尔",
+    "icon": 1045,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4018,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7058": {
+    "id": 7058,
+    "zh_cn_name": "米妮合同",
+    "zh_cn_item_des": "收集40份可以签约艺人米妮",
+    "icon": 1081,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4019,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7059": {
+    "id": 7059,
+    "zh_cn_name": "文森特合同",
+    "zh_cn_item_des": "收集40份可以签约艺人文森特",
+    "icon": 1070,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4020,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7060": {
+    "id": 7060,
+    "zh_cn_name": "布拉德合同",
+    "zh_cn_item_des": "收集40份可以签约艺人布拉德",
+    "icon": 1074,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4021,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7061": {
+    "id": 7061,
+    "zh_cn_name": "贾维合同",
+    "zh_cn_item_des": "收集40份可以签约艺人贾维",
+    "icon": 1075,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4022,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7062": {
+    "id": 7062,
+    "zh_cn_name": "爱丽合同",
+    "zh_cn_item_des": "收集40份可以签约艺人爱丽",
+    "icon": 1002,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4023,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7063": {
+    "id": 7063,
+    "zh_cn_name": "凯文合同",
+    "zh_cn_item_des": "收集40份可以签约艺人凯文",
+    "icon": 1092,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4024,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7064": {
+    "id": 7064,
+    "zh_cn_name": "奥利维亚合同",
+    "zh_cn_item_des": "收集40份可以签约艺人奥利维亚",
+    "icon": 1052,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4025,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7065": {
+    "id": 7065,
+    "zh_cn_name": "哈里合同",
+    "zh_cn_item_des": "收集40份可以签约艺人哈里",
+    "icon": 1094,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4026,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7066": {
+    "id": 7066,
+    "zh_cn_name": "贝蒂合同",
+    "zh_cn_item_des": "收集40份可以签约艺人贝蒂",
+    "icon": 1095,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4027,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7067": {
+    "id": 7067,
+    "zh_cn_name": "杨梓合同",
+    "zh_cn_item_des": "收集40份可以签约艺人杨梓",
+    "icon": 1096,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4028,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7068": {
+    "id": 7068,
+    "zh_cn_name": "埃尔顿合同",
+    "zh_cn_item_des": "收集40份可以签约艺人埃尔顿",
+    "icon": 1099,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4029,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7069": {
+    "id": 7069,
+    "zh_cn_name": "贝拉合同",
+    "zh_cn_item_des": "收集40份可以签约艺人贝拉",
+    "icon": 1062,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4030,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7070": {
+    "id": 7070,
+    "zh_cn_name": "莱奥合同",
+    "zh_cn_item_des": "收集50份可以签约艺人莱奥",
+    "icon": 1004,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5001,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7071": {
+    "id": 7071,
+    "zh_cn_name": "罗德尼合同",
+    "zh_cn_item_des": "收集50份可以签约艺人罗德尼",
+    "icon": 1005,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5002,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7072": {
+    "id": 7072,
+    "zh_cn_name": "迪普合同",
+    "zh_cn_item_des": "收集50份可以签约艺人迪普",
+    "icon": 1009,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5003,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7073": {
+    "id": 7073,
+    "zh_cn_name": "丹尼合同",
+    "zh_cn_item_des": "收集50份可以签约艺人丹尼",
+    "icon": 1030,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5004,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7074": {
+    "id": 7074,
+    "zh_cn_name": "布拉德利合同",
+    "zh_cn_item_des": "收集50份可以签约艺人布拉德利",
+    "icon": 1013,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5005,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7075": {
+    "id": 7075,
+    "zh_cn_name": "玛拉合同",
+    "zh_cn_item_des": "收集50份可以签约艺人玛拉",
+    "icon": 1018,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5006,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7076": {
+    "id": 7076,
+    "zh_cn_name": "简合同",
+    "zh_cn_item_des": "收集50份可以签约艺人简",
+    "icon": 1021,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5007,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7077": {
+    "id": 7077,
+    "zh_cn_name": "克拉特合同",
+    "zh_cn_item_des": "收集50份可以签约艺人克拉特",
+    "icon": 1026,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5008,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7078": {
+    "id": 7078,
+    "zh_cn_name": "琼斯合同",
+    "zh_cn_item_des": "收集50份可以签约艺人琼斯",
+    "icon": 1028,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5009,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7079": {
+    "id": 7079,
+    "zh_cn_name": "海克斯合同",
+    "zh_cn_item_des": "收集50份可以签约艺人海克斯",
+    "icon": 1057,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5010,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7080": {
+    "id": 7080,
+    "zh_cn_name": "杰克合同",
+    "zh_cn_item_des": "收集50份可以签约艺人杰克",
+    "icon": 1061,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5011,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7081": {
+    "id": 7081,
+    "zh_cn_name": "伯恩合同",
+    "zh_cn_item_des": "收集50份可以签约艺人伯恩",
+    "icon": 1076,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5012,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7082": {
+    "id": 7082,
+    "zh_cn_name": "高登合同",
+    "zh_cn_item_des": "收集50份可以签约艺人高登",
+    "icon": 1077,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5013,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7083": {
+    "id": 7083,
+    "zh_cn_name": "特鲁斯合同",
+    "zh_cn_item_des": "收集50份可以签约艺人特鲁斯",
+    "icon": 1036,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5014,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7084": {
+    "id": 7084,
+    "zh_cn_name": "斯黛拉合同",
+    "zh_cn_item_des": "收集50份可以签约艺人斯黛拉",
+    "icon": 1038,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5015,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7085": {
+    "id": 7085,
+    "zh_cn_name": "艾莉森合同",
+    "zh_cn_item_des": "收集50份可以签约艺人艾莉森",
+    "icon": 1039,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5016,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7086": {
+    "id": 7086,
+    "zh_cn_name": "威利合同",
+    "zh_cn_item_des": "收集50份可以签约艺人威利",
+    "icon": 1033,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5017,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7087": {
+    "id": 7087,
+    "zh_cn_name": "本合同",
+    "zh_cn_item_des": "收集50份可以签约艺人本",
+    "icon": 1032,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5018,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7088": {
+    "id": 7088,
+    "zh_cn_name": "艾丽娅合同",
+    "zh_cn_item_des": "收集50份可以签约艺人艾丽娅",
+    "icon": 1040,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5019,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7089": {
+    "id": 7089,
+    "zh_cn_name": "琼合同",
+    "zh_cn_item_des": "收集50份可以签约艺人琼",
+    "icon": 1041,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5020,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7090": {
+    "id": 7090,
+    "zh_cn_name": "大卫合同",
+    "zh_cn_item_des": "收集50份可以签约艺人大卫",
+    "icon": 1043,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5021,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7091": {
+    "id": 7091,
+    "zh_cn_name": "格雷合同",
+    "zh_cn_item_des": "收集50份可以签约艺人格雷",
+    "icon": 1048,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5022,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7092": {
+    "id": 7092,
+    "zh_cn_name": "丽兹合同",
+    "zh_cn_item_des": "收集50份可以签约艺人丽兹",
+    "icon": 1049,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5023,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7093": {
+    "id": 7093,
+    "zh_cn_name": "奈拉合同",
+    "zh_cn_item_des": "收集50份可以签约艺人奈拉",
+    "icon": 1059,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5024,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7094": {
+    "id": 7094,
+    "zh_cn_name": "莉西合同",
+    "zh_cn_item_des": "收集50份可以签约艺人莉西",
+    "icon": 1051,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5025,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7095": {
+    "id": 7095,
+    "zh_cn_name": "康纳合同",
+    "zh_cn_item_des": "收集50份可以签约艺人康纳",
+    "icon": 1069,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5026,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7096": {
+    "id": 7096,
+    "zh_cn_name": "娜拉合同",
+    "zh_cn_item_des": "收集50份可以签约艺人娜拉",
+    "icon": 1034,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5027,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7097": {
+    "id": 7097,
+    "zh_cn_name": "柳珈琳合同",
+    "zh_cn_item_des": "收集50份可以签约艺人柳珈琳",
+    "icon": 1035,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5028,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7098": {
+    "id": 7098,
+    "zh_cn_name": "房龙合同",
+    "zh_cn_item_des": "收集50份可以签约艺人房龙",
+    "icon": 1027,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5029,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7099": {
+    "id": 7099,
+    "zh_cn_name": "雷顿合同",
+    "zh_cn_item_des": "收集50份可以签约艺人雷顿",
+    "icon": 1054,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5030,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7100": {
+    "id": 7100,
+    "zh_cn_name": "威尔合同",
+    "zh_cn_item_des": "收集50份可以签约艺人威尔",
+    "icon": 1079,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5031,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7101": {
+    "id": 7101,
+    "zh_cn_name": "梅梅合同",
+    "zh_cn_item_des": "收集50份可以签约艺人梅梅",
+    "icon": 1101,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5032,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "7102": {
+    "id": 7102,
+    "zh_cn_name": "石通合同",
+    "zh_cn_item_des": "收集50份可以签约艺人石通",
+    "icon": 1102,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5033,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "星探招募已拥有的艺人时可获得艺人合同"
+  },
+  "8901": {
+    "id": 8901,
+    "zh_cn_name": "一星艺人随机合同礼包",
+    "zh_cn_item_des": "打开会获得一份随机1星艺人合同",
+    "icon": 2053,
+    "star": 1301,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 7001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7002,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7003,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7004,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7005,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7006,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可在部分活动中获得"
+  },
+  "8902": {
+    "id": 8902,
+    "zh_cn_name": "二星艺人随机合同礼包",
+    "zh_cn_item_des": "打开会获得一份随机2星艺人合同",
+    "icon": 2053,
+    "star": 1302,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 7007,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7008,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7009,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7010,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7011,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7012,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7013,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7014,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7015,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7016,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7017,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7018,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7019,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7020,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7021,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可在部分活动中获得"
+  },
+  "8903": {
+    "id": 8903,
+    "zh_cn_name": "三星艺人随机合同礼包",
+    "zh_cn_item_des": "打开会获得一份随机3星艺人合同",
+    "icon": 2053,
+    "star": 1303,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 7022,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7023,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7024,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7025,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7026,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7027,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7028,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7029,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7030,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7031,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7032,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7033,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7034,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7035,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7036,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7037,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7038,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7039,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可在部分活动中获得"
+  },
+  "8904": {
+    "id": 8904,
+    "zh_cn_name": "四星艺人随机合同礼包",
+    "zh_cn_item_des": "打开会获得一份随机4星艺人合同",
+    "icon": 2053,
+    "star": 1304,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 7040,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7041,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7042,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7043,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7044,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7045,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7046,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7047,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7048,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7049,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7050,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7051,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7052,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7053,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7054,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7055,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7056,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7057,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7058,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7059,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7060,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7061,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7062,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7063,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7064,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7065,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7066,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7067,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7068,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7069,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可在部分活动中获得"
+  },
+  "8905": {
+    "id": 8905,
+    "zh_cn_name": "五星艺人随机合同礼包",
+    "zh_cn_item_des": "打开会获得一份随机5星艺人合同",
+    "icon": 2053,
+    "star": 1305,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 7070,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7071,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7072,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7073,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7074,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7075,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7076,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7077,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7078,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7079,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7080,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7081,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7082,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7083,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7084,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7085,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7086,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7087,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7088,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7089,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7090,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7091,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7092,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7093,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7094,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7095,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7096,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7097,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7098,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7099,
+        "itemNum": 1
+      },
+      {
+        "itemId": 7100,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "可在部分活动中获得"
+  }
+}

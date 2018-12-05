@@ -1,0 +1,2700 @@
+﻿{
+  "1": {
+    "id": 1,
+    "key": "Gold_Convert_Count",
+    "name": "金币兑换初始每日次数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "金币兑换"
+  },
+  "2": {
+    "id": 2,
+    "key": "Gold_Convert_Times",
+    "name": "金币兑换每日刷新时间（点）",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "金币兑换"
+  },
+  "3": {
+    "id": 3,
+    "key": "Actor_Training_OpenLevel",
+    "name": "艺人培训开启等级",
+    "value": 30,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人培训"
+  },
+  "4": {
+    "id": 4,
+    "key": "Licence_Store_Max",
+    "name": "拍摄许可证上限",
+    "value": 2,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "5": {
+    "id": 5,
+    "key": "Licence_Restore_Max",
+    "name": "每日许可证回复数量",
+    "value": 14,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "6": {
+    "id": 6,
+    "key": "Script_choose_num",
+    "name": "初始剧本可选择数量",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "7": {
+    "id": 7,
+    "key": "Popularize_Duration",
+    "name": "电影下线后的持续收益时间（分钟）",
+    "value": 120,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "8": {
+    "id": 8,
+    "key": "Movie_Shoot_Time",
+    "name": "电影拍摄时长（秒）",
+    "value": 50,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "9": {
+    "id": 9,
+    "key": "Max_Movie_Num",
+    "name": "最多可同时进行持续收益的电影数量",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "10": {
+    "id": 10,
+    "key": "Max_Movie_Popularize_Level",
+    "name": "电影关注度最大等级",
+    "value": 20,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "11": {
+    "id": 11,
+    "key": "Licence_Restore_Time",
+    "name": "许可证回复刷新时间（每日N点）",
+    "value": 22,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "12": {
+    "id": 12,
+    "key": "Max_Expect",
+    "name": "电影期待值最高等级",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "13": {
+    "id": 13,
+    "key": "Tired_Times",
+    "name": "电影同类拍摄疲劳度",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "14": {
+    "id": 14,
+    "key": "Movie_Stop_Tips",
+    "name": "电影提前下映收益（%）",
+    "value": 50,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "15": {
+    "id": 15,
+    "key": "Block_Ranking_List_Reset",
+    "name": "分组排行榜刷新时间（废弃，若要修改需找服务器）",
+    "value": 22,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "街区排行"
+  },
+  "16": {
+    "id": 16,
+    "key": "Block_Ranking_List_Player_Num",
+    "name": "分组排行榜玩家数量",
+    "value": 100,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "街区排行"
+  },
+  "17": {
+    "id": 17,
+    "key": "Server_Ranking_List_Reset",
+    "name": "同服排行榜刷新时间（废弃，若要修改需找服务器）",
+    "value": 22,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "同服排行"
+  },
+  "18": {
+    "id": 18,
+    "key": "Block_Ranking_List_Congratulate_Times",
+    "name": "街区排行祝贺次数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "街区排行"
+  },
+  "19": {
+    "id": 19,
+    "key": "Block_Ranking_List_Congratulate_Cd",
+    "name": "街区排行祝贺冷却（秒）",
+    "value": 3600,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "街区排行"
+  },
+  "20": {
+    "id": 20,
+    "key": "Story_CD",
+    "name": "剧本冷却时间（分钟）",
+    "value": 240,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "21": {
+    "id": 21,
+    "key": "Golden_Story_Time",
+    "name": "金本属性加成时间（秒）",
+    "value": 15,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "22": {
+    "id": 22,
+    "key": "Golden_Story_Num",
+    "name": "金本属性加成次数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄"
+  },
+  "23": {
+    "id": 23,
+    "key": "KEY_23_AoSiKaBi__JiangLiDaoJu",
+    "name": "奥斯卡比赛单次大卖奖励道具",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [
+      {
+        "v1": 1,
+        "v2": 10
+      },
+      {
+        "v1": 14,
+        "v2": 1
+      }
+    ],
+    "value3": [],
+    "value5": [],
+    "tips": "奥斯卡"
+  },
+  "24": {
+    "id": 24,
+    "key": "KEY_24_AoSiKaBi__JiangLiShangXian",
+    "name": "奥斯卡比赛大卖奖励上限",
+    "value": 4,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "奥斯卡"
+  },
+  "25": {
+    "id": 25,
+    "key": "KEY_25_AoSiKaBanJiangShiJian",
+    "name": "奥斯卡颁奖时间（废弃，若要修改需找服务器）",
+    "value": 22,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "奥斯卡"
+  },
+  "26": {
+    "id": 26,
+    "key": "KEY_26_AoSiKaBan__YingShiJianMiao",
+    "name": "奥斯卡颁奖前禁止拍摄电影时间（秒）",
+    "value": 3000,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "奥斯卡"
+  },
+  "27": {
+    "id": 27,
+    "key": "KEY_27_ShouCiGeZuoJiangLi",
+    "name": "首次合作奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      50
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "合作"
+  },
+  "28": {
+    "id": 28,
+    "key": "KEY_28_ShouCiZhangHao__GeZuoJiangLi",
+    "name": "首次账号查找建立合作奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      50
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "合作"
+  },
+  "29": {
+    "id": 29,
+    "key": "KEY_29_MeiZhouGeZuoCiShu",
+    "name": "每周合作次数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "合作"
+  },
+  "30": {
+    "id": 30,
+    "key": "KEY_30_GeZuoRenWu__MeiRiNDian",
+    "name": "合作任务刷新时间（每日N点）",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "31": {
+    "id": 31,
+    "key": "KEY_31_MeiTiFangWen__DengJiShangXian",
+    "name": "媒体访问等级上限",
+    "value": 20,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "32": {
+    "id": 32,
+    "key": "KEY_32_MeiTiFangWen__ShuLiangOuJian",
+    "name": "媒体访问随机数量区间",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      3,
+      7
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "33": {
+    "id": 33,
+    "key": "KEY_33_MeiTiFangWen__ShuLiangShangXian",
+    "name": "媒体访问数量上限",
+    "value": 8,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "34": {
+    "id": 34,
+    "key": "KEY_34_MeiRiPaiShe__MeiRiNDian",
+    "name": "每日拍摄总疲劳清零时间（每日N点）",
+    "value": 22,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "35": {
+    "id": 35,
+    "key": "Bag_Initial_Capacity",
+    "name": "周边仓库初始容量",
+    "value": 100,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "36": {
+    "id": 36,
+    "key": "Movie_License_default_Cd",
+    "name": "许可证重置冷却时间（秒）",
+    "value": 300,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "37": {
+    "id": 37,
+    "key": "Movie_Histogram_Time",
+    "name": "电影柱状图时间（每根的增长时间/毫秒）",
+    "value": 2000,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "38": {
+    "id": 38,
+    "key": "Movie_Licence_ID",
+    "name": "拍摄消耗道具id",
+    "value": 4,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "39": {
+    "id": 39,
+    "key": "Oscar_Candidate_Num",
+    "name": "奥斯卡颁奖候选数量",
+    "value": 30,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "40": {
+    "id": 40,
+    "key": "Actor_Train_Exp",
+    "name": "艺人训练初始经验",
+    "value": 50,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "41": {
+    "id": 41,
+    "key": "Actor_Train_Time",
+    "name": "艺人训练初始时间（分钟）",
+    "value": 240,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "42": {
+    "id": 42,
+    "key": "Oscar_Best_Actor",
+    "name": "奥斯卡最佳男演员奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      300
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "43": {
+    "id": 43,
+    "key": "Oscar_Best_Actress",
+    "name": "奥斯卡最佳女演员奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      300
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "44": {
+    "id": 44,
+    "key": "Oscar_Best_Performance",
+    "name": "奥斯卡最佳表演电影奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      300
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "45": {
+    "id": 45,
+    "key": "Oscar_Best_Art",
+    "name": "奥斯卡最佳艺术电影奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      300
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "46": {
+    "id": 46,
+    "key": "Oscar_Best_Welcome",
+    "name": "奥斯卡最受欢迎电影奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      300
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "47": {
+    "id": 47,
+    "key": "Training_Area_Price",
+    "name": "艺人训练位价格",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [
+      {
+        "v1": 1,
+        "v2": 500
+      },
+      {
+        "v1": 1,
+        "v2": 1000
+      },
+      {
+        "v1": 1,
+        "v2": 1500
+      },
+      {
+        "v1": 1,
+        "v2": 2000
+      }
+    ],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "48": {
+    "id": 48,
+    "key": "Oscar_Congratulated_Reward",
+    "name": "奥斯卡祝贺奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      6,
+      50
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "49": {
+    "id": 49,
+    "key": "Cooperate_Send_Dollar_times",
+    "name": "合作赠送美元次数",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "50": {
+    "id": 50,
+    "key": "Cooperate_Send_Gold_times",
+    "name": "合作赠送金币次数",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "51": {
+    "id": 51,
+    "key": "Cooperate_Invited_CD",
+    "name": "发出合作邀请间隔时间（秒）",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "52": {
+    "id": 52,
+    "key": "Cooperate_Public_Invited_Time",
+    "name": "公开邀请持续时间（秒）",
+    "value": 86400,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "53": {
+    "id": 53,
+    "key": "Cooperate_Open_data",
+    "name": "合作开启条件（街区id，必须同时修改unlock表）",
+    "value": 1002,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "55": {
+    "id": 55,
+    "key": "Conversion_Initial_Times",
+    "name": "初始每日金币兑换次数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "56": {
+    "id": 56,
+    "key": "Conversion_Refresh_Time",
+    "name": "金币兑换每日刷新时间（每日N点）",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "1001": {
+    "id": 1001,
+    "key": "KEY_1001_TanChaXiaoHao",
+    "name": "探查消耗",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      2,
+      100
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "探查消耗"
+  },
+  "1002": {
+    "id": 1002,
+    "key": "KEY_1002_XingTanQiaoMu__ChaCDFen",
+    "name": "星探招募探查CD(分)",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "星探招募探查CD(分)"
+  },
+  "1003": {
+    "id": 1003,
+    "key": "KEY_1003_MeiCiTanCha__JiaShiJianFen",
+    "name": "每次探查后CD增加时间(分)",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "每次探查后CD增加时间(分)"
+  },
+  "1004": {
+    "id": 1004,
+    "key": "KEY_1004_TanChaCiShuShangXian",
+    "name": "探查次数上限",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "探查次数上限"
+  },
+  "1005": {
+    "id": 1005,
+    "key": "KEY_1005_TanChaCD__WuQiShiJian",
+    "name": "探查CD重置时间(服务器时间)",
+    "value": 22,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "探查CD重置时间(服务器时间)"
+  },
+  "1006": {
+    "id": 1006,
+    "key": "KEY_1006_TanChaChuYi__RenShuLiangGe",
+    "name": "探查出艺人数量(个)",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "探查出艺人数量(个)"
+  },
+  "1007": {
+    "id": 1007,
+    "key": "KEY_1007_TanChaChuYi__ZaiShiJianFen",
+    "name": "探查出艺人存在时间(分)",
+    "value": 30,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "探查出艺人存在时间(分)"
+  },
+  "1008": {
+    "id": 1008,
+    "key": "KEY_1008_JiangZhiTanCha__PinHeShuLiang",
+    "name": "强制探查消耗物品和数量",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      5007,
+      1
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "强制探查消耗物品和数量"
+  },
+  "1009": {
+    "id": 1009,
+    "key": "KEY_1009_ZuanDanZengJia__ShuLiangXiaoHao",
+    "name": "钻石增加艺人上限数量消耗",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      500
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "钻石增加艺人上限数量消耗"
+  },
+  "1010": {
+    "id": 1010,
+    "key": "KEY_1010_ZiDingYiYi__MingChenXiaoHao",
+    "name": "自定义艺人名称消耗",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      50
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "自定义艺人名称消耗"
+  },
+  "1011": {
+    "id": 1011,
+    "key": "KEY_1011_TiLiChongZhi__WuQiShiJian",
+    "name": "体力重置时间(服务器时间)",
+    "value": 22,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "体力重置时间(服务器时间)"
+  },
+  "1012": {
+    "id": 1012,
+    "key": "KEY_1012_ZuanDanPeiYang__YiRenXiaoHao",
+    "name": "钻石培养一次艺人消耗",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      10
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "钻石培养一次艺人消耗"
+  },
+  "1013": {
+    "id": 1013,
+    "key": "KEY_1013_XingTanCiShu",
+    "name": "星探次数",
+    "value": 1,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "星探次数"
+  },
+  "1014": {
+    "id": 1014,
+    "key": "KEY_1014_TanChaXingJi__SuiJiGongShi",
+    "name": "探查星级随机公式",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [
+      {
+        "v1": 1301,
+        "v2": 50
+      },
+      {
+        "v1": 1302,
+        "v2": 40
+      },
+      {
+        "v1": 1303,
+        "v2": 8
+      },
+      {
+        "v1": 1304,
+        "v2": 2
+      }
+    ],
+    "value3": [],
+    "value5": [],
+    "tips": "探查星级随机公式"
+  },
+  "1015": {
+    "id": 1015,
+    "key": "KEY_1015_YiRenZaiLou__ShuLiangShangXian",
+    "name": "艺人在楼层中出现的数量上限",
+    "value": 4,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人在楼层中出现的数量上限"
+  },
+  "1016": {
+    "id": 1016,
+    "key": "KEY_1016_MoXingZaiLou__JianDeShuLiang",
+    "name": "模型在楼层中播放事件的数量",
+    "value": 15,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "模型在楼层中播放事件的数量"
+  },
+  "1017": {
+    "id": 1017,
+    "key": "KEY_1017_MoXingZaiLou__YiDongSuDu",
+    "name": "模型在楼层中移动速度",
+    "value": 20,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "模型在楼层中移动速度"
+  },
+  "1018": {
+    "id": 1018,
+    "key": "KEY_1018_DianYingShangYing__ShuaXinShuLiang",
+    "name": "电影上映时,电影院NPC刷新数量",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      4,
+      8
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "电影上映时,电影院NPC刷新数量"
+  },
+  "1019": {
+    "id": 1019,
+    "key": "KEY_1019_TanBanShiYi__ZuoDeSuDu",
+    "name": "探班时,艺人跑动动作的速度",
+    "value": 40,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "探班时,艺人跑动动作的速度"
+  },
+  "1020": {
+    "id": 1020,
+    "key": "KEY_1020_YiRenPaiShe__HuoBiLeiXing",
+    "name": "艺人拍摄电影时，片酬消耗的货币类型",
+    "value": 1002,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人拍摄消耗美元"
+  },
+  "1021": {
+    "id": 1021,
+    "key": "KEY_1021_1JiShanChang__MiaoShuWenZi",
+    "name": "1级擅长标签描述文字",
+    "value": 0,
+    "value4": "一般擅长",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "1级擅长标签描述文字"
+  },
+  "1022": {
+    "id": 1022,
+    "key": "KEY_1022_2JiShanChang__MiaoShuWenZi",
+    "name": "2级擅长标签描述文字",
+    "value": 0,
+    "value4": "普通擅长",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "2级擅长标签描述文字"
+  },
+  "1023": {
+    "id": 1023,
+    "key": "KEY_1023_3JiShanChang__MiaoShuWenZi",
+    "name": "3级擅长标签描述文字",
+    "value": 0,
+    "value4": "比较擅长",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "3级擅长标签描述文字"
+  },
+  "1024": {
+    "id": 1024,
+    "key": "KEY_1024_4JiShanChang__MiaoShuWenZi",
+    "name": "4级擅长标签描述文字",
+    "value": 0,
+    "value4": "非常擅长",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "4级擅长标签描述文字"
+  },
+  "1025": {
+    "id": 1025,
+    "key": "KEY_1025_WanGuChuShi__ShangXianShuLiang",
+    "name": "玩家初始艺人上限数量",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "玩家初始艺人上限数量"
+  },
+  "1026": {
+    "id": 1026,
+    "key": "KEY_1026_WanGuChuShi__ShuLiangShangXian",
+    "name": "玩家初始雪藏艺人数量上限",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "玩家初始雪藏艺人数量上限"
+  },
+  "1027": {
+    "id": 1027,
+    "key": "KEY_1027_YiRenPeiYang__ShiJianHaoMiao",
+    "name": "艺人培养类型1动作持续时间（毫秒）",
+    "value": 2500,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人培养类型1动作持续时间（毫秒）"
+  },
+  "1028": {
+    "id": 1028,
+    "key": "KEY_1028_YiRenPeiYang__ShiJianHaoMiao",
+    "name": "艺人培养类型2动作持续时间（毫秒）",
+    "value": 2500,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人培养类型2动作持续时间（毫秒）"
+  },
+  "1029": {
+    "id": 1029,
+    "key": "KEY_1029_YiRenPeiYang__ShiJianHaoMiao",
+    "name": "艺人培养类型3动作持续时间（毫秒）",
+    "value": 2500,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人培养类型3动作持续时间（毫秒）"
+  },
+  "1030": {
+    "id": 1030,
+    "key": "KEY_1030_YiRenPeiYang__ShiJianHaoMiao",
+    "name": "艺人培养类型4动作持续时间（毫秒）",
+    "value": 2500,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人培养类型4动作持续时间（毫秒）"
+  },
+  "1031": {
+    "id": 1031,
+    "key": "KEY_1031_GongSiPeiYang__WuQiShiJian",
+    "name": "公司培养次数重置时间（服务器时间）",
+    "value": 22,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "公司培养次数重置时间（服务器时间）"
+  },
+  "1032": {
+    "id": 1032,
+    "key": "KEY_1032_YiRenPeiYang__ChengShiID",
+    "name": "艺人培养功能解锁条件（占领城市ID）",
+    "value": 1110,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人培养功能解锁条件（占领城市ID）"
+  },
+  "1033": {
+    "id": 1033,
+    "key": "KEY_1033_YiRenJiNeng__GongSiDengJi",
+    "name": "艺人技能页签解锁条件（公司等级）",
+    "value": 15,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人技能页签解锁条件（公司等级）"
+  },
+  "1034": {
+    "id": 1034,
+    "key": "KEY_1034_YiRenZiChan__GongSiDengJi",
+    "name": "艺人资产页签解锁条件（公司等级）",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人资产页签解锁条件（公司等级）"
+  },
+  "1035": {
+    "id": 1035,
+    "key": "KEY_1035_YiRenZhongCheng__ShangXianShuLiang",
+    "name": "艺人忠诚卡增加赠送上限数量",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人忠诚卡增加赠送上限数量"
+  },
+  "1036": {
+    "id": 1036,
+    "key": "KEY_1036",
+    "name": "艺人助理页签解锁条件(艺人等级)",
+    "value": 90,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人助理页签解锁条件(艺人等级)"
+  },
+  "1037": {
+    "id": 1037,
+    "key": "KEY_1037",
+    "name": "艺人专业助理解锁条件(艺人等级)",
+    "value": 90,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人专业助理解锁条件(艺人等级)"
+  },
+  "1038": {
+    "id": 1038,
+    "key": "KEY_1038",
+    "name": "艺人替身演员解锁条件(艺人等级)",
+    "value": 160,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "艺人替身演员解锁条件(艺人等级)"
+  },
+  "1039": {
+    "id": 1039,
+    "key": "KEY_1039",
+    "name": "聘用替身演员的消耗公式(艺人合同)",
+    "value": 0,
+    "value4": "({0}*({1}-1300))^(1/2)",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "{0}为替身演员等级,{1}为替身演员星级"
+  },
+  "1040": {
+    "id": 1040,
+    "key": "KEY_1040",
+    "name": "替身演员第一个擅长标签解锁亲密度等级",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "替身演员第一个擅长标签解锁亲密度等级"
+  },
+  "1041": {
+    "id": 1041,
+    "key": "KEY_1041",
+    "name": "替身演员第二个擅长标签解锁亲密度等级",
+    "value": 6,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "替身演员第二个擅长标签解锁亲密度等级"
+  },
+  "1042": {
+    "id": 1042,
+    "key": "KEY_1042",
+    "name": "替身演员第三个擅长标签解锁亲密度等级",
+    "value": 9,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "替身演员第三个擅长标签解锁亲密度等级"
+  },
+  "1043": {
+    "id": 1043,
+    "key": "KEY_1043",
+    "name": "图鉴界面玩家留言数量",
+    "value": 20,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "图鉴界面玩家留言数量"
+  },
+  "1044": {
+    "id": 1044,
+    "key": "KEY_1044",
+    "name": "图鉴界面玩家留言字符长度",
+    "value": 50,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "图鉴界面玩家留言字符长度"
+  },
+  "1045": {
+    "id": 1045,
+    "key": "KEY_1045",
+    "name": "图鉴界面同一艺人玩家留言数量上限",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "图鉴界面同一艺人玩家留言数量上限"
+  },
+  "1046": {
+    "id": 1046,
+    "key": "KEY_1046",
+    "name": "星探NPC模型ID",
+    "value": 301,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "星探NPC模型ID"
+  },
+  "1047": {
+    "id": 1047,
+    "key": "KEY_1047",
+    "name": "培训师NPC模型ID",
+    "value": 303,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "培训师NPC模型ID"
+  },
+  "1048": {
+    "id": 1048,
+    "key": "KEY_1048",
+    "name": "训练师NPC模型ID",
+    "value": 302,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "训练师NPC模型ID"
+  },
+  "1049": {
+    "id": 1049,
+    "key": "KEY_1049",
+    "name": "剧情动画跳过按钮延迟时间（毫秒）",
+    "value": 1000,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "剧情动画跳过按钮延迟时间（毫秒）"
+  },
+  "1050": {
+    "id": 1050,
+    "key": "KEY_1050",
+    "name": "财务员NPC模型ID",
+    "value": 304,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "财务员NPC模型ID"
+  },
+  "1051": {
+    "id": 1051,
+    "key": "KEY_1051",
+    "name": "NPC1ID",
+    "value": 101,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "NPC1ID"
+  },
+  "1052": {
+    "id": 1052,
+    "key": "KEY_1052",
+    "name": "NPC2ID",
+    "value": 102,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "NPC2ID"
+  },
+  "1053": {
+    "id": 1053,
+    "key": "KEY_1053",
+    "name": "NPC3ID",
+    "value": 103,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "NPC3ID"
+  },
+  "1054": {
+    "id": 1054,
+    "key": "KEY_1054",
+    "name": "NPC4ID",
+    "value": 104,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "NPC4ID"
+  },
+  "1055": {
+    "id": 1055,
+    "key": "KEY_1055",
+    "name": "助理",
+    "value": 203,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2003": {
+    "id": 2003,
+    "key": "story_cost_rand",
+    "name": "剧本成本随机",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      80,
+      120
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "剧本成本随机区间"
+  },
+  "2004": {
+    "id": 2004,
+    "key": "actor_cost_rand",
+    "name": "角色成本随机",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      80,
+      120
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "角色成本随机区间"
+  },
+  "2009": {
+    "id": 2009,
+    "key": "rand_1",
+    "name": "总拍摄次数系数",
+    "value": 2,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "总拍摄次数疲劳系数"
+  },
+  "2010": {
+    "id": 2010,
+    "key": "rand_2",
+    "name": "连续拍摄系数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "连续拍摄疲劳系数"
+  },
+  "2011": {
+    "id": 2011,
+    "key": "tired_base",
+    "name": "疲劳参考值",
+    "value": 50,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2012": {
+    "id": 2012,
+    "key": "tired_con_1",
+    "name": "普通疲劳系数",
+    "value": 50,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "疲劳对电影属性影响系数"
+  },
+  "2013": {
+    "id": 2013,
+    "key": "tired_con_2",
+    "name": "金本疲劳系数",
+    "value": 40,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "疲劳对金本属性影响系数"
+  },
+  "2014": {
+    "id": 2014,
+    "key": "time",
+    "name": "拍摄总时长",
+    "value": 30,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄时进度条总时长"
+  },
+  "2015": {
+    "id": 2015,
+    "key": "type_timer_con",
+    "name": "拍摄类型时机",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      25,
+      40
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "选择拍摄类型的随机范围"
+  },
+  "2016": {
+    "id": 2016,
+    "key": "att_rate",
+    "name": "属性权重",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      100,
+      20
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "拍摄时随机属性的权重"
+  },
+  "2018": {
+    "id": 2018,
+    "key": "att_rand",
+    "name": "属性值随机区间",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      80,
+      120
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机区间"
+  },
+  "2019": {
+    "id": 2019,
+    "key": "delay_con",
+    "name": "延时参数",
+    "value": 20,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2020": {
+    "id": 2020,
+    "key": "delay_base",
+    "name": "延时基准值",
+    "value": 50,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2021": {
+    "id": 2021,
+    "key": "delay_count",
+    "name": "最多延时条数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "最多同时冒几条属性"
+  },
+  "2023": {
+    "id": 2023,
+    "key": "gold_att_con",
+    "name": "金本调整系数",
+    "value": 50,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2024": {
+    "id": 2024,
+    "key": "gold_count",
+    "name": "随机次数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "金本的额外属性随机几次"
+  },
+  "2025": {
+    "id": 2025,
+    "key": "bar_con",
+    "name": "进度条系数",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "进度条为平均值几倍"
+  },
+  "2027": {
+    "id": 2027,
+    "key": "evaluate_rand",
+    "name": "评价随机参数",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      50,
+      130
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机区间"
+  },
+  "2028": {
+    "id": 2028,
+    "key": "evaluate_con",
+    "name": "媒体评价参数",
+    "value": 24000,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2029": {
+    "id": 2029,
+    "key": "box_office_rand",
+    "name": "票房随机参数",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      85,
+      125
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机区间"
+  },
+  "2034": {
+    "id": 2034,
+    "key": "opinions_rand",
+    "name": "评价随机参数",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      50,
+      130
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机区间"
+  },
+  "2035": {
+    "id": 2035,
+    "key": "opinions_con",
+    "name": "观众口碑参数",
+    "value": 21,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2036": {
+    "id": 2036,
+    "key": "day_con",
+    "name": "放映参数",
+    "value": 2,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2037": {
+    "id": 2037,
+    "key": "follow_rand",
+    "name": "后续票房随机参数",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      35,
+      50
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机区间"
+  },
+  "2038": {
+    "id": 2038,
+    "key": "random_value",
+    "name": "随机评价对照值",
+    "value": 40,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机对照值"
+  },
+  "2039": {
+    "id": 2039,
+    "key": "random_rand",
+    "name": "随机范围",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      20,
+      100
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机范围"
+  },
+  "2040": {
+    "id": 2040,
+    "key": "random_con_1",
+    "name": "随机评价系数1",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      70,
+      80,
+      5,
+      1051
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机范围及随机权重"
+  },
+  "2041": {
+    "id": 2041,
+    "key": "random_con_2",
+    "name": "随机评价系数2",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      85,
+      95,
+      15,
+      1052
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机范围及随机权重"
+  },
+  "2042": {
+    "id": 2042,
+    "key": "random_con_3",
+    "name": "随机评价系数3",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      105,
+      115,
+      40,
+      1053
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机范围及随机权重"
+  },
+  "2043": {
+    "id": 2043,
+    "key": "random_con_4",
+    "name": "随机评价系数4",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      120,
+      130,
+      20,
+      1054
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "随机范围及随机权重"
+  },
+  "2044": {
+    "id": 2044,
+    "key": "task_convert_times",
+    "name": "每日任务及完成度刷新重置",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "每日任务及完成度刷新重置"
+  },
+  "2045": {
+    "id": 2045,
+    "key": "story_stack_daily_times",
+    "name": "剧本搜罗每天搜罗次数",
+    "value": 12,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2046": {
+    "id": 2046,
+    "key": "story_stack_search_cost",
+    "name": "剧本搜罗每次消耗物品",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [
+      {
+        "v1": 6,
+        "v2": 10
+      }
+    ],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2047": {
+    "id": 2047,
+    "key": "story_stack_cd_stage_cost",
+    "name": "剧本搜罗每阶段搜罗冷却加速消耗资源类型和数量",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [
+      {
+        "v1": 1,
+        "v2": 10
+      }
+    ],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2048": {
+    "id": 2048,
+    "key": "story_stack_cd_stage_length",
+    "name": "剧本搜罗阶段时长",
+    "value": 600,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "单位秒"
+  },
+  "2049": {
+    "id": 2049,
+    "key": "story_stack_cd_stages",
+    "name": "剧本搜罗阶段数量",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2050": {
+    "id": 2050,
+    "key": "story_stack_cd",
+    "name": "剧本搜罗冷却时间",
+    "value": 1800,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "阶段时长*阶段数量，便于程序调用"
+  },
+  "2051": {
+    "id": 2051,
+    "key": "story_stack_daily_update",
+    "name": "每日刷新时间",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "服务器零时刷新"
+  },
+  "2052": {
+    "id": 2052,
+    "key": "story_stack_cd_block_level",
+    "name": "剧本搜罗冷却功能开放所需街区等级",
+    "value": 1003,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2053": {
+    "id": 2053,
+    "key": "shop_daily_limit",
+    "name": "商店每日限购刷新时间",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "服务器每日零时刷新"
+  },
+  "2054": {
+    "id": 2054,
+    "key": "shop_weekly_limit",
+    "name": "商店每周限购刷新时间",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "服务器每周一零时刷新"
+  },
+  "2055": {
+    "id": 2055,
+    "key": "opinions",
+    "name": "观众口碑区间",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      5,
+      95
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "观众口碑取值限制区间"
+  },
+  "2056": {
+    "id": 2056,
+    "key": "evaluate",
+    "name": "媒体评价区间",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      5,
+      99
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "媒体评价取值限制区间"
+  },
+  "2057": {
+    "id": 2057,
+    "key": "fans_rand",
+    "name": "拍摄粉丝掉落随机范围",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      90,
+      110
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2058": {
+    "id": 2058,
+    "key": "BarGraph_rand",
+    "name": "后续票房随机参数",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      90,
+      110
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "后续票房柱状图波动范围"
+  },
+  "2059": {
+    "id": 2059,
+    "key": "BattlePoint_count",
+    "name": "柱状图总条数",
+    "value": 7,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2060": {
+    "id": 2060,
+    "key": "Extension_level_con",
+    "name": "下映收入推广等级参数",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      -1,
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "根据票房评价对应系数"
+  },
+  "2061": {
+    "id": 2061,
+    "key": "default_language",
+    "name": "默认语言",
+    "value": 1003,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "默认英语"
+  },
+  "2062": {
+    "id": 2062,
+    "key": "month_card_duration",
+    "name": "月卡持续天数",
+    "value": 30,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2063": {
+    "id": 2063,
+    "key": "proficiency",
+    "name": "艺人熟练度",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      1,
+      4
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": "熟练度随机范围"
+  },
+  "2064": {
+    "id": 2064,
+    "key": "cooperative_order_reward",
+    "name": "合作订单奖励",
+    "value": 0,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [
+      {
+        "v1": 9001,
+        "v2": 2,
+        "v3": 100
+      },
+      {
+        "v1": 9002,
+        "v2": 2,
+        "v3": 100
+      },
+      {
+        "v1": 9003,
+        "v2": 2,
+        "v3": 100
+      },
+      {
+        "v1": 9004,
+        "v2": 2,
+        "v3": 100
+      }
+    ],
+    "tips": ""
+  },
+  "2065": {
+    "id": 2065,
+    "key": "produce_inspire_buildlock",
+    "name": "生产艺人鼓舞建筑限制",
+    "value": 8003,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2066": {
+    "id": 2066,
+    "key": "produce_inspire_linelock",
+    "name": "生产艺人鼓舞生产线等级限制",
+    "value": 4,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2067": {
+    "id": 2067,
+    "key": "produce_production_less",
+    "name": "一键生产需要街区等级限制",
+    "value": 1006,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2068": {
+    "id": 2068,
+    "key": "produce_collection_less",
+    "name": "一键领取需要街区等级限制",
+    "value": 1004,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2069": {
+    "id": 2069,
+    "key": "market_ambassador",
+    "name": "市场第5个大使开放的街区等级",
+    "value": 1004,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2070": {
+    "id": 2070,
+    "key": "eventhall_score1",
+    "name": "活动大厅培养积分培养1次获得积分数",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2071": {
+    "id": 2071,
+    "key": "eventhall_score2",
+    "name": "活动大厅星探积分星探1次获得积分数",
+    "value": 5,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2072": {
+    "id": 2072,
+    "key": "Extension_box_office_con",
+    "name": "后续收益系数(每秒收益)",
+    "value": 180000,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2073": {
+    "id": 2073,
+    "key": "Extension_con",
+    "name": "推广等级系数",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2074": {
+    "id": 2074,
+    "key": "Firstday_Actor",
+    "name": "第一天首次探查艺人",
+    "value": 1303,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2075": {
+    "id": 2075,
+    "key": "Secondday_Actor",
+    "name": "第二天首次探查艺人",
+    "value": 1304,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2076": {
+    "id": 2076,
+    "key": "bussiness_number",
+    "name": "公务初始次数上限",
+    "value": 120,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2077": {
+    "id": 2077,
+    "key": "bussiness_max",
+    "name": "公务当前储存上限",
+    "value": 30,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2078": {
+    "id": 2078,
+    "key": "bussiness_cd",
+    "name": "公务刷新时间",
+    "value": 300,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2079": {
+    "id": 2079,
+    "key": "visit_number",
+    "name": "探班初始次数上限",
+    "value": 120,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2080": {
+    "id": 2080,
+    "key": "visit_max",
+    "name": "探班当前储存上限",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2081": {
+    "id": 2081,
+    "key": "visit_cd",
+    "name": "探班刷新时间",
+    "value": 900,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2082": {
+    "id": 2082,
+    "key": "meeting_times_basic",
+    "name": "基础会议存储次数",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2083": {
+    "id": 2083,
+    "key": "account_lock",
+    "name": "头像更换解锁等级",
+    "value": 10,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2084": {
+    "id": 2084,
+    "key": "common_task_amount",
+    "name": "普通任务数量限制",
+    "value": 3,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2085": {
+    "id": 2085,
+    "key": "common_task_change_times",
+    "name": "每日任务更换次数",
+    "value": 1,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2086": {
+    "id": 2086,
+    "key": "secretary_price",
+    "name": "小秘书价格临时显示（人民币）",
+    "value": 30,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  },
+  "2087": {
+    "id": 2087,
+    "key": "secretary_package",
+    "name": "小秘书礼包价格临时显示（人民币）",
+    "value": 1,
+    "value4": "",
+    "value1": [
+      0
+    ],
+    "value2": [],
+    "value3": [],
+    "value5": [],
+    "tips": ""
+  }
+}

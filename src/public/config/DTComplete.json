@@ -1,0 +1,226 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "module": "订单",
+    "completion": 5,
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 10
+      }
+    ]
+  },
+  "1002": {
+    "id": 1002,
+    "module": "订单",
+    "completion": 10,
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 25
+      }
+    ]
+  },
+  "1003": {
+    "id": 1003,
+    "module": "订单",
+    "completion": 20,
+    "reward": [
+      {
+        "itemId": 4,
+        "itemNum": 1
+      }
+    ]
+  },
+  "1004": {
+    "id": 1004,
+    "module": "订单",
+    "completion": 35,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 50
+      }
+    ]
+  },
+  "1005": {
+    "id": 1005,
+    "module": "订单",
+    "completion": 50,
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 125
+      },
+      {
+        "itemId": 4,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 50
+      }
+    ]
+  },
+  "2001": {
+    "id": 2001,
+    "module": "任务",
+    "completion": 20,
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 25
+      }
+    ]
+  },
+  "2002": {
+    "id": 2002,
+    "module": "任务",
+    "completion": 40,
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 50
+      }
+    ]
+  },
+  "2003": {
+    "id": 2003,
+    "module": "任务",
+    "completion": 60,
+    "reward": [
+      {
+        "itemId": 8002,
+        "itemNum": 25
+      }
+    ]
+  },
+  "2004": {
+    "id": 2004,
+    "module": "任务",
+    "completion": 90,
+    "reward": [
+      {
+        "itemId": 8002,
+        "itemNum": 50
+      }
+    ]
+  },
+  "2005": {
+    "id": 2005,
+    "module": "任务",
+    "completion": 120,
+    "reward": [
+      {
+        "itemId": 8003,
+        "itemNum": 50
+      }
+    ]
+  },
+  "3001": {
+    "id": 3001,
+    "module": "合作任务",
+    "completion": 5,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 10
+      },
+      {
+        "itemId": 8001,
+        "itemNum": 3
+      }
+    ]
+  },
+  "3002": {
+    "id": 3002,
+    "module": "合作任务",
+    "completion": 10,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 20
+      },
+      {
+        "itemId": 8001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 5
+      }
+    ]
+  },
+  "3003": {
+    "id": 3003,
+    "module": "合作任务",
+    "completion": 15,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 30
+      },
+      {
+        "itemId": 8001,
+        "itemNum": 8
+      }
+    ]
+  },
+  "3004": {
+    "id": 3004,
+    "module": "合作任务",
+    "completion": 20,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 40
+      },
+      {
+        "itemId": 8002,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5007,
+        "itemNum": 1
+      }
+    ]
+  },
+  "3005": {
+    "id": 3005,
+    "module": "合作任务",
+    "completion": 25,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 50
+      },
+      {
+        "itemId": 8002,
+        "itemNum": 4
+      },
+      {
+        "itemId": 1,
+        "itemNum": 50
+      }
+    ]
+  },
+  "3006": {
+    "id": 3006,
+    "module": "合作任务",
+    "completion": 30,
+    "reward": [
+      {
+        "itemId": 5002,
+        "itemNum": 80
+      },
+      {
+        "itemId": 8003,
+        "itemNum": 3
+      },
+      {
+        "itemId": 4,
+        "itemNum": 1
+      }
+    ]
+  }
+}

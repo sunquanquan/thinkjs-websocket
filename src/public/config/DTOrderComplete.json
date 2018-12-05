@@ -1,0 +1,16 @@
+﻿{
+  "1": {
+    "id": 1,
+    "completion": 50,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 2,
+        "itemNum": 7
+      }
+    ]
+  }
+}

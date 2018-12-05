@@ -1,0 +1,82 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "plat": 0,
+    "country": 0,
+    "gift": {
+      "itemId": 1,
+      "itemNum": 10
+    },
+    "cn": "全平台礼包"
+  },
+  "1002": {
+    "id": 1002,
+    "plat": 0,
+    "country": 0,
+    "gift": {
+      "itemId": 1,
+      "itemNum": 11
+    },
+    "cn": "全平台礼包"
+  },
+  "1003": {
+    "id": 1003,
+    "plat": 0,
+    "country": 0,
+    "gift": {
+      "itemId": 1,
+      "itemNum": 12
+    },
+    "cn": "全平台礼包"
+  },
+  "1004": {
+    "id": 1004,
+    "plat": 0,
+    "country": 0,
+    "gift": {
+      "itemId": 1,
+      "itemNum": 13
+    },
+    "cn": "全平台礼包"
+  },
+  "1005": {
+    "id": 1005,
+    "plat": 0,
+    "country": 0,
+    "gift": {
+      "itemId": 1,
+      "itemNum": 14
+    },
+    "cn": "全平台礼包"
+  },
+  "1006": {
+    "id": 1006,
+    "plat": 0,
+    "country": 0,
+    "gift": {
+      "itemId": 1,
+      "itemNum": 15
+    },
+    "cn": "全平台礼包"
+  },
+  "1007": {
+    "id": 1007,
+    "plat": 0,
+    "country": 0,
+    "gift": {
+      "itemId": 1,
+      "itemNum": 16
+    },
+    "cn": "全平台礼包"
+  },
+  "1008": {
+    "id": 1008,
+    "plat": 0,
+    "country": 0,
+    "gift": {
+      "itemId": 1,
+      "itemNum": 17
+    },
+    "cn": "全平台礼包"
+  }
+}

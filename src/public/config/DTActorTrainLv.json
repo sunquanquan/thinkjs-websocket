@@ -1,0 +1,13002 @@
+﻿{
+  "1": {
+    "id": 1,
+    "star1_vice": [
+      1,
+      1
+    ],
+    "star1_main": [
+      1,
+      1
+    ],
+    "star2_vice": [
+      1,
+      1
+    ],
+    "star2_main": [
+      1,
+      2
+    ],
+    "star3_vice": [
+      1,
+      1
+    ],
+    "star3_main": [
+      1,
+      2
+    ],
+    "star4_vice": [
+      1,
+      1
+    ],
+    "star4_main": [
+      1,
+      2
+    ],
+    "star5_vice": [
+      1,
+      2
+    ],
+    "star5_main": [
+      1,
+      3
+    ],
+    "star6_vice": [
+      1,
+      2
+    ],
+    "star6_main": [
+      2,
+      4
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1300
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "2": {
+    "id": 2,
+    "star1_vice": [
+      1,
+      1
+    ],
+    "star1_main": [
+      1,
+      1
+    ],
+    "star2_vice": [
+      1,
+      1
+    ],
+    "star2_main": [
+      1,
+      2
+    ],
+    "star3_vice": [
+      1,
+      1
+    ],
+    "star3_main": [
+      1,
+      2
+    ],
+    "star4_vice": [
+      1,
+      1
+    ],
+    "star4_main": [
+      1,
+      2
+    ],
+    "star5_vice": [
+      1,
+      2
+    ],
+    "star5_main": [
+      1,
+      3
+    ],
+    "star6_vice": [
+      1,
+      2
+    ],
+    "star6_main": [
+      2,
+      4
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2550
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "3": {
+    "id": 3,
+    "star1_vice": [
+      1,
+      1
+    ],
+    "star1_main": [
+      1,
+      1
+    ],
+    "star2_vice": [
+      1,
+      1
+    ],
+    "star2_main": [
+      1,
+      2
+    ],
+    "star3_vice": [
+      1,
+      1
+    ],
+    "star3_main": [
+      1,
+      2
+    ],
+    "star4_vice": [
+      1,
+      1
+    ],
+    "star4_main": [
+      1,
+      2
+    ],
+    "star5_vice": [
+      1,
+      2
+    ],
+    "star5_main": [
+      1,
+      3
+    ],
+    "star6_vice": [
+      1,
+      2
+    ],
+    "star6_main": [
+      2,
+      4
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3800
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "4": {
+    "id": 4,
+    "star1_vice": [
+      1,
+      1
+    ],
+    "star1_main": [
+      1,
+      1
+    ],
+    "star2_vice": [
+      1,
+      1
+    ],
+    "star2_main": [
+      1,
+      2
+    ],
+    "star3_vice": [
+      1,
+      1
+    ],
+    "star3_main": [
+      1,
+      2
+    ],
+    "star4_vice": [
+      1,
+      1
+    ],
+    "star4_main": [
+      1,
+      2
+    ],
+    "star5_vice": [
+      1,
+      2
+    ],
+    "star5_main": [
+      1,
+      3
+    ],
+    "star6_vice": [
+      1,
+      2
+    ],
+    "star6_main": [
+      2,
+      4
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5050
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "5": {
+    "id": 5,
+    "star1_vice": [
+      1,
+      1
+    ],
+    "star1_main": [
+      1,
+      1
+    ],
+    "star2_vice": [
+      1,
+      1
+    ],
+    "star2_main": [
+      1,
+      2
+    ],
+    "star3_vice": [
+      1,
+      1
+    ],
+    "star3_main": [
+      1,
+      2
+    ],
+    "star4_vice": [
+      1,
+      1
+    ],
+    "star4_main": [
+      1,
+      2
+    ],
+    "star5_vice": [
+      1,
+      2
+    ],
+    "star5_main": [
+      1,
+      3
+    ],
+    "star6_vice": [
+      1,
+      2
+    ],
+    "star6_main": [
+      2,
+      4
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 6350
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "6": {
+    "id": 6,
+    "star1_vice": [
+      1,
+      2
+    ],
+    "star1_main": [
+      1,
+      3
+    ],
+    "star2_vice": [
+      1,
+      2
+    ],
+    "star2_main": [
+      2,
+      4
+    ],
+    "star3_vice": [
+      1,
+      2
+    ],
+    "star3_main": [
+      2,
+      4
+    ],
+    "star4_vice": [
+      1,
+      3
+    ],
+    "star4_main": [
+      2,
+      6
+    ],
+    "star5_vice": [
+      1,
+      4
+    ],
+    "star5_main": [
+      3,
+      7
+    ],
+    "star6_vice": [
+      1,
+      4
+    ],
+    "star6_main": [
+      3,
+      9
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 7600
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "7": {
+    "id": 7,
+    "star1_vice": [
+      1,
+      2
+    ],
+    "star1_main": [
+      1,
+      3
+    ],
+    "star2_vice": [
+      1,
+      2
+    ],
+    "star2_main": [
+      2,
+      4
+    ],
+    "star3_vice": [
+      1,
+      2
+    ],
+    "star3_main": [
+      2,
+      4
+    ],
+    "star4_vice": [
+      1,
+      3
+    ],
+    "star4_main": [
+      2,
+      6
+    ],
+    "star5_vice": [
+      1,
+      4
+    ],
+    "star5_main": [
+      3,
+      7
+    ],
+    "star6_vice": [
+      1,
+      4
+    ],
+    "star6_main": [
+      3,
+      9
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 8850
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "8": {
+    "id": 8,
+    "star1_vice": [
+      1,
+      2
+    ],
+    "star1_main": [
+      1,
+      3
+    ],
+    "star2_vice": [
+      1,
+      2
+    ],
+    "star2_main": [
+      2,
+      4
+    ],
+    "star3_vice": [
+      1,
+      2
+    ],
+    "star3_main": [
+      2,
+      4
+    ],
+    "star4_vice": [
+      1,
+      3
+    ],
+    "star4_main": [
+      2,
+      6
+    ],
+    "star5_vice": [
+      1,
+      4
+    ],
+    "star5_main": [
+      3,
+      7
+    ],
+    "star6_vice": [
+      1,
+      4
+    ],
+    "star6_main": [
+      3,
+      9
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 10100
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "9": {
+    "id": 9,
+    "star1_vice": [
+      1,
+      2
+    ],
+    "star1_main": [
+      1,
+      3
+    ],
+    "star2_vice": [
+      1,
+      2
+    ],
+    "star2_main": [
+      2,
+      4
+    ],
+    "star3_vice": [
+      1,
+      2
+    ],
+    "star3_main": [
+      2,
+      4
+    ],
+    "star4_vice": [
+      1,
+      3
+    ],
+    "star4_main": [
+      2,
+      6
+    ],
+    "star5_vice": [
+      1,
+      4
+    ],
+    "star5_main": [
+      3,
+      7
+    ],
+    "star6_vice": [
+      1,
+      4
+    ],
+    "star6_main": [
+      3,
+      9
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 11400
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "10": {
+    "id": 10,
+    "star1_vice": [
+      1,
+      2
+    ],
+    "star1_main": [
+      1,
+      3
+    ],
+    "star2_vice": [
+      1,
+      2
+    ],
+    "star2_main": [
+      2,
+      4
+    ],
+    "star3_vice": [
+      1,
+      2
+    ],
+    "star3_main": [
+      2,
+      4
+    ],
+    "star4_vice": [
+      1,
+      3
+    ],
+    "star4_main": [
+      2,
+      6
+    ],
+    "star5_vice": [
+      1,
+      4
+    ],
+    "star5_main": [
+      3,
+      7
+    ],
+    "star6_vice": [
+      1,
+      4
+    ],
+    "star6_main": [
+      3,
+      9
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 12650
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 10
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "11": {
+    "id": 11,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      5
+    ],
+    "star2_vice": [
+      1,
+      3
+    ],
+    "star2_main": [
+      2,
+      6
+    ],
+    "star3_vice": [
+      1,
+      4
+    ],
+    "star3_main": [
+      3,
+      7
+    ],
+    "star4_vice": [
+      2,
+      5
+    ],
+    "star4_main": [
+      3,
+      9
+    ],
+    "star5_vice": [
+      2,
+      6
+    ],
+    "star5_main": [
+      4,
+      11
+    ],
+    "star6_vice": [
+      2,
+      7
+    ],
+    "star6_main": [
+      5,
+      14
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 13900
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "12": {
+    "id": 12,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      5
+    ],
+    "star2_vice": [
+      1,
+      3
+    ],
+    "star2_main": [
+      2,
+      6
+    ],
+    "star3_vice": [
+      1,
+      4
+    ],
+    "star3_main": [
+      3,
+      7
+    ],
+    "star4_vice": [
+      2,
+      5
+    ],
+    "star4_main": [
+      3,
+      9
+    ],
+    "star5_vice": [
+      2,
+      6
+    ],
+    "star5_main": [
+      4,
+      11
+    ],
+    "star6_vice": [
+      2,
+      7
+    ],
+    "star6_main": [
+      5,
+      14
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 15150
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "13": {
+    "id": 13,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      5
+    ],
+    "star2_vice": [
+      1,
+      3
+    ],
+    "star2_main": [
+      2,
+      6
+    ],
+    "star3_vice": [
+      1,
+      4
+    ],
+    "star3_main": [
+      3,
+      7
+    ],
+    "star4_vice": [
+      2,
+      5
+    ],
+    "star4_main": [
+      3,
+      9
+    ],
+    "star5_vice": [
+      2,
+      6
+    ],
+    "star5_main": [
+      4,
+      11
+    ],
+    "star6_vice": [
+      2,
+      7
+    ],
+    "star6_main": [
+      5,
+      14
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 16450
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "14": {
+    "id": 14,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      5
+    ],
+    "star2_vice": [
+      1,
+      3
+    ],
+    "star2_main": [
+      2,
+      6
+    ],
+    "star3_vice": [
+      1,
+      4
+    ],
+    "star3_main": [
+      3,
+      7
+    ],
+    "star4_vice": [
+      2,
+      5
+    ],
+    "star4_main": [
+      3,
+      9
+    ],
+    "star5_vice": [
+      2,
+      6
+    ],
+    "star5_main": [
+      4,
+      11
+    ],
+    "star6_vice": [
+      2,
+      7
+    ],
+    "star6_main": [
+      5,
+      14
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 17700
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "15": {
+    "id": 15,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      5
+    ],
+    "star2_vice": [
+      1,
+      3
+    ],
+    "star2_main": [
+      2,
+      6
+    ],
+    "star3_vice": [
+      1,
+      4
+    ],
+    "star3_main": [
+      3,
+      7
+    ],
+    "star4_vice": [
+      2,
+      5
+    ],
+    "star4_main": [
+      3,
+      9
+    ],
+    "star5_vice": [
+      2,
+      6
+    ],
+    "star5_main": [
+      4,
+      11
+    ],
+    "star6_vice": [
+      2,
+      7
+    ],
+    "star6_main": [
+      5,
+      14
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 18950
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "16": {
+    "id": 16,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      6
+    ],
+    "star2_vice": [
+      1,
+      4
+    ],
+    "star2_main": [
+      3,
+      8
+    ],
+    "star3_vice": [
+      2,
+      5
+    ],
+    "star3_main": [
+      3,
+      9
+    ],
+    "star4_vice": [
+      2,
+      6
+    ],
+    "star4_main": [
+      3,
+      12
+    ],
+    "star5_vice": [
+      2,
+      8
+    ],
+    "star5_main": [
+      6,
+      16
+    ],
+    "star6_vice": [
+      3,
+      9
+    ],
+    "star6_main": [
+      7,
+      19
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 20200
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "17": {
+    "id": 17,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      6
+    ],
+    "star2_vice": [
+      1,
+      4
+    ],
+    "star2_main": [
+      3,
+      8
+    ],
+    "star3_vice": [
+      2,
+      5
+    ],
+    "star3_main": [
+      3,
+      9
+    ],
+    "star4_vice": [
+      2,
+      6
+    ],
+    "star4_main": [
+      3,
+      12
+    ],
+    "star5_vice": [
+      2,
+      8
+    ],
+    "star5_main": [
+      6,
+      16
+    ],
+    "star6_vice": [
+      3,
+      9
+    ],
+    "star6_main": [
+      7,
+      19
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 21500
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "18": {
+    "id": 18,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      6
+    ],
+    "star2_vice": [
+      1,
+      4
+    ],
+    "star2_main": [
+      3,
+      8
+    ],
+    "star3_vice": [
+      2,
+      5
+    ],
+    "star3_main": [
+      3,
+      9
+    ],
+    "star4_vice": [
+      2,
+      6
+    ],
+    "star4_main": [
+      3,
+      12
+    ],
+    "star5_vice": [
+      2,
+      8
+    ],
+    "star5_main": [
+      6,
+      16
+    ],
+    "star6_vice": [
+      3,
+      9
+    ],
+    "star6_main": [
+      7,
+      19
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 22750
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "19": {
+    "id": 19,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      6
+    ],
+    "star2_vice": [
+      1,
+      4
+    ],
+    "star2_main": [
+      3,
+      8
+    ],
+    "star3_vice": [
+      2,
+      5
+    ],
+    "star3_main": [
+      3,
+      9
+    ],
+    "star4_vice": [
+      2,
+      6
+    ],
+    "star4_main": [
+      3,
+      12
+    ],
+    "star5_vice": [
+      2,
+      8
+    ],
+    "star5_main": [
+      6,
+      16
+    ],
+    "star6_vice": [
+      3,
+      9
+    ],
+    "star6_main": [
+      7,
+      19
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 24000
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "20": {
+    "id": 20,
+    "star1_vice": [
+      1,
+      3
+    ],
+    "star1_main": [
+      2,
+      6
+    ],
+    "star2_vice": [
+      1,
+      4
+    ],
+    "star2_main": [
+      3,
+      8
+    ],
+    "star3_vice": [
+      2,
+      5
+    ],
+    "star3_main": [
+      3,
+      9
+    ],
+    "star4_vice": [
+      2,
+      6
+    ],
+    "star4_main": [
+      3,
+      12
+    ],
+    "star5_vice": [
+      2,
+      8
+    ],
+    "star5_main": [
+      6,
+      16
+    ],
+    "star6_vice": [
+      3,
+      9
+    ],
+    "star6_main": [
+      7,
+      19
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 25250
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 21
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 10
+    }
+  },
+  "21": {
+    "id": 21,
+    "star1_vice": [
+      1,
+      4
+    ],
+    "star1_main": [
+      3,
+      8
+    ],
+    "star2_vice": [
+      2,
+      5
+    ],
+    "star2_main": [
+      4,
+      10
+    ],
+    "star3_vice": [
+      2,
+      6
+    ],
+    "star3_main": [
+      4,
+      12
+    ],
+    "star4_vice": [
+      3,
+      8
+    ],
+    "star4_main": [
+      4,
+      16
+    ],
+    "star5_vice": [
+      3,
+      10
+    ],
+    "star5_main": [
+      7,
+      20
+    ],
+    "star6_vice": [
+      3,
+      12
+    ],
+    "star6_main": [
+      8,
+      24
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 26550
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "22": {
+    "id": 22,
+    "star1_vice": [
+      1,
+      4
+    ],
+    "star1_main": [
+      3,
+      8
+    ],
+    "star2_vice": [
+      2,
+      5
+    ],
+    "star2_main": [
+      4,
+      10
+    ],
+    "star3_vice": [
+      2,
+      6
+    ],
+    "star3_main": [
+      4,
+      12
+    ],
+    "star4_vice": [
+      3,
+      8
+    ],
+    "star4_main": [
+      4,
+      16
+    ],
+    "star5_vice": [
+      3,
+      10
+    ],
+    "star5_main": [
+      7,
+      20
+    ],
+    "star6_vice": [
+      3,
+      12
+    ],
+    "star6_main": [
+      8,
+      24
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 27800
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "23": {
+    "id": 23,
+    "star1_vice": [
+      1,
+      4
+    ],
+    "star1_main": [
+      3,
+      8
+    ],
+    "star2_vice": [
+      2,
+      5
+    ],
+    "star2_main": [
+      4,
+      10
+    ],
+    "star3_vice": [
+      2,
+      6
+    ],
+    "star3_main": [
+      4,
+      12
+    ],
+    "star4_vice": [
+      3,
+      8
+    ],
+    "star4_main": [
+      4,
+      16
+    ],
+    "star5_vice": [
+      3,
+      10
+    ],
+    "star5_main": [
+      7,
+      20
+    ],
+    "star6_vice": [
+      3,
+      12
+    ],
+    "star6_main": [
+      8,
+      24
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 29050
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "24": {
+    "id": 24,
+    "star1_vice": [
+      1,
+      4
+    ],
+    "star1_main": [
+      3,
+      8
+    ],
+    "star2_vice": [
+      2,
+      5
+    ],
+    "star2_main": [
+      4,
+      10
+    ],
+    "star3_vice": [
+      2,
+      6
+    ],
+    "star3_main": [
+      4,
+      12
+    ],
+    "star4_vice": [
+      3,
+      8
+    ],
+    "star4_main": [
+      4,
+      16
+    ],
+    "star5_vice": [
+      3,
+      10
+    ],
+    "star5_main": [
+      7,
+      20
+    ],
+    "star6_vice": [
+      3,
+      12
+    ],
+    "star6_main": [
+      8,
+      24
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 30300
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "25": {
+    "id": 25,
+    "star1_vice": [
+      1,
+      4
+    ],
+    "star1_main": [
+      3,
+      8
+    ],
+    "star2_vice": [
+      2,
+      5
+    ],
+    "star2_main": [
+      4,
+      10
+    ],
+    "star3_vice": [
+      2,
+      6
+    ],
+    "star3_main": [
+      4,
+      12
+    ],
+    "star4_vice": [
+      3,
+      8
+    ],
+    "star4_main": [
+      4,
+      16
+    ],
+    "star5_vice": [
+      3,
+      10
+    ],
+    "star5_main": [
+      7,
+      20
+    ],
+    "star6_vice": [
+      3,
+      12
+    ],
+    "star6_main": [
+      8,
+      24
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 31550
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "26": {
+    "id": 26,
+    "star1_vice": [
+      2,
+      5
+    ],
+    "star1_main": [
+      4,
+      10
+    ],
+    "star2_vice": [
+      2,
+      6
+    ],
+    "star2_main": [
+      4,
+      12
+    ],
+    "star3_vice": [
+      2,
+      7
+    ],
+    "star3_main": [
+      5,
+      14
+    ],
+    "star4_vice": [
+      4,
+      10
+    ],
+    "star4_main": [
+      5,
+      19
+    ],
+    "star5_vice": [
+      3,
+      12
+    ],
+    "star5_main": [
+      8,
+      24
+    ],
+    "star6_vice": [
+      4,
+      14
+    ],
+    "star6_main": [
+      10,
+      29
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 32850
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "27": {
+    "id": 27,
+    "star1_vice": [
+      2,
+      5
+    ],
+    "star1_main": [
+      4,
+      10
+    ],
+    "star2_vice": [
+      2,
+      6
+    ],
+    "star2_main": [
+      4,
+      12
+    ],
+    "star3_vice": [
+      2,
+      7
+    ],
+    "star3_main": [
+      5,
+      14
+    ],
+    "star4_vice": [
+      4,
+      10
+    ],
+    "star4_main": [
+      5,
+      19
+    ],
+    "star5_vice": [
+      3,
+      12
+    ],
+    "star5_main": [
+      8,
+      24
+    ],
+    "star6_vice": [
+      4,
+      14
+    ],
+    "star6_main": [
+      10,
+      29
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 34100
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "28": {
+    "id": 28,
+    "star1_vice": [
+      2,
+      5
+    ],
+    "star1_main": [
+      4,
+      10
+    ],
+    "star2_vice": [
+      2,
+      6
+    ],
+    "star2_main": [
+      4,
+      12
+    ],
+    "star3_vice": [
+      2,
+      7
+    ],
+    "star3_main": [
+      5,
+      14
+    ],
+    "star4_vice": [
+      4,
+      10
+    ],
+    "star4_main": [
+      5,
+      19
+    ],
+    "star5_vice": [
+      3,
+      12
+    ],
+    "star5_main": [
+      8,
+      24
+    ],
+    "star6_vice": [
+      4,
+      14
+    ],
+    "star6_main": [
+      10,
+      29
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 35350
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "29": {
+    "id": 29,
+    "star1_vice": [
+      2,
+      5
+    ],
+    "star1_main": [
+      4,
+      10
+    ],
+    "star2_vice": [
+      2,
+      6
+    ],
+    "star2_main": [
+      4,
+      12
+    ],
+    "star3_vice": [
+      2,
+      7
+    ],
+    "star3_main": [
+      5,
+      14
+    ],
+    "star4_vice": [
+      4,
+      10
+    ],
+    "star4_main": [
+      5,
+      19
+    ],
+    "star5_vice": [
+      3,
+      12
+    ],
+    "star5_main": [
+      8,
+      24
+    ],
+    "star6_vice": [
+      4,
+      14
+    ],
+    "star6_main": [
+      10,
+      29
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 36600
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "30": {
+    "id": 30,
+    "star1_vice": [
+      2,
+      5
+    ],
+    "star1_main": [
+      4,
+      10
+    ],
+    "star2_vice": [
+      2,
+      6
+    ],
+    "star2_main": [
+      4,
+      12
+    ],
+    "star3_vice": [
+      2,
+      7
+    ],
+    "star3_main": [
+      5,
+      14
+    ],
+    "star4_vice": [
+      4,
+      10
+    ],
+    "star4_main": [
+      5,
+      19
+    ],
+    "star5_vice": [
+      3,
+      12
+    ],
+    "star5_main": [
+      8,
+      24
+    ],
+    "star6_vice": [
+      4,
+      14
+    ],
+    "star6_main": [
+      10,
+      29
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 37900
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 33
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "31": {
+    "id": 31,
+    "star1_vice": [
+      2,
+      6
+    ],
+    "star1_main": [
+      4,
+      11
+    ],
+    "star2_vice": [
+      2,
+      7
+    ],
+    "star2_main": [
+      5,
+      14
+    ],
+    "star3_vice": [
+      3,
+      9
+    ],
+    "star3_main": [
+      6,
+      17
+    ],
+    "star4_vice": [
+      4,
+      11
+    ],
+    "star4_main": [
+      6,
+      22
+    ],
+    "star5_vice": [
+      4,
+      14
+    ],
+    "star5_main": [
+      10,
+      28
+    ],
+    "star6_vice": [
+      5,
+      17
+    ],
+    "star6_main": [
+      12,
+      34
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 113535
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "32": {
+    "id": 32,
+    "star1_vice": [
+      2,
+      6
+    ],
+    "star1_main": [
+      4,
+      11
+    ],
+    "star2_vice": [
+      2,
+      7
+    ],
+    "star2_main": [
+      5,
+      14
+    ],
+    "star3_vice": [
+      3,
+      9
+    ],
+    "star3_main": [
+      6,
+      17
+    ],
+    "star4_vice": [
+      4,
+      11
+    ],
+    "star4_main": [
+      6,
+      22
+    ],
+    "star5_vice": [
+      4,
+      14
+    ],
+    "star5_main": [
+      10,
+      28
+    ],
+    "star6_vice": [
+      5,
+      17
+    ],
+    "star6_main": [
+      12,
+      34
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 117160
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "33": {
+    "id": 33,
+    "star1_vice": [
+      2,
+      6
+    ],
+    "star1_main": [
+      4,
+      11
+    ],
+    "star2_vice": [
+      2,
+      7
+    ],
+    "star2_main": [
+      5,
+      14
+    ],
+    "star3_vice": [
+      3,
+      9
+    ],
+    "star3_main": [
+      6,
+      17
+    ],
+    "star4_vice": [
+      4,
+      11
+    ],
+    "star4_main": [
+      6,
+      22
+    ],
+    "star5_vice": [
+      4,
+      14
+    ],
+    "star5_main": [
+      10,
+      28
+    ],
+    "star6_vice": [
+      5,
+      17
+    ],
+    "star6_main": [
+      12,
+      34
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 120785
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "34": {
+    "id": 34,
+    "star1_vice": [
+      2,
+      6
+    ],
+    "star1_main": [
+      4,
+      11
+    ],
+    "star2_vice": [
+      2,
+      7
+    ],
+    "star2_main": [
+      5,
+      14
+    ],
+    "star3_vice": [
+      3,
+      9
+    ],
+    "star3_main": [
+      6,
+      17
+    ],
+    "star4_vice": [
+      4,
+      11
+    ],
+    "star4_main": [
+      6,
+      22
+    ],
+    "star5_vice": [
+      4,
+      14
+    ],
+    "star5_main": [
+      10,
+      28
+    ],
+    "star6_vice": [
+      5,
+      17
+    ],
+    "star6_main": [
+      12,
+      34
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 124555
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "35": {
+    "id": 35,
+    "star1_vice": [
+      2,
+      6
+    ],
+    "star1_main": [
+      4,
+      11
+    ],
+    "star2_vice": [
+      2,
+      7
+    ],
+    "star2_main": [
+      5,
+      14
+    ],
+    "star3_vice": [
+      3,
+      9
+    ],
+    "star3_main": [
+      6,
+      17
+    ],
+    "star4_vice": [
+      4,
+      11
+    ],
+    "star4_main": [
+      6,
+      22
+    ],
+    "star5_vice": [
+      4,
+      14
+    ],
+    "star5_main": [
+      10,
+      28
+    ],
+    "star6_vice": [
+      5,
+      17
+    ],
+    "star6_main": [
+      12,
+      34
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 128180
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "36": {
+    "id": 36,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      13
+    ],
+    "star2_vice": [
+      2,
+      8
+    ],
+    "star2_main": [
+      6,
+      16
+    ],
+    "star3_vice": [
+      3,
+      10
+    ],
+    "star3_main": [
+      7,
+      19
+    ],
+    "star4_vice": [
+      5,
+      13
+    ],
+    "star4_main": [
+      7,
+      26
+    ],
+    "star5_vice": [
+      4,
+      16
+    ],
+    "star5_main": [
+      11,
+      32
+    ],
+    "star6_vice": [
+      5,
+      19
+    ],
+    "star6_main": [
+      13,
+      39
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 131805
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "37": {
+    "id": 37,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      13
+    ],
+    "star2_vice": [
+      2,
+      8
+    ],
+    "star2_main": [
+      6,
+      16
+    ],
+    "star3_vice": [
+      3,
+      10
+    ],
+    "star3_main": [
+      7,
+      19
+    ],
+    "star4_vice": [
+      5,
+      13
+    ],
+    "star4_main": [
+      7,
+      26
+    ],
+    "star5_vice": [
+      4,
+      16
+    ],
+    "star5_main": [
+      11,
+      32
+    ],
+    "star6_vice": [
+      5,
+      19
+    ],
+    "star6_main": [
+      13,
+      39
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 135430
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "38": {
+    "id": 38,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      13
+    ],
+    "star2_vice": [
+      2,
+      8
+    ],
+    "star2_main": [
+      6,
+      16
+    ],
+    "star3_vice": [
+      3,
+      10
+    ],
+    "star3_main": [
+      7,
+      19
+    ],
+    "star4_vice": [
+      5,
+      13
+    ],
+    "star4_main": [
+      7,
+      26
+    ],
+    "star5_vice": [
+      4,
+      16
+    ],
+    "star5_main": [
+      11,
+      32
+    ],
+    "star6_vice": [
+      5,
+      19
+    ],
+    "star6_main": [
+      13,
+      39
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 139200
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "39": {
+    "id": 39,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      13
+    ],
+    "star2_vice": [
+      2,
+      8
+    ],
+    "star2_main": [
+      6,
+      16
+    ],
+    "star3_vice": [
+      3,
+      10
+    ],
+    "star3_main": [
+      7,
+      19
+    ],
+    "star4_vice": [
+      5,
+      13
+    ],
+    "star4_main": [
+      7,
+      26
+    ],
+    "star5_vice": [
+      4,
+      16
+    ],
+    "star5_main": [
+      11,
+      32
+    ],
+    "star6_vice": [
+      5,
+      19
+    ],
+    "star6_main": [
+      13,
+      39
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 142825
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "40": {
+    "id": 40,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      13
+    ],
+    "star2_vice": [
+      2,
+      8
+    ],
+    "star2_main": [
+      6,
+      16
+    ],
+    "star3_vice": [
+      3,
+      10
+    ],
+    "star3_main": [
+      7,
+      19
+    ],
+    "star4_vice": [
+      5,
+      13
+    ],
+    "star4_main": [
+      7,
+      26
+    ],
+    "star5_vice": [
+      4,
+      16
+    ],
+    "star5_main": [
+      11,
+      32
+    ],
+    "star6_vice": [
+      5,
+      19
+    ],
+    "star6_main": [
+      13,
+      39
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 146450
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 46
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 20
+    }
+  },
+  "41": {
+    "id": 41,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      15
+    ],
+    "star2_vice": [
+      3,
+      9
+    ],
+    "star2_main": [
+      6,
+      18
+    ],
+    "star3_vice": [
+      3,
+      11
+    ],
+    "star3_main": [
+      8,
+      22
+    ],
+    "star4_vice": [
+      5,
+      15
+    ],
+    "star4_main": [
+      8,
+      29
+    ],
+    "star5_vice": [
+      5,
+      18
+    ],
+    "star5_main": [
+      12,
+      36
+    ],
+    "star6_vice": [
+      6,
+      22
+    ],
+    "star6_main": [
+      15,
+      44
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 150075
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "42": {
+    "id": 42,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      15
+    ],
+    "star2_vice": [
+      3,
+      9
+    ],
+    "star2_main": [
+      6,
+      18
+    ],
+    "star3_vice": [
+      3,
+      11
+    ],
+    "star3_main": [
+      8,
+      22
+    ],
+    "star4_vice": [
+      5,
+      15
+    ],
+    "star4_main": [
+      8,
+      29
+    ],
+    "star5_vice": [
+      5,
+      18
+    ],
+    "star5_main": [
+      12,
+      36
+    ],
+    "star6_vice": [
+      6,
+      22
+    ],
+    "star6_main": [
+      15,
+      44
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 153845
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "43": {
+    "id": 43,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      15
+    ],
+    "star2_vice": [
+      3,
+      9
+    ],
+    "star2_main": [
+      6,
+      18
+    ],
+    "star3_vice": [
+      3,
+      11
+    ],
+    "star3_main": [
+      8,
+      22
+    ],
+    "star4_vice": [
+      5,
+      15
+    ],
+    "star4_main": [
+      8,
+      29
+    ],
+    "star5_vice": [
+      5,
+      18
+    ],
+    "star5_main": [
+      12,
+      36
+    ],
+    "star6_vice": [
+      6,
+      22
+    ],
+    "star6_main": [
+      15,
+      44
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 157470
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "44": {
+    "id": 44,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      15
+    ],
+    "star2_vice": [
+      3,
+      9
+    ],
+    "star2_main": [
+      6,
+      18
+    ],
+    "star3_vice": [
+      3,
+      11
+    ],
+    "star3_main": [
+      8,
+      22
+    ],
+    "star4_vice": [
+      5,
+      15
+    ],
+    "star4_main": [
+      8,
+      29
+    ],
+    "star5_vice": [
+      5,
+      18
+    ],
+    "star5_main": [
+      12,
+      36
+    ],
+    "star6_vice": [
+      6,
+      22
+    ],
+    "star6_main": [
+      15,
+      44
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 161095
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "45": {
+    "id": 45,
+    "star1_vice": [
+      2,
+      7
+    ],
+    "star1_main": [
+      5,
+      15
+    ],
+    "star2_vice": [
+      3,
+      9
+    ],
+    "star2_main": [
+      6,
+      18
+    ],
+    "star3_vice": [
+      3,
+      11
+    ],
+    "star3_main": [
+      8,
+      22
+    ],
+    "star4_vice": [
+      5,
+      15
+    ],
+    "star4_main": [
+      8,
+      29
+    ],
+    "star5_vice": [
+      5,
+      18
+    ],
+    "star5_main": [
+      12,
+      36
+    ],
+    "star6_vice": [
+      6,
+      22
+    ],
+    "star6_main": [
+      15,
+      44
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 164720
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "46": {
+    "id": 46,
+    "star1_vice": [
+      2,
+      8
+    ],
+    "star1_main": [
+      6,
+      16
+    ],
+    "star2_vice": [
+      3,
+      10
+    ],
+    "star2_main": [
+      7,
+      20
+    ],
+    "star3_vice": [
+      3,
+      12
+    ],
+    "star3_main": [
+      8,
+      24
+    ],
+    "star4_vice": [
+      6,
+      16
+    ],
+    "star4_main": [
+      8,
+      32
+    ],
+    "star5_vice": [
+      5,
+      20
+    ],
+    "star5_main": [
+      14,
+      41
+    ],
+    "star6_vice": [
+      6,
+      24
+    ],
+    "star6_main": [
+      17,
+      49
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 168490
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "47": {
+    "id": 47,
+    "star1_vice": [
+      2,
+      8
+    ],
+    "star1_main": [
+      6,
+      16
+    ],
+    "star2_vice": [
+      3,
+      10
+    ],
+    "star2_main": [
+      7,
+      20
+    ],
+    "star3_vice": [
+      3,
+      12
+    ],
+    "star3_main": [
+      8,
+      24
+    ],
+    "star4_vice": [
+      6,
+      16
+    ],
+    "star4_main": [
+      8,
+      32
+    ],
+    "star5_vice": [
+      5,
+      20
+    ],
+    "star5_main": [
+      14,
+      41
+    ],
+    "star6_vice": [
+      6,
+      24
+    ],
+    "star6_main": [
+      17,
+      49
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 172115
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "48": {
+    "id": 48,
+    "star1_vice": [
+      2,
+      8
+    ],
+    "star1_main": [
+      6,
+      16
+    ],
+    "star2_vice": [
+      3,
+      10
+    ],
+    "star2_main": [
+      7,
+      20
+    ],
+    "star3_vice": [
+      3,
+      12
+    ],
+    "star3_main": [
+      8,
+      24
+    ],
+    "star4_vice": [
+      6,
+      16
+    ],
+    "star4_main": [
+      8,
+      32
+    ],
+    "star5_vice": [
+      5,
+      20
+    ],
+    "star5_main": [
+      14,
+      41
+    ],
+    "star6_vice": [
+      6,
+      24
+    ],
+    "star6_main": [
+      17,
+      49
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 175740
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "49": {
+    "id": 49,
+    "star1_vice": [
+      2,
+      8
+    ],
+    "star1_main": [
+      6,
+      16
+    ],
+    "star2_vice": [
+      3,
+      10
+    ],
+    "star2_main": [
+      7,
+      20
+    ],
+    "star3_vice": [
+      3,
+      12
+    ],
+    "star3_main": [
+      8,
+      24
+    ],
+    "star4_vice": [
+      6,
+      16
+    ],
+    "star4_main": [
+      8,
+      32
+    ],
+    "star5_vice": [
+      5,
+      20
+    ],
+    "star5_main": [
+      14,
+      41
+    ],
+    "star6_vice": [
+      6,
+      24
+    ],
+    "star6_main": [
+      17,
+      49
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 179365
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "50": {
+    "id": 50,
+    "star1_vice": [
+      2,
+      8
+    ],
+    "star1_main": [
+      6,
+      16
+    ],
+    "star2_vice": [
+      3,
+      10
+    ],
+    "star2_main": [
+      7,
+      20
+    ],
+    "star3_vice": [
+      3,
+      12
+    ],
+    "star3_main": [
+      8,
+      24
+    ],
+    "star4_vice": [
+      6,
+      16
+    ],
+    "star4_main": [
+      8,
+      32
+    ],
+    "star5_vice": [
+      5,
+      20
+    ],
+    "star5_main": [
+      14,
+      41
+    ],
+    "star6_vice": [
+      6,
+      24
+    ],
+    "star6_main": [
+      17,
+      49
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 182990
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 60
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "51": {
+    "id": 51,
+    "star1_vice": [
+      3,
+      9
+    ],
+    "star1_main": [
+      6,
+      18
+    ],
+    "star2_vice": [
+      3,
+      11
+    ],
+    "star2_main": [
+      8,
+      23
+    ],
+    "star3_vice": [
+      4,
+      14
+    ],
+    "star3_main": [
+      9,
+      27
+    ],
+    "star4_vice": [
+      6,
+      18
+    ],
+    "star4_main": [
+      9,
+      36
+    ],
+    "star5_vice": [
+      6,
+      22
+    ],
+    "star5_main": [
+      15,
+      45
+    ],
+    "star6_vice": [
+      7,
+      27
+    ],
+    "star6_main": [
+      18,
+      54
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 186760
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "52": {
+    "id": 52,
+    "star1_vice": [
+      3,
+      9
+    ],
+    "star1_main": [
+      6,
+      18
+    ],
+    "star2_vice": [
+      3,
+      11
+    ],
+    "star2_main": [
+      8,
+      23
+    ],
+    "star3_vice": [
+      4,
+      14
+    ],
+    "star3_main": [
+      9,
+      27
+    ],
+    "star4_vice": [
+      6,
+      18
+    ],
+    "star4_main": [
+      9,
+      36
+    ],
+    "star5_vice": [
+      6,
+      22
+    ],
+    "star5_main": [
+      15,
+      45
+    ],
+    "star6_vice": [
+      7,
+      27
+    ],
+    "star6_main": [
+      18,
+      54
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 190385
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "53": {
+    "id": 53,
+    "star1_vice": [
+      3,
+      9
+    ],
+    "star1_main": [
+      6,
+      18
+    ],
+    "star2_vice": [
+      3,
+      11
+    ],
+    "star2_main": [
+      8,
+      23
+    ],
+    "star3_vice": [
+      4,
+      14
+    ],
+    "star3_main": [
+      9,
+      27
+    ],
+    "star4_vice": [
+      6,
+      18
+    ],
+    "star4_main": [
+      9,
+      36
+    ],
+    "star5_vice": [
+      6,
+      22
+    ],
+    "star5_main": [
+      15,
+      45
+    ],
+    "star6_vice": [
+      7,
+      27
+    ],
+    "star6_main": [
+      18,
+      54
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 194010
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "54": {
+    "id": 54,
+    "star1_vice": [
+      3,
+      9
+    ],
+    "star1_main": [
+      6,
+      18
+    ],
+    "star2_vice": [
+      3,
+      11
+    ],
+    "star2_main": [
+      8,
+      23
+    ],
+    "star3_vice": [
+      4,
+      14
+    ],
+    "star3_main": [
+      9,
+      27
+    ],
+    "star4_vice": [
+      6,
+      18
+    ],
+    "star4_main": [
+      9,
+      36
+    ],
+    "star5_vice": [
+      6,
+      22
+    ],
+    "star5_main": [
+      15,
+      45
+    ],
+    "star6_vice": [
+      7,
+      27
+    ],
+    "star6_main": [
+      18,
+      54
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 197635
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "55": {
+    "id": 55,
+    "star1_vice": [
+      3,
+      9
+    ],
+    "star1_main": [
+      6,
+      18
+    ],
+    "star2_vice": [
+      3,
+      11
+    ],
+    "star2_main": [
+      8,
+      23
+    ],
+    "star3_vice": [
+      4,
+      14
+    ],
+    "star3_main": [
+      9,
+      27
+    ],
+    "star4_vice": [
+      6,
+      18
+    ],
+    "star4_main": [
+      9,
+      36
+    ],
+    "star5_vice": [
+      6,
+      22
+    ],
+    "star5_main": [
+      15,
+      45
+    ],
+    "star6_vice": [
+      7,
+      27
+    ],
+    "star6_main": [
+      18,
+      54
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 201405
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "56": {
+    "id": 56,
+    "star1_vice": [
+      3,
+      10
+    ],
+    "star1_main": [
+      7,
+      20
+    ],
+    "star2_vice": [
+      3,
+      12
+    ],
+    "star2_main": [
+      9,
+      25
+    ],
+    "star3_vice": [
+      4,
+      15
+    ],
+    "star3_main": [
+      10,
+      29
+    ],
+    "star4_vice": [
+      7,
+      20
+    ],
+    "star4_main": [
+      10,
+      39
+    ],
+    "star5_vice": [
+      6,
+      24
+    ],
+    "star5_main": [
+      17,
+      49
+    ],
+    "star6_vice": [
+      8,
+      29
+    ],
+    "star6_main": [
+      20,
+      59
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 205030
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "57": {
+    "id": 57,
+    "star1_vice": [
+      3,
+      10
+    ],
+    "star1_main": [
+      7,
+      20
+    ],
+    "star2_vice": [
+      3,
+      12
+    ],
+    "star2_main": [
+      9,
+      25
+    ],
+    "star3_vice": [
+      4,
+      15
+    ],
+    "star3_main": [
+      10,
+      29
+    ],
+    "star4_vice": [
+      7,
+      20
+    ],
+    "star4_main": [
+      10,
+      39
+    ],
+    "star5_vice": [
+      6,
+      24
+    ],
+    "star5_main": [
+      17,
+      49
+    ],
+    "star6_vice": [
+      8,
+      29
+    ],
+    "star6_main": [
+      20,
+      59
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 208655
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "58": {
+    "id": 58,
+    "star1_vice": [
+      3,
+      10
+    ],
+    "star1_main": [
+      7,
+      20
+    ],
+    "star2_vice": [
+      3,
+      12
+    ],
+    "star2_main": [
+      9,
+      25
+    ],
+    "star3_vice": [
+      4,
+      15
+    ],
+    "star3_main": [
+      10,
+      29
+    ],
+    "star4_vice": [
+      7,
+      20
+    ],
+    "star4_main": [
+      10,
+      39
+    ],
+    "star5_vice": [
+      6,
+      24
+    ],
+    "star5_main": [
+      17,
+      49
+    ],
+    "star6_vice": [
+      8,
+      29
+    ],
+    "star6_main": [
+      20,
+      59
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 212280
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "59": {
+    "id": 59,
+    "star1_vice": [
+      3,
+      10
+    ],
+    "star1_main": [
+      7,
+      20
+    ],
+    "star2_vice": [
+      3,
+      12
+    ],
+    "star2_main": [
+      9,
+      25
+    ],
+    "star3_vice": [
+      4,
+      15
+    ],
+    "star3_main": [
+      10,
+      29
+    ],
+    "star4_vice": [
+      7,
+      20
+    ],
+    "star4_main": [
+      10,
+      39
+    ],
+    "star5_vice": [
+      6,
+      24
+    ],
+    "star5_main": [
+      17,
+      49
+    ],
+    "star6_vice": [
+      8,
+      29
+    ],
+    "star6_main": [
+      20,
+      59
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 216050
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "60": {
+    "id": 60,
+    "star1_vice": [
+      3,
+      10
+    ],
+    "star1_main": [
+      7,
+      20
+    ],
+    "star2_vice": [
+      3,
+      12
+    ],
+    "star2_main": [
+      9,
+      25
+    ],
+    "star3_vice": [
+      4,
+      15
+    ],
+    "star3_main": [
+      10,
+      29
+    ],
+    "star4_vice": [
+      7,
+      20
+    ],
+    "star4_main": [
+      10,
+      39
+    ],
+    "star5_vice": [
+      6,
+      24
+    ],
+    "star5_main": [
+      17,
+      49
+    ],
+    "star6_vice": [
+      8,
+      29
+    ],
+    "star6_main": [
+      20,
+      59
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 219675
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 75
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 30
+    }
+  },
+  "61": {
+    "id": 61,
+    "star1_vice": [
+      3,
+      11
+    ],
+    "star1_main": [
+      7,
+      21
+    ],
+    "star2_vice": [
+      4,
+      13
+    ],
+    "star2_main": [
+      9,
+      27
+    ],
+    "star3_vice": [
+      4,
+      16
+    ],
+    "star3_main": [
+      11,
+      32
+    ],
+    "star4_vice": [
+      7,
+      21
+    ],
+    "star4_main": [
+      11,
+      42
+    ],
+    "star5_vice": [
+      7,
+      27
+    ],
+    "star5_main": [
+      18,
+      53
+    ],
+    "star6_vice": [
+      8,
+      32
+    ],
+    "star6_main": [
+      22,
+      64
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 446600
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "62": {
+    "id": 62,
+    "star1_vice": [
+      3,
+      11
+    ],
+    "star1_main": [
+      7,
+      21
+    ],
+    "star2_vice": [
+      4,
+      13
+    ],
+    "star2_main": [
+      9,
+      27
+    ],
+    "star3_vice": [
+      4,
+      16
+    ],
+    "star3_main": [
+      11,
+      32
+    ],
+    "star4_vice": [
+      7,
+      21
+    ],
+    "star4_main": [
+      11,
+      42
+    ],
+    "star5_vice": [
+      7,
+      27
+    ],
+    "star5_main": [
+      18,
+      53
+    ],
+    "star6_vice": [
+      8,
+      32
+    ],
+    "star6_main": [
+      22,
+      64
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 453850
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "63": {
+    "id": 63,
+    "star1_vice": [
+      3,
+      11
+    ],
+    "star1_main": [
+      7,
+      21
+    ],
+    "star2_vice": [
+      4,
+      13
+    ],
+    "star2_main": [
+      9,
+      27
+    ],
+    "star3_vice": [
+      4,
+      16
+    ],
+    "star3_main": [
+      11,
+      32
+    ],
+    "star4_vice": [
+      7,
+      21
+    ],
+    "star4_main": [
+      11,
+      42
+    ],
+    "star5_vice": [
+      7,
+      27
+    ],
+    "star5_main": [
+      18,
+      53
+    ],
+    "star6_vice": [
+      8,
+      32
+    ],
+    "star6_main": [
+      22,
+      64
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 461390
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "64": {
+    "id": 64,
+    "star1_vice": [
+      3,
+      11
+    ],
+    "star1_main": [
+      7,
+      21
+    ],
+    "star2_vice": [
+      4,
+      13
+    ],
+    "star2_main": [
+      9,
+      27
+    ],
+    "star3_vice": [
+      4,
+      16
+    ],
+    "star3_main": [
+      11,
+      32
+    ],
+    "star4_vice": [
+      7,
+      21
+    ],
+    "star4_main": [
+      11,
+      42
+    ],
+    "star5_vice": [
+      7,
+      27
+    ],
+    "star5_main": [
+      18,
+      53
+    ],
+    "star6_vice": [
+      8,
+      32
+    ],
+    "star6_main": [
+      22,
+      64
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 468640
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "65": {
+    "id": 65,
+    "star1_vice": [
+      3,
+      11
+    ],
+    "star1_main": [
+      7,
+      21
+    ],
+    "star2_vice": [
+      4,
+      13
+    ],
+    "star2_main": [
+      9,
+      27
+    ],
+    "star3_vice": [
+      4,
+      16
+    ],
+    "star3_main": [
+      11,
+      32
+    ],
+    "star4_vice": [
+      7,
+      21
+    ],
+    "star4_main": [
+      11,
+      42
+    ],
+    "star5_vice": [
+      7,
+      27
+    ],
+    "star5_main": [
+      18,
+      53
+    ],
+    "star6_vice": [
+      8,
+      32
+    ],
+    "star6_main": [
+      22,
+      64
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 475890
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "66": {
+    "id": 66,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      8,
+      23
+    ],
+    "star2_vice": [
+      4,
+      14
+    ],
+    "star2_main": [
+      10,
+      29
+    ],
+    "star3_vice": [
+      5,
+      17
+    ],
+    "star3_main": [
+      12,
+      34
+    ],
+    "star4_vice": [
+      8,
+      23
+    ],
+    "star4_main": [
+      12,
+      46
+    ],
+    "star5_vice": [
+      8,
+      29
+    ],
+    "star5_main": [
+      19,
+      57
+    ],
+    "star6_vice": [
+      9,
+      34
+    ],
+    "star6_main": [
+      23,
+      69
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 483140
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "67": {
+    "id": 67,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      8,
+      23
+    ],
+    "star2_vice": [
+      4,
+      14
+    ],
+    "star2_main": [
+      10,
+      29
+    ],
+    "star3_vice": [
+      5,
+      17
+    ],
+    "star3_main": [
+      12,
+      34
+    ],
+    "star4_vice": [
+      8,
+      23
+    ],
+    "star4_main": [
+      12,
+      46
+    ],
+    "star5_vice": [
+      8,
+      29
+    ],
+    "star5_main": [
+      19,
+      57
+    ],
+    "star6_vice": [
+      9,
+      34
+    ],
+    "star6_main": [
+      23,
+      69
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 490680
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "68": {
+    "id": 68,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      8,
+      23
+    ],
+    "star2_vice": [
+      4,
+      14
+    ],
+    "star2_main": [
+      10,
+      29
+    ],
+    "star3_vice": [
+      5,
+      17
+    ],
+    "star3_main": [
+      12,
+      34
+    ],
+    "star4_vice": [
+      8,
+      23
+    ],
+    "star4_main": [
+      12,
+      46
+    ],
+    "star5_vice": [
+      8,
+      29
+    ],
+    "star5_main": [
+      19,
+      57
+    ],
+    "star6_vice": [
+      9,
+      34
+    ],
+    "star6_main": [
+      23,
+      69
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 497930
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "69": {
+    "id": 69,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      8,
+      23
+    ],
+    "star2_vice": [
+      4,
+      14
+    ],
+    "star2_main": [
+      10,
+      29
+    ],
+    "star3_vice": [
+      5,
+      17
+    ],
+    "star3_main": [
+      12,
+      34
+    ],
+    "star4_vice": [
+      8,
+      23
+    ],
+    "star4_main": [
+      12,
+      46
+    ],
+    "star5_vice": [
+      8,
+      29
+    ],
+    "star5_main": [
+      19,
+      57
+    ],
+    "star6_vice": [
+      9,
+      34
+    ],
+    "star6_main": [
+      23,
+      69
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 505180
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "70": {
+    "id": 70,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      8,
+      23
+    ],
+    "star2_vice": [
+      4,
+      14
+    ],
+    "star2_main": [
+      10,
+      29
+    ],
+    "star3_vice": [
+      5,
+      17
+    ],
+    "star3_main": [
+      12,
+      34
+    ],
+    "star4_vice": [
+      8,
+      23
+    ],
+    "star4_main": [
+      12,
+      46
+    ],
+    "star5_vice": [
+      8,
+      29
+    ],
+    "star5_main": [
+      19,
+      57
+    ],
+    "star6_vice": [
+      9,
+      34
+    ],
+    "star6_main": [
+      23,
+      69
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 512430
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 91
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "71": {
+    "id": 71,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      9,
+      25
+    ],
+    "star2_vice": [
+      4,
+      15
+    ],
+    "star2_main": [
+      11,
+      31
+    ],
+    "star3_vice": [
+      5,
+      18
+    ],
+    "star3_main": [
+      13,
+      37
+    ],
+    "star4_vice": [
+      9,
+      25
+    ],
+    "star4_main": [
+      13,
+      49
+    ],
+    "star5_vice": [
+      8,
+      31
+    ],
+    "star5_main": [
+      21,
+      61
+    ],
+    "star6_vice": [
+      10,
+      37
+    ],
+    "star6_main": [
+      25,
+      74
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 519970
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "72": {
+    "id": 72,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      9,
+      25
+    ],
+    "star2_vice": [
+      4,
+      15
+    ],
+    "star2_main": [
+      11,
+      31
+    ],
+    "star3_vice": [
+      5,
+      18
+    ],
+    "star3_main": [
+      13,
+      37
+    ],
+    "star4_vice": [
+      9,
+      25
+    ],
+    "star4_main": [
+      13,
+      49
+    ],
+    "star5_vice": [
+      8,
+      31
+    ],
+    "star5_main": [
+      21,
+      61
+    ],
+    "star6_vice": [
+      10,
+      37
+    ],
+    "star6_main": [
+      25,
+      74
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 527220
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "73": {
+    "id": 73,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      9,
+      25
+    ],
+    "star2_vice": [
+      4,
+      15
+    ],
+    "star2_main": [
+      11,
+      31
+    ],
+    "star3_vice": [
+      5,
+      18
+    ],
+    "star3_main": [
+      13,
+      37
+    ],
+    "star4_vice": [
+      9,
+      25
+    ],
+    "star4_main": [
+      13,
+      49
+    ],
+    "star5_vice": [
+      8,
+      31
+    ],
+    "star5_main": [
+      21,
+      61
+    ],
+    "star6_vice": [
+      10,
+      37
+    ],
+    "star6_main": [
+      25,
+      74
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 534470
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "74": {
+    "id": 74,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      9,
+      25
+    ],
+    "star2_vice": [
+      4,
+      15
+    ],
+    "star2_main": [
+      11,
+      31
+    ],
+    "star3_vice": [
+      5,
+      18
+    ],
+    "star3_main": [
+      13,
+      37
+    ],
+    "star4_vice": [
+      9,
+      25
+    ],
+    "star4_main": [
+      13,
+      49
+    ],
+    "star5_vice": [
+      8,
+      31
+    ],
+    "star5_main": [
+      21,
+      61
+    ],
+    "star6_vice": [
+      10,
+      37
+    ],
+    "star6_main": [
+      25,
+      74
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 541720
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "75": {
+    "id": 75,
+    "star1_vice": [
+      3,
+      12
+    ],
+    "star1_main": [
+      9,
+      25
+    ],
+    "star2_vice": [
+      4,
+      15
+    ],
+    "star2_main": [
+      11,
+      31
+    ],
+    "star3_vice": [
+      5,
+      18
+    ],
+    "star3_main": [
+      13,
+      37
+    ],
+    "star4_vice": [
+      9,
+      25
+    ],
+    "star4_main": [
+      13,
+      49
+    ],
+    "star5_vice": [
+      8,
+      31
+    ],
+    "star5_main": [
+      21,
+      61
+    ],
+    "star6_vice": [
+      10,
+      37
+    ],
+    "star6_main": [
+      25,
+      74
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 548970
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "76": {
+    "id": 76,
+    "star1_vice": [
+      4,
+      13
+    ],
+    "star1_main": [
+      9,
+      26
+    ],
+    "star2_vice": [
+      4,
+      16
+    ],
+    "star2_main": [
+      11,
+      33
+    ],
+    "star3_vice": [
+      5,
+      20
+    ],
+    "star3_main": [
+      13,
+      39
+    ],
+    "star4_vice": [
+      9,
+      26
+    ],
+    "star4_main": [
+      13,
+      52
+    ],
+    "star5_vice": [
+      9,
+      33
+    ],
+    "star5_main": [
+      22,
+      66
+    ],
+    "star6_vice": [
+      10,
+      39
+    ],
+    "star6_main": [
+      27,
+      79
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 556510
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "77": {
+    "id": 77,
+    "star1_vice": [
+      4,
+      13
+    ],
+    "star1_main": [
+      9,
+      26
+    ],
+    "star2_vice": [
+      4,
+      16
+    ],
+    "star2_main": [
+      11,
+      33
+    ],
+    "star3_vice": [
+      5,
+      20
+    ],
+    "star3_main": [
+      13,
+      39
+    ],
+    "star4_vice": [
+      9,
+      26
+    ],
+    "star4_main": [
+      13,
+      52
+    ],
+    "star5_vice": [
+      9,
+      33
+    ],
+    "star5_main": [
+      22,
+      66
+    ],
+    "star6_vice": [
+      10,
+      39
+    ],
+    "star6_main": [
+      27,
+      79
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 563760
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "78": {
+    "id": 78,
+    "star1_vice": [
+      4,
+      13
+    ],
+    "star1_main": [
+      9,
+      26
+    ],
+    "star2_vice": [
+      4,
+      16
+    ],
+    "star2_main": [
+      11,
+      33
+    ],
+    "star3_vice": [
+      5,
+      20
+    ],
+    "star3_main": [
+      13,
+      39
+    ],
+    "star4_vice": [
+      9,
+      26
+    ],
+    "star4_main": [
+      13,
+      52
+    ],
+    "star5_vice": [
+      9,
+      33
+    ],
+    "star5_main": [
+      22,
+      66
+    ],
+    "star6_vice": [
+      10,
+      39
+    ],
+    "star6_main": [
+      27,
+      79
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 571010
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "79": {
+    "id": 79,
+    "star1_vice": [
+      4,
+      13
+    ],
+    "star1_main": [
+      9,
+      26
+    ],
+    "star2_vice": [
+      4,
+      16
+    ],
+    "star2_main": [
+      11,
+      33
+    ],
+    "star3_vice": [
+      5,
+      20
+    ],
+    "star3_main": [
+      13,
+      39
+    ],
+    "star4_vice": [
+      9,
+      26
+    ],
+    "star4_main": [
+      13,
+      52
+    ],
+    "star5_vice": [
+      9,
+      33
+    ],
+    "star5_main": [
+      22,
+      66
+    ],
+    "star6_vice": [
+      10,
+      39
+    ],
+    "star6_main": [
+      27,
+      79
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 578260
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "80": {
+    "id": 80,
+    "star1_vice": [
+      4,
+      13
+    ],
+    "star1_main": [
+      9,
+      26
+    ],
+    "star2_vice": [
+      4,
+      16
+    ],
+    "star2_main": [
+      11,
+      33
+    ],
+    "star3_vice": [
+      5,
+      20
+    ],
+    "star3_main": [
+      13,
+      39
+    ],
+    "star4_vice": [
+      9,
+      26
+    ],
+    "star4_main": [
+      13,
+      52
+    ],
+    "star5_vice": [
+      9,
+      33
+    ],
+    "star5_main": [
+      22,
+      66
+    ],
+    "star6_vice": [
+      10,
+      39
+    ],
+    "star6_main": [
+      27,
+      79
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 585800
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 108
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 40
+    }
+  },
+  "81": {
+    "id": 81,
+    "star1_vice": [
+      4,
+      14
+    ],
+    "star1_main": [
+      10,
+      28
+    ],
+    "star2_vice": [
+      5,
+      17
+    ],
+    "star2_main": [
+      12,
+      35
+    ],
+    "star3_vice": [
+      6,
+      21
+    ],
+    "star3_main": [
+      14,
+      42
+    ],
+    "star4_vice": [
+      10,
+      28
+    ],
+    "star4_main": [
+      14,
+      56
+    ],
+    "star5_vice": [
+      9,
+      35
+    ],
+    "star5_main": [
+      24,
+      70
+    ],
+    "star6_vice": [
+      11,
+      42
+    ],
+    "star6_main": [
+      28,
+      84
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 889575
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "82": {
+    "id": 82,
+    "star1_vice": [
+      4,
+      14
+    ],
+    "star1_main": [
+      10,
+      28
+    ],
+    "star2_vice": [
+      5,
+      17
+    ],
+    "star2_main": [
+      12,
+      35
+    ],
+    "star3_vice": [
+      6,
+      21
+    ],
+    "star3_main": [
+      14,
+      42
+    ],
+    "star4_vice": [
+      10,
+      28
+    ],
+    "star4_main": [
+      14,
+      56
+    ],
+    "star5_vice": [
+      9,
+      35
+    ],
+    "star5_main": [
+      24,
+      70
+    ],
+    "star6_vice": [
+      11,
+      42
+    ],
+    "star6_main": [
+      28,
+      84
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 900450
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "83": {
+    "id": 83,
+    "star1_vice": [
+      4,
+      14
+    ],
+    "star1_main": [
+      10,
+      28
+    ],
+    "star2_vice": [
+      5,
+      17
+    ],
+    "star2_main": [
+      12,
+      35
+    ],
+    "star3_vice": [
+      6,
+      21
+    ],
+    "star3_main": [
+      14,
+      42
+    ],
+    "star4_vice": [
+      10,
+      28
+    ],
+    "star4_main": [
+      14,
+      56
+    ],
+    "star5_vice": [
+      9,
+      35
+    ],
+    "star5_main": [
+      24,
+      70
+    ],
+    "star6_vice": [
+      11,
+      42
+    ],
+    "star6_main": [
+      28,
+      84
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 911325
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "84": {
+    "id": 84,
+    "star1_vice": [
+      4,
+      14
+    ],
+    "star1_main": [
+      10,
+      28
+    ],
+    "star2_vice": [
+      5,
+      17
+    ],
+    "star2_main": [
+      12,
+      35
+    ],
+    "star3_vice": [
+      6,
+      21
+    ],
+    "star3_main": [
+      14,
+      42
+    ],
+    "star4_vice": [
+      10,
+      28
+    ],
+    "star4_main": [
+      14,
+      56
+    ],
+    "star5_vice": [
+      9,
+      35
+    ],
+    "star5_main": [
+      24,
+      70
+    ],
+    "star6_vice": [
+      11,
+      42
+    ],
+    "star6_main": [
+      28,
+      84
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 922635
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "85": {
+    "id": 85,
+    "star1_vice": [
+      4,
+      14
+    ],
+    "star1_main": [
+      10,
+      28
+    ],
+    "star2_vice": [
+      5,
+      17
+    ],
+    "star2_main": [
+      12,
+      35
+    ],
+    "star3_vice": [
+      6,
+      21
+    ],
+    "star3_main": [
+      14,
+      42
+    ],
+    "star4_vice": [
+      10,
+      28
+    ],
+    "star4_main": [
+      14,
+      56
+    ],
+    "star5_vice": [
+      9,
+      35
+    ],
+    "star5_main": [
+      24,
+      70
+    ],
+    "star6_vice": [
+      11,
+      42
+    ],
+    "star6_main": [
+      28,
+      84
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 933510
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "86": {
+    "id": 86,
+    "star1_vice": [
+      4,
+      15
+    ],
+    "star1_main": [
+      10,
+      30
+    ],
+    "star2_vice": [
+      5,
+      18
+    ],
+    "star2_main": [
+      13,
+      37
+    ],
+    "star3_vice": [
+      6,
+      22
+    ],
+    "star3_main": [
+      15,
+      44
+    ],
+    "star4_vice": [
+      10,
+      30
+    ],
+    "star4_main": [
+      15,
+      59
+    ],
+    "star5_vice": [
+      10,
+      37
+    ],
+    "star5_main": [
+      25,
+      74
+    ],
+    "star6_vice": [
+      11,
+      44
+    ],
+    "star6_main": [
+      30,
+      89
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 944385
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "87": {
+    "id": 87,
+    "star1_vice": [
+      4,
+      15
+    ],
+    "star1_main": [
+      10,
+      30
+    ],
+    "star2_vice": [
+      5,
+      18
+    ],
+    "star2_main": [
+      13,
+      37
+    ],
+    "star3_vice": [
+      6,
+      22
+    ],
+    "star3_main": [
+      15,
+      44
+    ],
+    "star4_vice": [
+      10,
+      30
+    ],
+    "star4_main": [
+      15,
+      59
+    ],
+    "star5_vice": [
+      10,
+      37
+    ],
+    "star5_main": [
+      25,
+      74
+    ],
+    "star6_vice": [
+      11,
+      44
+    ],
+    "star6_main": [
+      30,
+      89
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 955260
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "88": {
+    "id": 88,
+    "star1_vice": [
+      4,
+      15
+    ],
+    "star1_main": [
+      10,
+      30
+    ],
+    "star2_vice": [
+      5,
+      18
+    ],
+    "star2_main": [
+      13,
+      37
+    ],
+    "star3_vice": [
+      6,
+      22
+    ],
+    "star3_main": [
+      15,
+      44
+    ],
+    "star4_vice": [
+      10,
+      30
+    ],
+    "star4_main": [
+      15,
+      59
+    ],
+    "star5_vice": [
+      10,
+      37
+    ],
+    "star5_main": [
+      25,
+      74
+    ],
+    "star6_vice": [
+      11,
+      44
+    ],
+    "star6_main": [
+      30,
+      89
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 966570
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "89": {
+    "id": 89,
+    "star1_vice": [
+      4,
+      15
+    ],
+    "star1_main": [
+      10,
+      30
+    ],
+    "star2_vice": [
+      5,
+      18
+    ],
+    "star2_main": [
+      13,
+      37
+    ],
+    "star3_vice": [
+      6,
+      22
+    ],
+    "star3_main": [
+      15,
+      44
+    ],
+    "star4_vice": [
+      10,
+      30
+    ],
+    "star4_main": [
+      15,
+      59
+    ],
+    "star5_vice": [
+      10,
+      37
+    ],
+    "star5_main": [
+      25,
+      74
+    ],
+    "star6_vice": [
+      11,
+      44
+    ],
+    "star6_main": [
+      30,
+      89
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 977445
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "90": {
+    "id": 90,
+    "star1_vice": [
+      4,
+      15
+    ],
+    "star1_main": [
+      10,
+      30
+    ],
+    "star2_vice": [
+      5,
+      18
+    ],
+    "star2_main": [
+      13,
+      37
+    ],
+    "star3_vice": [
+      6,
+      22
+    ],
+    "star3_main": [
+      15,
+      44
+    ],
+    "star4_vice": [
+      10,
+      30
+    ],
+    "star4_main": [
+      15,
+      59
+    ],
+    "star5_vice": [
+      10,
+      37
+    ],
+    "star5_main": [
+      25,
+      74
+    ],
+    "star6_vice": [
+      11,
+      44
+    ],
+    "star6_main": [
+      30,
+      89
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 988320
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 126
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "91": {
+    "id": 91,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      31
+    ],
+    "star2_vice": [
+      5,
+      19
+    ],
+    "star2_main": [
+      13,
+      39
+    ],
+    "star3_vice": [
+      6,
+      23
+    ],
+    "star3_main": [
+      16,
+      47
+    ],
+    "star4_vice": [
+      11,
+      31
+    ],
+    "star4_main": [
+      16,
+      62
+    ],
+    "star5_vice": [
+      10,
+      39
+    ],
+    "star5_main": [
+      26,
+      78
+    ],
+    "star6_vice": [
+      12,
+      47
+    ],
+    "star6_main": [
+      32,
+      94
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 999195
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "92": {
+    "id": 92,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      31
+    ],
+    "star2_vice": [
+      5,
+      19
+    ],
+    "star2_main": [
+      13,
+      39
+    ],
+    "star3_vice": [
+      6,
+      23
+    ],
+    "star3_main": [
+      16,
+      47
+    ],
+    "star4_vice": [
+      11,
+      31
+    ],
+    "star4_main": [
+      16,
+      62
+    ],
+    "star5_vice": [
+      10,
+      39
+    ],
+    "star5_main": [
+      26,
+      78
+    ],
+    "star6_vice": [
+      12,
+      47
+    ],
+    "star6_main": [
+      32,
+      94
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1010505
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "93": {
+    "id": 93,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      31
+    ],
+    "star2_vice": [
+      5,
+      19
+    ],
+    "star2_main": [
+      13,
+      39
+    ],
+    "star3_vice": [
+      6,
+      23
+    ],
+    "star3_main": [
+      16,
+      47
+    ],
+    "star4_vice": [
+      11,
+      31
+    ],
+    "star4_main": [
+      16,
+      62
+    ],
+    "star5_vice": [
+      10,
+      39
+    ],
+    "star5_main": [
+      26,
+      78
+    ],
+    "star6_vice": [
+      12,
+      47
+    ],
+    "star6_main": [
+      32,
+      94
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1021380
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "94": {
+    "id": 94,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      31
+    ],
+    "star2_vice": [
+      5,
+      19
+    ],
+    "star2_main": [
+      13,
+      39
+    ],
+    "star3_vice": [
+      6,
+      23
+    ],
+    "star3_main": [
+      16,
+      47
+    ],
+    "star4_vice": [
+      11,
+      31
+    ],
+    "star4_main": [
+      16,
+      62
+    ],
+    "star5_vice": [
+      10,
+      39
+    ],
+    "star5_main": [
+      26,
+      78
+    ],
+    "star6_vice": [
+      12,
+      47
+    ],
+    "star6_main": [
+      32,
+      94
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1032255
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "95": {
+    "id": 95,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      31
+    ],
+    "star2_vice": [
+      5,
+      19
+    ],
+    "star2_main": [
+      13,
+      39
+    ],
+    "star3_vice": [
+      6,
+      23
+    ],
+    "star3_main": [
+      16,
+      47
+    ],
+    "star4_vice": [
+      11,
+      31
+    ],
+    "star4_main": [
+      16,
+      62
+    ],
+    "star5_vice": [
+      10,
+      39
+    ],
+    "star5_main": [
+      26,
+      78
+    ],
+    "star6_vice": [
+      12,
+      47
+    ],
+    "star6_main": [
+      32,
+      94
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1043130
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "96": {
+    "id": 96,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      33
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      41
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      49
+    ],
+    "star4_vice": [
+      11,
+      33
+    ],
+    "star4_main": [
+      17,
+      65
+    ],
+    "star5_vice": [
+      11,
+      41
+    ],
+    "star5_main": [
+      28,
+      82
+    ],
+    "star6_vice": [
+      13,
+      49
+    ],
+    "star6_main": [
+      33,
+      99
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1054440
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "97": {
+    "id": 97,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      33
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      41
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      49
+    ],
+    "star4_vice": [
+      11,
+      33
+    ],
+    "star4_main": [
+      17,
+      65
+    ],
+    "star5_vice": [
+      11,
+      41
+    ],
+    "star5_main": [
+      28,
+      82
+    ],
+    "star6_vice": [
+      13,
+      49
+    ],
+    "star6_main": [
+      33,
+      99
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1065315
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "98": {
+    "id": 98,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      33
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      41
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      49
+    ],
+    "star4_vice": [
+      11,
+      33
+    ],
+    "star4_main": [
+      17,
+      65
+    ],
+    "star5_vice": [
+      11,
+      41
+    ],
+    "star5_main": [
+      28,
+      82
+    ],
+    "star6_vice": [
+      13,
+      49
+    ],
+    "star6_main": [
+      33,
+      99
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1076190
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "99": {
+    "id": 99,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      33
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      41
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      49
+    ],
+    "star4_vice": [
+      11,
+      33
+    ],
+    "star4_main": [
+      17,
+      65
+    ],
+    "star5_vice": [
+      11,
+      41
+    ],
+    "star5_main": [
+      28,
+      82
+    ],
+    "star6_vice": [
+      13,
+      49
+    ],
+    "star6_main": [
+      33,
+      99
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1087065
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "100": {
+    "id": 100,
+    "star1_vice": [
+      4,
+      16
+    ],
+    "star1_main": [
+      11,
+      33
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      41
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      49
+    ],
+    "star4_vice": [
+      11,
+      33
+    ],
+    "star4_main": [
+      17,
+      65
+    ],
+    "star5_vice": [
+      11,
+      41
+    ],
+    "star5_main": [
+      28,
+      82
+    ],
+    "star6_vice": [
+      13,
+      49
+    ],
+    "star6_main": [
+      33,
+      99
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1097940
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 145
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 50
+    }
+  },
+  "101": {
+    "id": 101,
+    "star1_vice": [
+      5,
+      17
+    ],
+    "star1_main": [
+      12,
+      34
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      42
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      50
+    ],
+    "star4_vice": [
+      12,
+      34
+    ],
+    "star4_main": [
+      17,
+      67
+    ],
+    "star5_vice": [
+      11,
+      42
+    ],
+    "star5_main": [
+      28,
+      84
+    ],
+    "star6_vice": [
+      13,
+      50
+    ],
+    "star6_main": [
+      34,
+      100
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1479000
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "102": {
+    "id": 102,
+    "star1_vice": [
+      5,
+      17
+    ],
+    "star1_main": [
+      12,
+      34
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      42
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      50
+    ],
+    "star4_vice": [
+      12,
+      34
+    ],
+    "star4_main": [
+      17,
+      67
+    ],
+    "star5_vice": [
+      11,
+      42
+    ],
+    "star5_main": [
+      28,
+      84
+    ],
+    "star6_vice": [
+      13,
+      50
+    ],
+    "star6_main": [
+      34,
+      100
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1493500
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "103": {
+    "id": 103,
+    "star1_vice": [
+      5,
+      17
+    ],
+    "star1_main": [
+      12,
+      34
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      42
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      50
+    ],
+    "star4_vice": [
+      12,
+      34
+    ],
+    "star4_main": [
+      17,
+      67
+    ],
+    "star5_vice": [
+      11,
+      42
+    ],
+    "star5_main": [
+      28,
+      84
+    ],
+    "star6_vice": [
+      13,
+      50
+    ],
+    "star6_main": [
+      34,
+      100
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1508000
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "104": {
+    "id": 104,
+    "star1_vice": [
+      5,
+      17
+    ],
+    "star1_main": [
+      12,
+      34
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      42
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      50
+    ],
+    "star4_vice": [
+      12,
+      34
+    ],
+    "star4_main": [
+      17,
+      67
+    ],
+    "star5_vice": [
+      11,
+      42
+    ],
+    "star5_main": [
+      28,
+      84
+    ],
+    "star6_vice": [
+      13,
+      50
+    ],
+    "star6_main": [
+      34,
+      100
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1522500
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "105": {
+    "id": 105,
+    "star1_vice": [
+      5,
+      17
+    ],
+    "star1_main": [
+      12,
+      34
+    ],
+    "star2_vice": [
+      6,
+      21
+    ],
+    "star2_main": [
+      14,
+      42
+    ],
+    "star3_vice": [
+      7,
+      25
+    ],
+    "star3_main": [
+      17,
+      50
+    ],
+    "star4_vice": [
+      12,
+      34
+    ],
+    "star4_main": [
+      17,
+      67
+    ],
+    "star5_vice": [
+      11,
+      42
+    ],
+    "star5_main": [
+      28,
+      84
+    ],
+    "star6_vice": [
+      13,
+      50
+    ],
+    "star6_main": [
+      34,
+      100
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1537580
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "106": {
+    "id": 106,
+    "star1_vice": [
+      5,
+      18
+    ],
+    "star1_main": [
+      12,
+      35
+    ],
+    "star2_vice": [
+      6,
+      22
+    ],
+    "star2_main": [
+      15,
+      44
+    ],
+    "star3_vice": [
+      7,
+      26
+    ],
+    "star3_main": [
+      18,
+      53
+    ],
+    "star4_vice": [
+      12,
+      35
+    ],
+    "star4_main": [
+      18,
+      70
+    ],
+    "star5_vice": [
+      11,
+      44
+    ],
+    "star5_main": [
+      30,
+      88
+    ],
+    "star6_vice": [
+      14,
+      53
+    ],
+    "star6_main": [
+      35,
+      105
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1552080
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "107": {
+    "id": 107,
+    "star1_vice": [
+      5,
+      18
+    ],
+    "star1_main": [
+      12,
+      35
+    ],
+    "star2_vice": [
+      6,
+      22
+    ],
+    "star2_main": [
+      15,
+      44
+    ],
+    "star3_vice": [
+      7,
+      26
+    ],
+    "star3_main": [
+      18,
+      53
+    ],
+    "star4_vice": [
+      12,
+      35
+    ],
+    "star4_main": [
+      18,
+      70
+    ],
+    "star5_vice": [
+      11,
+      44
+    ],
+    "star5_main": [
+      30,
+      88
+    ],
+    "star6_vice": [
+      14,
+      53
+    ],
+    "star6_main": [
+      35,
+      105
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1566580
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "108": {
+    "id": 108,
+    "star1_vice": [
+      5,
+      18
+    ],
+    "star1_main": [
+      12,
+      35
+    ],
+    "star2_vice": [
+      6,
+      22
+    ],
+    "star2_main": [
+      15,
+      44
+    ],
+    "star3_vice": [
+      7,
+      26
+    ],
+    "star3_main": [
+      18,
+      53
+    ],
+    "star4_vice": [
+      12,
+      35
+    ],
+    "star4_main": [
+      18,
+      70
+    ],
+    "star5_vice": [
+      11,
+      44
+    ],
+    "star5_main": [
+      30,
+      88
+    ],
+    "star6_vice": [
+      14,
+      53
+    ],
+    "star6_main": [
+      35,
+      105
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1581080
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "109": {
+    "id": 109,
+    "star1_vice": [
+      5,
+      18
+    ],
+    "star1_main": [
+      12,
+      35
+    ],
+    "star2_vice": [
+      6,
+      22
+    ],
+    "star2_main": [
+      15,
+      44
+    ],
+    "star3_vice": [
+      7,
+      26
+    ],
+    "star3_main": [
+      18,
+      53
+    ],
+    "star4_vice": [
+      12,
+      35
+    ],
+    "star4_main": [
+      18,
+      70
+    ],
+    "star5_vice": [
+      11,
+      44
+    ],
+    "star5_main": [
+      30,
+      88
+    ],
+    "star6_vice": [
+      14,
+      53
+    ],
+    "star6_main": [
+      35,
+      105
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1596160
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "110": {
+    "id": 110,
+    "star1_vice": [
+      5,
+      18
+    ],
+    "star1_main": [
+      12,
+      35
+    ],
+    "star2_vice": [
+      6,
+      22
+    ],
+    "star2_main": [
+      15,
+      44
+    ],
+    "star3_vice": [
+      7,
+      26
+    ],
+    "star3_main": [
+      18,
+      53
+    ],
+    "star4_vice": [
+      12,
+      35
+    ],
+    "star4_main": [
+      18,
+      70
+    ],
+    "star5_vice": [
+      11,
+      44
+    ],
+    "star5_main": [
+      30,
+      88
+    ],
+    "star6_vice": [
+      14,
+      53
+    ],
+    "star6_main": [
+      35,
+      105
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1610660
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 165
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "111": {
+    "id": 111,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      37
+    ],
+    "star2_vice": [
+      6,
+      23
+    ],
+    "star2_main": [
+      16,
+      46
+    ],
+    "star3_vice": [
+      7,
+      28
+    ],
+    "star3_main": [
+      19,
+      55
+    ],
+    "star4_vice": [
+      13,
+      37
+    ],
+    "star4_main": [
+      19,
+      73
+    ],
+    "star5_vice": [
+      12,
+      46
+    ],
+    "star5_main": [
+      31,
+      92
+    ],
+    "star6_vice": [
+      14,
+      55
+    ],
+    "star6_main": [
+      37,
+      110
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1625160
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "112": {
+    "id": 112,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      37
+    ],
+    "star2_vice": [
+      6,
+      23
+    ],
+    "star2_main": [
+      16,
+      46
+    ],
+    "star3_vice": [
+      7,
+      28
+    ],
+    "star3_main": [
+      19,
+      55
+    ],
+    "star4_vice": [
+      13,
+      37
+    ],
+    "star4_main": [
+      19,
+      73
+    ],
+    "star5_vice": [
+      12,
+      46
+    ],
+    "star5_main": [
+      31,
+      92
+    ],
+    "star6_vice": [
+      14,
+      55
+    ],
+    "star6_main": [
+      37,
+      110
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1639660
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "113": {
+    "id": 113,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      37
+    ],
+    "star2_vice": [
+      6,
+      23
+    ],
+    "star2_main": [
+      16,
+      46
+    ],
+    "star3_vice": [
+      7,
+      28
+    ],
+    "star3_main": [
+      19,
+      55
+    ],
+    "star4_vice": [
+      13,
+      37
+    ],
+    "star4_main": [
+      19,
+      73
+    ],
+    "star5_vice": [
+      12,
+      46
+    ],
+    "star5_main": [
+      31,
+      92
+    ],
+    "star6_vice": [
+      14,
+      55
+    ],
+    "star6_main": [
+      37,
+      110
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1654740
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "114": {
+    "id": 114,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      37
+    ],
+    "star2_vice": [
+      6,
+      23
+    ],
+    "star2_main": [
+      16,
+      46
+    ],
+    "star3_vice": [
+      7,
+      28
+    ],
+    "star3_main": [
+      19,
+      55
+    ],
+    "star4_vice": [
+      13,
+      37
+    ],
+    "star4_main": [
+      19,
+      73
+    ],
+    "star5_vice": [
+      12,
+      46
+    ],
+    "star5_main": [
+      31,
+      92
+    ],
+    "star6_vice": [
+      14,
+      55
+    ],
+    "star6_main": [
+      37,
+      110
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1669240
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "115": {
+    "id": 115,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      37
+    ],
+    "star2_vice": [
+      6,
+      23
+    ],
+    "star2_main": [
+      16,
+      46
+    ],
+    "star3_vice": [
+      7,
+      28
+    ],
+    "star3_main": [
+      19,
+      55
+    ],
+    "star4_vice": [
+      13,
+      37
+    ],
+    "star4_main": [
+      19,
+      73
+    ],
+    "star5_vice": [
+      12,
+      46
+    ],
+    "star5_main": [
+      31,
+      92
+    ],
+    "star6_vice": [
+      14,
+      55
+    ],
+    "star6_main": [
+      37,
+      110
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1683740
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "116": {
+    "id": 116,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      39
+    ],
+    "star2_vice": [
+      6,
+      24
+    ],
+    "star2_main": [
+      16,
+      48
+    ],
+    "star3_vice": [
+      8,
+      29
+    ],
+    "star3_main": [
+      20,
+      58
+    ],
+    "star4_vice": [
+      13,
+      39
+    ],
+    "star4_main": [
+      19,
+      76
+    ],
+    "star5_vice": [
+      12,
+      48
+    ],
+    "star5_main": [
+      32,
+      96
+    ],
+    "star6_vice": [
+      15,
+      57
+    ],
+    "star6_main": [
+      39,
+      115
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1698240
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "117": {
+    "id": 117,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      39
+    ],
+    "star2_vice": [
+      6,
+      24
+    ],
+    "star2_main": [
+      16,
+      48
+    ],
+    "star3_vice": [
+      8,
+      29
+    ],
+    "star3_main": [
+      20,
+      58
+    ],
+    "star4_vice": [
+      13,
+      39
+    ],
+    "star4_main": [
+      19,
+      76
+    ],
+    "star5_vice": [
+      12,
+      48
+    ],
+    "star5_main": [
+      32,
+      96
+    ],
+    "star6_vice": [
+      15,
+      57
+    ],
+    "star6_main": [
+      39,
+      115
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1713320
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "118": {
+    "id": 118,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      39
+    ],
+    "star2_vice": [
+      6,
+      24
+    ],
+    "star2_main": [
+      16,
+      48
+    ],
+    "star3_vice": [
+      8,
+      29
+    ],
+    "star3_main": [
+      20,
+      58
+    ],
+    "star4_vice": [
+      13,
+      39
+    ],
+    "star4_main": [
+      19,
+      76
+    ],
+    "star5_vice": [
+      12,
+      48
+    ],
+    "star5_main": [
+      32,
+      96
+    ],
+    "star6_vice": [
+      15,
+      57
+    ],
+    "star6_main": [
+      39,
+      115
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1727820
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "119": {
+    "id": 119,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      39
+    ],
+    "star2_vice": [
+      6,
+      24
+    ],
+    "star2_main": [
+      16,
+      48
+    ],
+    "star3_vice": [
+      8,
+      29
+    ],
+    "star3_main": [
+      20,
+      58
+    ],
+    "star4_vice": [
+      13,
+      39
+    ],
+    "star4_main": [
+      19,
+      76
+    ],
+    "star5_vice": [
+      12,
+      48
+    ],
+    "star5_main": [
+      32,
+      96
+    ],
+    "star6_vice": [
+      15,
+      57
+    ],
+    "star6_main": [
+      39,
+      115
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1742320
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "120": {
+    "id": 120,
+    "star1_vice": [
+      5,
+      19
+    ],
+    "star1_main": [
+      13,
+      39
+    ],
+    "star2_vice": [
+      6,
+      24
+    ],
+    "star2_main": [
+      16,
+      48
+    ],
+    "star3_vice": [
+      8,
+      29
+    ],
+    "star3_main": [
+      20,
+      58
+    ],
+    "star4_vice": [
+      13,
+      39
+    ],
+    "star4_main": [
+      19,
+      76
+    ],
+    "star5_vice": [
+      12,
+      48
+    ],
+    "star5_main": [
+      32,
+      96
+    ],
+    "star6_vice": [
+      15,
+      57
+    ],
+    "star6_main": [
+      39,
+      115
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 1756820
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 186
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 60
+    }
+  },
+  "121": {
+    "id": 121,
+    "star1_vice": [
+      5,
+      20
+    ],
+    "star1_main": [
+      14,
+      40
+    ],
+    "star2_vice": [
+      7,
+      25
+    ],
+    "star2_main": [
+      17,
+      50
+    ],
+    "star3_vice": [
+      8,
+      30
+    ],
+    "star3_main": [
+      20,
+      60
+    ],
+    "star4_vice": [
+      14,
+      40
+    ],
+    "star4_main": [
+      20,
+      80
+    ],
+    "star5_vice": [
+      13,
+      50
+    ],
+    "star5_main": [
+      34,
+      100
+    ],
+    "star6_vice": [
+      15,
+      60
+    ],
+    "star6_main": [
+      40,
+      120
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2214875
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "122": {
+    "id": 122,
+    "star1_vice": [
+      5,
+      20
+    ],
+    "star1_main": [
+      14,
+      40
+    ],
+    "star2_vice": [
+      7,
+      25
+    ],
+    "star2_main": [
+      17,
+      50
+    ],
+    "star3_vice": [
+      8,
+      30
+    ],
+    "star3_main": [
+      20,
+      60
+    ],
+    "star4_vice": [
+      14,
+      40
+    ],
+    "star4_main": [
+      20,
+      80
+    ],
+    "star5_vice": [
+      13,
+      50
+    ],
+    "star5_main": [
+      34,
+      100
+    ],
+    "star6_vice": [
+      15,
+      60
+    ],
+    "star6_main": [
+      40,
+      120
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2233000
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "123": {
+    "id": 123,
+    "star1_vice": [
+      5,
+      20
+    ],
+    "star1_main": [
+      14,
+      40
+    ],
+    "star2_vice": [
+      7,
+      25
+    ],
+    "star2_main": [
+      17,
+      50
+    ],
+    "star3_vice": [
+      8,
+      30
+    ],
+    "star3_main": [
+      20,
+      60
+    ],
+    "star4_vice": [
+      14,
+      40
+    ],
+    "star4_main": [
+      20,
+      80
+    ],
+    "star5_vice": [
+      13,
+      50
+    ],
+    "star5_main": [
+      34,
+      100
+    ],
+    "star6_vice": [
+      15,
+      60
+    ],
+    "star6_main": [
+      40,
+      120
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2251125
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "124": {
+    "id": 124,
+    "star1_vice": [
+      5,
+      20
+    ],
+    "star1_main": [
+      14,
+      40
+    ],
+    "star2_vice": [
+      7,
+      25
+    ],
+    "star2_main": [
+      17,
+      50
+    ],
+    "star3_vice": [
+      8,
+      30
+    ],
+    "star3_main": [
+      20,
+      60
+    ],
+    "star4_vice": [
+      14,
+      40
+    ],
+    "star4_main": [
+      20,
+      80
+    ],
+    "star5_vice": [
+      13,
+      50
+    ],
+    "star5_main": [
+      34,
+      100
+    ],
+    "star6_vice": [
+      15,
+      60
+    ],
+    "star6_main": [
+      40,
+      120
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2269250
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "125": {
+    "id": 125,
+    "star1_vice": [
+      5,
+      20
+    ],
+    "star1_main": [
+      14,
+      40
+    ],
+    "star2_vice": [
+      7,
+      25
+    ],
+    "star2_main": [
+      17,
+      50
+    ],
+    "star3_vice": [
+      8,
+      30
+    ],
+    "star3_main": [
+      20,
+      60
+    ],
+    "star4_vice": [
+      14,
+      40
+    ],
+    "star4_main": [
+      20,
+      80
+    ],
+    "star5_vice": [
+      13,
+      50
+    ],
+    "star5_main": [
+      34,
+      100
+    ],
+    "star6_vice": [
+      15,
+      60
+    ],
+    "star6_main": [
+      40,
+      120
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2287375
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "126": {
+    "id": 126,
+    "star1_vice": [
+      6,
+      21
+    ],
+    "star1_main": [
+      14,
+      42
+    ],
+    "star2_vice": [
+      7,
+      26
+    ],
+    "star2_main": [
+      18,
+      52
+    ],
+    "star3_vice": [
+      8,
+      31
+    ],
+    "star3_main": [
+      21,
+      62
+    ],
+    "star4_vice": [
+      14,
+      42
+    ],
+    "star4_main": [
+      21,
+      83
+    ],
+    "star5_vice": [
+      13,
+      52
+    ],
+    "star5_main": [
+      35,
+      104
+    ],
+    "star6_vice": [
+      16,
+      62
+    ],
+    "star6_main": [
+      42,
+      125
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2306225
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "127": {
+    "id": 127,
+    "star1_vice": [
+      6,
+      21
+    ],
+    "star1_main": [
+      14,
+      42
+    ],
+    "star2_vice": [
+      7,
+      26
+    ],
+    "star2_main": [
+      18,
+      52
+    ],
+    "star3_vice": [
+      8,
+      31
+    ],
+    "star3_main": [
+      21,
+      62
+    ],
+    "star4_vice": [
+      14,
+      42
+    ],
+    "star4_main": [
+      21,
+      83
+    ],
+    "star5_vice": [
+      13,
+      52
+    ],
+    "star5_main": [
+      35,
+      104
+    ],
+    "star6_vice": [
+      16,
+      62
+    ],
+    "star6_main": [
+      42,
+      125
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2324350
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "128": {
+    "id": 128,
+    "star1_vice": [
+      6,
+      21
+    ],
+    "star1_main": [
+      14,
+      42
+    ],
+    "star2_vice": [
+      7,
+      26
+    ],
+    "star2_main": [
+      18,
+      52
+    ],
+    "star3_vice": [
+      8,
+      31
+    ],
+    "star3_main": [
+      21,
+      62
+    ],
+    "star4_vice": [
+      14,
+      42
+    ],
+    "star4_main": [
+      21,
+      83
+    ],
+    "star5_vice": [
+      13,
+      52
+    ],
+    "star5_main": [
+      35,
+      104
+    ],
+    "star6_vice": [
+      16,
+      62
+    ],
+    "star6_main": [
+      42,
+      125
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2342475
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "129": {
+    "id": 129,
+    "star1_vice": [
+      6,
+      21
+    ],
+    "star1_main": [
+      14,
+      42
+    ],
+    "star2_vice": [
+      7,
+      26
+    ],
+    "star2_main": [
+      18,
+      52
+    ],
+    "star3_vice": [
+      8,
+      31
+    ],
+    "star3_main": [
+      21,
+      62
+    ],
+    "star4_vice": [
+      14,
+      42
+    ],
+    "star4_main": [
+      21,
+      83
+    ],
+    "star5_vice": [
+      13,
+      52
+    ],
+    "star5_main": [
+      35,
+      104
+    ],
+    "star6_vice": [
+      16,
+      62
+    ],
+    "star6_main": [
+      42,
+      125
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2360600
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "130": {
+    "id": 130,
+    "star1_vice": [
+      6,
+      21
+    ],
+    "star1_main": [
+      14,
+      42
+    ],
+    "star2_vice": [
+      7,
+      26
+    ],
+    "star2_main": [
+      18,
+      52
+    ],
+    "star3_vice": [
+      8,
+      31
+    ],
+    "star3_main": [
+      21,
+      62
+    ],
+    "star4_vice": [
+      14,
+      42
+    ],
+    "star4_main": [
+      21,
+      83
+    ],
+    "star5_vice": [
+      13,
+      52
+    ],
+    "star5_main": [
+      35,
+      104
+    ],
+    "star6_vice": [
+      16,
+      62
+    ],
+    "star6_main": [
+      42,
+      125
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2379450
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 208
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "131": {
+    "id": 131,
+    "star1_vice": [
+      6,
+      22
+    ],
+    "star1_main": [
+      15,
+      43
+    ],
+    "star2_vice": [
+      7,
+      27
+    ],
+    "star2_main": [
+      18,
+      54
+    ],
+    "star3_vice": [
+      9,
+      33
+    ],
+    "star3_main": [
+      22,
+      65
+    ],
+    "star4_vice": [
+      15,
+      43
+    ],
+    "star4_main": [
+      22,
+      86
+    ],
+    "star5_vice": [
+      14,
+      54
+    ],
+    "star5_main": [
+      36,
+      108
+    ],
+    "star6_vice": [
+      17,
+      65
+    ],
+    "star6_main": [
+      43,
+      129
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2397575
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "132": {
+    "id": 132,
+    "star1_vice": [
+      6,
+      22
+    ],
+    "star1_main": [
+      15,
+      43
+    ],
+    "star2_vice": [
+      7,
+      27
+    ],
+    "star2_main": [
+      18,
+      54
+    ],
+    "star3_vice": [
+      9,
+      33
+    ],
+    "star3_main": [
+      22,
+      65
+    ],
+    "star4_vice": [
+      15,
+      43
+    ],
+    "star4_main": [
+      22,
+      86
+    ],
+    "star5_vice": [
+      14,
+      54
+    ],
+    "star5_main": [
+      36,
+      108
+    ],
+    "star6_vice": [
+      17,
+      65
+    ],
+    "star6_main": [
+      43,
+      129
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2415700
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "133": {
+    "id": 133,
+    "star1_vice": [
+      6,
+      22
+    ],
+    "star1_main": [
+      15,
+      43
+    ],
+    "star2_vice": [
+      7,
+      27
+    ],
+    "star2_main": [
+      18,
+      54
+    ],
+    "star3_vice": [
+      9,
+      33
+    ],
+    "star3_main": [
+      22,
+      65
+    ],
+    "star4_vice": [
+      15,
+      43
+    ],
+    "star4_main": [
+      22,
+      86
+    ],
+    "star5_vice": [
+      14,
+      54
+    ],
+    "star5_main": [
+      36,
+      108
+    ],
+    "star6_vice": [
+      17,
+      65
+    ],
+    "star6_main": [
+      43,
+      129
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2433825
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "134": {
+    "id": 134,
+    "star1_vice": [
+      6,
+      22
+    ],
+    "star1_main": [
+      15,
+      43
+    ],
+    "star2_vice": [
+      7,
+      27
+    ],
+    "star2_main": [
+      18,
+      54
+    ],
+    "star3_vice": [
+      9,
+      33
+    ],
+    "star3_main": [
+      22,
+      65
+    ],
+    "star4_vice": [
+      15,
+      43
+    ],
+    "star4_main": [
+      22,
+      86
+    ],
+    "star5_vice": [
+      14,
+      54
+    ],
+    "star5_main": [
+      36,
+      108
+    ],
+    "star6_vice": [
+      17,
+      65
+    ],
+    "star6_main": [
+      43,
+      129
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2452675
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "135": {
+    "id": 135,
+    "star1_vice": [
+      6,
+      22
+    ],
+    "star1_main": [
+      15,
+      43
+    ],
+    "star2_vice": [
+      7,
+      27
+    ],
+    "star2_main": [
+      18,
+      54
+    ],
+    "star3_vice": [
+      9,
+      33
+    ],
+    "star3_main": [
+      22,
+      65
+    ],
+    "star4_vice": [
+      15,
+      43
+    ],
+    "star4_main": [
+      22,
+      86
+    ],
+    "star5_vice": [
+      14,
+      54
+    ],
+    "star5_main": [
+      36,
+      108
+    ],
+    "star6_vice": [
+      17,
+      65
+    ],
+    "star6_main": [
+      43,
+      129
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2470800
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "136": {
+    "id": 136,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      15,
+      45
+    ],
+    "star2_vice": [
+      7,
+      28
+    ],
+    "star2_main": [
+      19,
+      56
+    ],
+    "star3_vice": [
+      9,
+      34
+    ],
+    "star3_main": [
+      23,
+      67
+    ],
+    "star4_vice": [
+      15,
+      45
+    ],
+    "star4_main": [
+      23,
+      89
+    ],
+    "star5_vice": [
+      14,
+      56
+    ],
+    "star5_main": [
+      38,
+      112
+    ],
+    "star6_vice": [
+      17,
+      67
+    ],
+    "star6_main": [
+      45,
+      134
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2488925
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "137": {
+    "id": 137,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      15,
+      45
+    ],
+    "star2_vice": [
+      7,
+      28
+    ],
+    "star2_main": [
+      19,
+      56
+    ],
+    "star3_vice": [
+      9,
+      34
+    ],
+    "star3_main": [
+      23,
+      67
+    ],
+    "star4_vice": [
+      15,
+      45
+    ],
+    "star4_main": [
+      23,
+      89
+    ],
+    "star5_vice": [
+      14,
+      56
+    ],
+    "star5_main": [
+      38,
+      112
+    ],
+    "star6_vice": [
+      17,
+      67
+    ],
+    "star6_main": [
+      45,
+      134
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2507050
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "138": {
+    "id": 138,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      15,
+      45
+    ],
+    "star2_vice": [
+      7,
+      28
+    ],
+    "star2_main": [
+      19,
+      56
+    ],
+    "star3_vice": [
+      9,
+      34
+    ],
+    "star3_main": [
+      23,
+      67
+    ],
+    "star4_vice": [
+      15,
+      45
+    ],
+    "star4_main": [
+      23,
+      89
+    ],
+    "star5_vice": [
+      14,
+      56
+    ],
+    "star5_main": [
+      38,
+      112
+    ],
+    "star6_vice": [
+      17,
+      67
+    ],
+    "star6_main": [
+      45,
+      134
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2525900
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "139": {
+    "id": 139,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      15,
+      45
+    ],
+    "star2_vice": [
+      7,
+      28
+    ],
+    "star2_main": [
+      19,
+      56
+    ],
+    "star3_vice": [
+      9,
+      34
+    ],
+    "star3_main": [
+      23,
+      67
+    ],
+    "star4_vice": [
+      15,
+      45
+    ],
+    "star4_main": [
+      23,
+      89
+    ],
+    "star5_vice": [
+      14,
+      56
+    ],
+    "star5_main": [
+      38,
+      112
+    ],
+    "star6_vice": [
+      17,
+      67
+    ],
+    "star6_main": [
+      45,
+      134
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2544025
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "140": {
+    "id": 140,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      15,
+      45
+    ],
+    "star2_vice": [
+      7,
+      28
+    ],
+    "star2_main": [
+      19,
+      56
+    ],
+    "star3_vice": [
+      9,
+      34
+    ],
+    "star3_main": [
+      23,
+      67
+    ],
+    "star4_vice": [
+      15,
+      45
+    ],
+    "star4_main": [
+      23,
+      89
+    ],
+    "star5_vice": [
+      14,
+      56
+    ],
+    "star5_main": [
+      38,
+      112
+    ],
+    "star6_vice": [
+      17,
+      67
+    ],
+    "star6_main": [
+      45,
+      134
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 2562150
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 231
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 70
+    }
+  },
+  "141": {
+    "id": 141,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      16,
+      47
+    ],
+    "star2_vice": [
+      8,
+      29
+    ],
+    "star2_main": [
+      20,
+      58
+    ],
+    "star3_vice": [
+      9,
+      35
+    ],
+    "star3_main": [
+      24,
+      70
+    ],
+    "star4_vice": [
+      16,
+      47
+    ],
+    "star4_main": [
+      24,
+      93
+    ],
+    "star5_vice": [
+      15,
+      58
+    ],
+    "star5_main": [
+      39,
+      116
+    ],
+    "star6_vice": [
+      18,
+      70
+    ],
+    "star6_main": [
+      47,
+      139
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3096330
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "142": {
+    "id": 142,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      16,
+      47
+    ],
+    "star2_vice": [
+      8,
+      29
+    ],
+    "star2_main": [
+      20,
+      58
+    ],
+    "star3_vice": [
+      9,
+      35
+    ],
+    "star3_main": [
+      24,
+      70
+    ],
+    "star4_vice": [
+      16,
+      47
+    ],
+    "star4_main": [
+      24,
+      93
+    ],
+    "star5_vice": [
+      15,
+      58
+    ],
+    "star5_main": [
+      39,
+      116
+    ],
+    "star6_vice": [
+      18,
+      70
+    ],
+    "star6_main": [
+      47,
+      139
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3118950
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "143": {
+    "id": 143,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      16,
+      47
+    ],
+    "star2_vice": [
+      8,
+      29
+    ],
+    "star2_main": [
+      20,
+      58
+    ],
+    "star3_vice": [
+      9,
+      35
+    ],
+    "star3_main": [
+      24,
+      70
+    ],
+    "star4_vice": [
+      16,
+      47
+    ],
+    "star4_main": [
+      24,
+      93
+    ],
+    "star5_vice": [
+      15,
+      58
+    ],
+    "star5_main": [
+      39,
+      116
+    ],
+    "star6_vice": [
+      18,
+      70
+    ],
+    "star6_main": [
+      47,
+      139
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3140700
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "144": {
+    "id": 144,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      16,
+      47
+    ],
+    "star2_vice": [
+      8,
+      29
+    ],
+    "star2_main": [
+      20,
+      58
+    ],
+    "star3_vice": [
+      9,
+      35
+    ],
+    "star3_main": [
+      24,
+      70
+    ],
+    "star4_vice": [
+      16,
+      47
+    ],
+    "star4_main": [
+      24,
+      93
+    ],
+    "star5_vice": [
+      15,
+      58
+    ],
+    "star5_main": [
+      39,
+      116
+    ],
+    "star6_vice": [
+      18,
+      70
+    ],
+    "star6_main": [
+      47,
+      139
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3162450
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "145": {
+    "id": 145,
+    "star1_vice": [
+      6,
+      23
+    ],
+    "star1_main": [
+      16,
+      47
+    ],
+    "star2_vice": [
+      8,
+      29
+    ],
+    "star2_main": [
+      20,
+      58
+    ],
+    "star3_vice": [
+      9,
+      35
+    ],
+    "star3_main": [
+      24,
+      70
+    ],
+    "star4_vice": [
+      16,
+      47
+    ],
+    "star4_main": [
+      24,
+      93
+    ],
+    "star5_vice": [
+      15,
+      58
+    ],
+    "star5_main": [
+      39,
+      116
+    ],
+    "star6_vice": [
+      18,
+      70
+    ],
+    "star6_main": [
+      47,
+      139
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3184200
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "146": {
+    "id": 146,
+    "star1_vice": [
+      6,
+      24
+    ],
+    "star1_main": [
+      16,
+      48
+    ],
+    "star2_vice": [
+      8,
+      30
+    ],
+    "star2_main": [
+      20,
+      60
+    ],
+    "star3_vice": [
+      9,
+      36
+    ],
+    "star3_main": [
+      24,
+      72
+    ],
+    "star4_vice": [
+      16,
+      48
+    ],
+    "star4_main": [
+      24,
+      96
+    ],
+    "star5_vice": [
+      15,
+      60
+    ],
+    "star5_main": [
+      40,
+      120
+    ],
+    "star6_vice": [
+      18,
+      72
+    ],
+    "star6_main": [
+      48,
+      144
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3206820
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "147": {
+    "id": 147,
+    "star1_vice": [
+      6,
+      24
+    ],
+    "star1_main": [
+      16,
+      48
+    ],
+    "star2_vice": [
+      8,
+      30
+    ],
+    "star2_main": [
+      20,
+      60
+    ],
+    "star3_vice": [
+      9,
+      36
+    ],
+    "star3_main": [
+      24,
+      72
+    ],
+    "star4_vice": [
+      16,
+      48
+    ],
+    "star4_main": [
+      24,
+      96
+    ],
+    "star5_vice": [
+      15,
+      60
+    ],
+    "star5_main": [
+      40,
+      120
+    ],
+    "star6_vice": [
+      18,
+      72
+    ],
+    "star6_main": [
+      48,
+      144
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3228570
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "148": {
+    "id": 148,
+    "star1_vice": [
+      6,
+      24
+    ],
+    "star1_main": [
+      16,
+      48
+    ],
+    "star2_vice": [
+      8,
+      30
+    ],
+    "star2_main": [
+      20,
+      60
+    ],
+    "star3_vice": [
+      9,
+      36
+    ],
+    "star3_main": [
+      24,
+      72
+    ],
+    "star4_vice": [
+      16,
+      48
+    ],
+    "star4_main": [
+      24,
+      96
+    ],
+    "star5_vice": [
+      15,
+      60
+    ],
+    "star5_main": [
+      40,
+      120
+    ],
+    "star6_vice": [
+      18,
+      72
+    ],
+    "star6_main": [
+      48,
+      144
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3250320
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "149": {
+    "id": 149,
+    "star1_vice": [
+      6,
+      24
+    ],
+    "star1_main": [
+      16,
+      48
+    ],
+    "star2_vice": [
+      8,
+      30
+    ],
+    "star2_main": [
+      20,
+      60
+    ],
+    "star3_vice": [
+      9,
+      36
+    ],
+    "star3_main": [
+      24,
+      72
+    ],
+    "star4_vice": [
+      16,
+      48
+    ],
+    "star4_main": [
+      24,
+      96
+    ],
+    "star5_vice": [
+      15,
+      60
+    ],
+    "star5_main": [
+      40,
+      120
+    ],
+    "star6_vice": [
+      18,
+      72
+    ],
+    "star6_main": [
+      48,
+      144
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3272070
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "150": {
+    "id": 150,
+    "star1_vice": [
+      6,
+      24
+    ],
+    "star1_main": [
+      16,
+      48
+    ],
+    "star2_vice": [
+      8,
+      30
+    ],
+    "star2_main": [
+      20,
+      60
+    ],
+    "star3_vice": [
+      9,
+      36
+    ],
+    "star3_main": [
+      24,
+      72
+    ],
+    "star4_vice": [
+      16,
+      48
+    ],
+    "star4_main": [
+      24,
+      96
+    ],
+    "star5_vice": [
+      15,
+      60
+    ],
+    "star5_main": [
+      40,
+      120
+    ],
+    "star6_vice": [
+      18,
+      72
+    ],
+    "star6_main": [
+      48,
+      144
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3293820
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 255
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "151": {
+    "id": 151,
+    "star1_vice": [
+      7,
+      25
+    ],
+    "star1_main": [
+      17,
+      50
+    ],
+    "star2_vice": [
+      8,
+      31
+    ],
+    "star2_main": [
+      21,
+      62
+    ],
+    "star3_vice": [
+      10,
+      37
+    ],
+    "star3_main": [
+      25,
+      75
+    ],
+    "star4_vice": [
+      17,
+      50
+    ],
+    "star4_main": [
+      25,
+      99
+    ],
+    "star5_vice": [
+      16,
+      62
+    ],
+    "star5_main": [
+      42,
+      124
+    ],
+    "star6_vice": [
+      19,
+      74
+    ],
+    "star6_main": [
+      50,
+      149
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3316440
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "152": {
+    "id": 152,
+    "star1_vice": [
+      7,
+      25
+    ],
+    "star1_main": [
+      17,
+      50
+    ],
+    "star2_vice": [
+      8,
+      31
+    ],
+    "star2_main": [
+      21,
+      62
+    ],
+    "star3_vice": [
+      10,
+      37
+    ],
+    "star3_main": [
+      25,
+      75
+    ],
+    "star4_vice": [
+      17,
+      50
+    ],
+    "star4_main": [
+      25,
+      99
+    ],
+    "star5_vice": [
+      16,
+      62
+    ],
+    "star5_main": [
+      42,
+      124
+    ],
+    "star6_vice": [
+      19,
+      74
+    ],
+    "star6_main": [
+      50,
+      149
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3338190
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "153": {
+    "id": 153,
+    "star1_vice": [
+      7,
+      25
+    ],
+    "star1_main": [
+      17,
+      50
+    ],
+    "star2_vice": [
+      8,
+      31
+    ],
+    "star2_main": [
+      21,
+      62
+    ],
+    "star3_vice": [
+      10,
+      37
+    ],
+    "star3_main": [
+      25,
+      75
+    ],
+    "star4_vice": [
+      17,
+      50
+    ],
+    "star4_main": [
+      25,
+      99
+    ],
+    "star5_vice": [
+      16,
+      62
+    ],
+    "star5_main": [
+      42,
+      124
+    ],
+    "star6_vice": [
+      19,
+      74
+    ],
+    "star6_main": [
+      50,
+      149
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3359940
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "154": {
+    "id": 154,
+    "star1_vice": [
+      7,
+      25
+    ],
+    "star1_main": [
+      17,
+      50
+    ],
+    "star2_vice": [
+      8,
+      31
+    ],
+    "star2_main": [
+      21,
+      62
+    ],
+    "star3_vice": [
+      10,
+      37
+    ],
+    "star3_main": [
+      25,
+      75
+    ],
+    "star4_vice": [
+      17,
+      50
+    ],
+    "star4_main": [
+      25,
+      99
+    ],
+    "star5_vice": [
+      16,
+      62
+    ],
+    "star5_main": [
+      42,
+      124
+    ],
+    "star6_vice": [
+      19,
+      74
+    ],
+    "star6_main": [
+      50,
+      149
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3381690
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "155": {
+    "id": 155,
+    "star1_vice": [
+      7,
+      25
+    ],
+    "star1_main": [
+      17,
+      50
+    ],
+    "star2_vice": [
+      8,
+      31
+    ],
+    "star2_main": [
+      21,
+      62
+    ],
+    "star3_vice": [
+      10,
+      37
+    ],
+    "star3_main": [
+      25,
+      75
+    ],
+    "star4_vice": [
+      17,
+      50
+    ],
+    "star4_main": [
+      25,
+      99
+    ],
+    "star5_vice": [
+      16,
+      62
+    ],
+    "star5_main": [
+      42,
+      124
+    ],
+    "star6_vice": [
+      19,
+      74
+    ],
+    "star6_main": [
+      50,
+      149
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3404310
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "156": {
+    "id": 156,
+    "star1_vice": [
+      7,
+      26
+    ],
+    "star1_main": [
+      17,
+      51
+    ],
+    "star2_vice": [
+      8,
+      32
+    ],
+    "star2_main": [
+      22,
+      64
+    ],
+    "star3_vice": [
+      10,
+      39
+    ],
+    "star3_main": [
+      26,
+      77
+    ],
+    "star4_vice": [
+      17,
+      51
+    ],
+    "star4_main": [
+      26,
+      102
+    ],
+    "star5_vice": [
+      16,
+      64
+    ],
+    "star5_main": [
+      43,
+      128
+    ],
+    "star6_vice": [
+      20,
+      77
+    ],
+    "star6_main": [
+      52,
+      154
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3426060
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "157": {
+    "id": 157,
+    "star1_vice": [
+      7,
+      26
+    ],
+    "star1_main": [
+      17,
+      51
+    ],
+    "star2_vice": [
+      8,
+      32
+    ],
+    "star2_main": [
+      22,
+      64
+    ],
+    "star3_vice": [
+      10,
+      39
+    ],
+    "star3_main": [
+      26,
+      77
+    ],
+    "star4_vice": [
+      17,
+      51
+    ],
+    "star4_main": [
+      26,
+      102
+    ],
+    "star5_vice": [
+      16,
+      64
+    ],
+    "star5_main": [
+      43,
+      128
+    ],
+    "star6_vice": [
+      20,
+      77
+    ],
+    "star6_main": [
+      52,
+      154
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3447810
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "158": {
+    "id": 158,
+    "star1_vice": [
+      7,
+      26
+    ],
+    "star1_main": [
+      17,
+      51
+    ],
+    "star2_vice": [
+      8,
+      32
+    ],
+    "star2_main": [
+      22,
+      64
+    ],
+    "star3_vice": [
+      10,
+      39
+    ],
+    "star3_main": [
+      26,
+      77
+    ],
+    "star4_vice": [
+      17,
+      51
+    ],
+    "star4_main": [
+      26,
+      102
+    ],
+    "star5_vice": [
+      16,
+      64
+    ],
+    "star5_main": [
+      43,
+      128
+    ],
+    "star6_vice": [
+      20,
+      77
+    ],
+    "star6_main": [
+      52,
+      154
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3469560
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "159": {
+    "id": 159,
+    "star1_vice": [
+      7,
+      26
+    ],
+    "star1_main": [
+      17,
+      51
+    ],
+    "star2_vice": [
+      8,
+      32
+    ],
+    "star2_main": [
+      22,
+      64
+    ],
+    "star3_vice": [
+      10,
+      39
+    ],
+    "star3_main": [
+      26,
+      77
+    ],
+    "star4_vice": [
+      17,
+      51
+    ],
+    "star4_main": [
+      26,
+      102
+    ],
+    "star5_vice": [
+      16,
+      64
+    ],
+    "star5_main": [
+      43,
+      128
+    ],
+    "star6_vice": [
+      20,
+      77
+    ],
+    "star6_main": [
+      52,
+      154
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3492180
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "160": {
+    "id": 160,
+    "star1_vice": [
+      7,
+      26
+    ],
+    "star1_main": [
+      17,
+      51
+    ],
+    "star2_vice": [
+      8,
+      32
+    ],
+    "star2_main": [
+      22,
+      64
+    ],
+    "star3_vice": [
+      10,
+      39
+    ],
+    "star3_main": [
+      26,
+      77
+    ],
+    "star4_vice": [
+      17,
+      51
+    ],
+    "star4_main": [
+      26,
+      102
+    ],
+    "star5_vice": [
+      16,
+      64
+    ],
+    "star5_main": [
+      43,
+      128
+    ],
+    "star6_vice": [
+      20,
+      77
+    ],
+    "star6_main": [
+      52,
+      154
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 3513930
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 280
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 80
+    }
+  },
+  "161": {
+    "id": 161,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      18,
+      53
+    ],
+    "star2_vice": [
+      9,
+      33
+    ],
+    "star2_main": [
+      22,
+      66
+    ],
+    "star3_vice": [
+      10,
+      40
+    ],
+    "star3_main": [
+      27,
+      79
+    ],
+    "star4_vice": [
+      18,
+      53
+    ],
+    "star4_main": [
+      27,
+      105
+    ],
+    "star5_vice": [
+      17,
+      66
+    ],
+    "star5_main": [
+      44,
+      132
+    ],
+    "star6_vice": [
+      20,
+      79
+    ],
+    "star6_main": [
+      53,
+      158
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4124960
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "162": {
+    "id": 162,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      18,
+      53
+    ],
+    "star2_vice": [
+      9,
+      33
+    ],
+    "star2_main": [
+      22,
+      66
+    ],
+    "star3_vice": [
+      10,
+      40
+    ],
+    "star3_main": [
+      27,
+      79
+    ],
+    "star4_vice": [
+      18,
+      53
+    ],
+    "star4_main": [
+      27,
+      105
+    ],
+    "star5_vice": [
+      17,
+      66
+    ],
+    "star5_main": [
+      44,
+      132
+    ],
+    "star6_vice": [
+      20,
+      79
+    ],
+    "star6_main": [
+      53,
+      158
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4150335
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "163": {
+    "id": 163,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      18,
+      53
+    ],
+    "star2_vice": [
+      9,
+      33
+    ],
+    "star2_main": [
+      22,
+      66
+    ],
+    "star3_vice": [
+      10,
+      40
+    ],
+    "star3_main": [
+      27,
+      79
+    ],
+    "star4_vice": [
+      18,
+      53
+    ],
+    "star4_main": [
+      27,
+      105
+    ],
+    "star5_vice": [
+      17,
+      66
+    ],
+    "star5_main": [
+      44,
+      132
+    ],
+    "star6_vice": [
+      20,
+      79
+    ],
+    "star6_main": [
+      53,
+      158
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4176725
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "164": {
+    "id": 164,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      18,
+      53
+    ],
+    "star2_vice": [
+      9,
+      33
+    ],
+    "star2_main": [
+      22,
+      66
+    ],
+    "star3_vice": [
+      10,
+      40
+    ],
+    "star3_main": [
+      27,
+      79
+    ],
+    "star4_vice": [
+      18,
+      53
+    ],
+    "star4_main": [
+      27,
+      105
+    ],
+    "star5_vice": [
+      17,
+      66
+    ],
+    "star5_main": [
+      44,
+      132
+    ],
+    "star6_vice": [
+      20,
+      79
+    ],
+    "star6_main": [
+      53,
+      158
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4202100
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "165": {
+    "id": 165,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      18,
+      53
+    ],
+    "star2_vice": [
+      9,
+      33
+    ],
+    "star2_main": [
+      22,
+      66
+    ],
+    "star3_vice": [
+      10,
+      40
+    ],
+    "star3_main": [
+      27,
+      79
+    ],
+    "star4_vice": [
+      18,
+      53
+    ],
+    "star4_main": [
+      27,
+      105
+    ],
+    "star5_vice": [
+      17,
+      66
+    ],
+    "star5_main": [
+      44,
+      132
+    ],
+    "star6_vice": [
+      20,
+      79
+    ],
+    "star6_main": [
+      53,
+      158
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4227475
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "166": {
+    "id": 166,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      19,
+      55
+    ],
+    "star2_vice": [
+      9,
+      34
+    ],
+    "star2_main": [
+      23,
+      68
+    ],
+    "star3_vice": [
+      11,
+      41
+    ],
+    "star3_main": [
+      28,
+      82
+    ],
+    "star4_vice": [
+      19,
+      55
+    ],
+    "star4_main": [
+      28,
+      109
+    ],
+    "star5_vice": [
+      17,
+      68
+    ],
+    "star5_main": [
+      46,
+      136
+    ],
+    "star6_vice": [
+      21,
+      82
+    ],
+    "star6_main": [
+      55,
+      163
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4252850
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "167": {
+    "id": 167,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      19,
+      55
+    ],
+    "star2_vice": [
+      9,
+      34
+    ],
+    "star2_main": [
+      23,
+      68
+    ],
+    "star3_vice": [
+      11,
+      41
+    ],
+    "star3_main": [
+      28,
+      82
+    ],
+    "star4_vice": [
+      19,
+      55
+    ],
+    "star4_main": [
+      28,
+      109
+    ],
+    "star5_vice": [
+      17,
+      68
+    ],
+    "star5_main": [
+      46,
+      136
+    ],
+    "star6_vice": [
+      21,
+      82
+    ],
+    "star6_main": [
+      55,
+      163
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4279240
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "168": {
+    "id": 168,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      19,
+      55
+    ],
+    "star2_vice": [
+      9,
+      34
+    ],
+    "star2_main": [
+      23,
+      68
+    ],
+    "star3_vice": [
+      11,
+      41
+    ],
+    "star3_main": [
+      28,
+      82
+    ],
+    "star4_vice": [
+      19,
+      55
+    ],
+    "star4_main": [
+      28,
+      109
+    ],
+    "star5_vice": [
+      17,
+      68
+    ],
+    "star5_main": [
+      46,
+      136
+    ],
+    "star6_vice": [
+      21,
+      82
+    ],
+    "star6_main": [
+      55,
+      163
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4304615
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "169": {
+    "id": 169,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      19,
+      55
+    ],
+    "star2_vice": [
+      9,
+      34
+    ],
+    "star2_main": [
+      23,
+      68
+    ],
+    "star3_vice": [
+      11,
+      41
+    ],
+    "star3_main": [
+      28,
+      82
+    ],
+    "star4_vice": [
+      19,
+      55
+    ],
+    "star4_main": [
+      28,
+      109
+    ],
+    "star5_vice": [
+      17,
+      68
+    ],
+    "star5_main": [
+      46,
+      136
+    ],
+    "star6_vice": [
+      21,
+      82
+    ],
+    "star6_main": [
+      55,
+      163
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4329990
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "170": {
+    "id": 170,
+    "star1_vice": [
+      7,
+      27
+    ],
+    "star1_main": [
+      19,
+      55
+    ],
+    "star2_vice": [
+      9,
+      34
+    ],
+    "star2_main": [
+      23,
+      68
+    ],
+    "star3_vice": [
+      11,
+      41
+    ],
+    "star3_main": [
+      28,
+      82
+    ],
+    "star4_vice": [
+      19,
+      55
+    ],
+    "star4_main": [
+      28,
+      109
+    ],
+    "star5_vice": [
+      17,
+      68
+    ],
+    "star5_main": [
+      46,
+      136
+    ],
+    "star6_vice": [
+      21,
+      82
+    ],
+    "star6_main": [
+      55,
+      163
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4355365
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 306
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "171": {
+    "id": 171,
+    "star1_vice": [
+      7,
+      28
+    ],
+    "star1_main": [
+      19,
+      56
+    ],
+    "star2_vice": [
+      9,
+      35
+    ],
+    "star2_main": [
+      24,
+      70
+    ],
+    "star3_vice": [
+      11,
+      42
+    ],
+    "star3_main": [
+      28,
+      84
+    ],
+    "star4_vice": [
+      19,
+      56
+    ],
+    "star4_main": [
+      28,
+      112
+    ],
+    "star5_vice": [
+      18,
+      70
+    ],
+    "star5_main": [
+      47,
+      140
+    ],
+    "star6_vice": [
+      21,
+      84
+    ],
+    "star6_main": [
+      56,
+      168
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4381755
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "172": {
+    "id": 172,
+    "star1_vice": [
+      7,
+      28
+    ],
+    "star1_main": [
+      19,
+      56
+    ],
+    "star2_vice": [
+      9,
+      35
+    ],
+    "star2_main": [
+      24,
+      70
+    ],
+    "star3_vice": [
+      11,
+      42
+    ],
+    "star3_main": [
+      28,
+      84
+    ],
+    "star4_vice": [
+      19,
+      56
+    ],
+    "star4_main": [
+      28,
+      112
+    ],
+    "star5_vice": [
+      18,
+      70
+    ],
+    "star5_main": [
+      47,
+      140
+    ],
+    "star6_vice": [
+      21,
+      84
+    ],
+    "star6_main": [
+      56,
+      168
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4407130
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "173": {
+    "id": 173,
+    "star1_vice": [
+      7,
+      28
+    ],
+    "star1_main": [
+      19,
+      56
+    ],
+    "star2_vice": [
+      9,
+      35
+    ],
+    "star2_main": [
+      24,
+      70
+    ],
+    "star3_vice": [
+      11,
+      42
+    ],
+    "star3_main": [
+      28,
+      84
+    ],
+    "star4_vice": [
+      19,
+      56
+    ],
+    "star4_main": [
+      28,
+      112
+    ],
+    "star5_vice": [
+      18,
+      70
+    ],
+    "star5_main": [
+      47,
+      140
+    ],
+    "star6_vice": [
+      21,
+      84
+    ],
+    "star6_main": [
+      56,
+      168
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4432505
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "174": {
+    "id": 174,
+    "star1_vice": [
+      7,
+      28
+    ],
+    "star1_main": [
+      19,
+      56
+    ],
+    "star2_vice": [
+      9,
+      35
+    ],
+    "star2_main": [
+      24,
+      70
+    ],
+    "star3_vice": [
+      11,
+      42
+    ],
+    "star3_main": [
+      28,
+      84
+    ],
+    "star4_vice": [
+      19,
+      56
+    ],
+    "star4_main": [
+      28,
+      112
+    ],
+    "star5_vice": [
+      18,
+      70
+    ],
+    "star5_main": [
+      47,
+      140
+    ],
+    "star6_vice": [
+      21,
+      84
+    ],
+    "star6_main": [
+      56,
+      168
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4457880
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "175": {
+    "id": 175,
+    "star1_vice": [
+      7,
+      28
+    ],
+    "star1_main": [
+      19,
+      56
+    ],
+    "star2_vice": [
+      9,
+      35
+    ],
+    "star2_main": [
+      24,
+      70
+    ],
+    "star3_vice": [
+      11,
+      42
+    ],
+    "star3_main": [
+      28,
+      84
+    ],
+    "star4_vice": [
+      19,
+      56
+    ],
+    "star4_main": [
+      28,
+      112
+    ],
+    "star5_vice": [
+      18,
+      70
+    ],
+    "star5_main": [
+      47,
+      140
+    ],
+    "star6_vice": [
+      21,
+      84
+    ],
+    "star6_main": [
+      56,
+      168
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4483255
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "176": {
+    "id": 176,
+    "star1_vice": [
+      8,
+      29
+    ],
+    "star1_main": [
+      20,
+      58
+    ],
+    "star2_vice": [
+      9,
+      36
+    ],
+    "star2_main": [
+      24,
+      72
+    ],
+    "star3_vice": [
+      11,
+      43
+    ],
+    "star3_main": [
+      29,
+      87
+    ],
+    "star4_vice": [
+      20,
+      58
+    ],
+    "star4_main": [
+      29,
+      115
+    ],
+    "star5_vice": [
+      18,
+      72
+    ],
+    "star5_main": [
+      48,
+      144
+    ],
+    "star6_vice": [
+      22,
+      86
+    ],
+    "star6_main": [
+      58,
+      173
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4509645
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "177": {
+    "id": 177,
+    "star1_vice": [
+      8,
+      29
+    ],
+    "star1_main": [
+      20,
+      58
+    ],
+    "star2_vice": [
+      9,
+      36
+    ],
+    "star2_main": [
+      24,
+      72
+    ],
+    "star3_vice": [
+      11,
+      43
+    ],
+    "star3_main": [
+      29,
+      87
+    ],
+    "star4_vice": [
+      20,
+      58
+    ],
+    "star4_main": [
+      29,
+      115
+    ],
+    "star5_vice": [
+      18,
+      72
+    ],
+    "star5_main": [
+      48,
+      144
+    ],
+    "star6_vice": [
+      22,
+      86
+    ],
+    "star6_main": [
+      58,
+      173
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4535020
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "178": {
+    "id": 178,
+    "star1_vice": [
+      8,
+      29
+    ],
+    "star1_main": [
+      20,
+      58
+    ],
+    "star2_vice": [
+      9,
+      36
+    ],
+    "star2_main": [
+      24,
+      72
+    ],
+    "star3_vice": [
+      11,
+      43
+    ],
+    "star3_main": [
+      29,
+      87
+    ],
+    "star4_vice": [
+      20,
+      58
+    ],
+    "star4_main": [
+      29,
+      115
+    ],
+    "star5_vice": [
+      18,
+      72
+    ],
+    "star5_main": [
+      48,
+      144
+    ],
+    "star6_vice": [
+      22,
+      86
+    ],
+    "star6_main": [
+      58,
+      173
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4560395
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "179": {
+    "id": 179,
+    "star1_vice": [
+      8,
+      29
+    ],
+    "star1_main": [
+      20,
+      58
+    ],
+    "star2_vice": [
+      9,
+      36
+    ],
+    "star2_main": [
+      24,
+      72
+    ],
+    "star3_vice": [
+      11,
+      43
+    ],
+    "star3_main": [
+      29,
+      87
+    ],
+    "star4_vice": [
+      20,
+      58
+    ],
+    "star4_main": [
+      29,
+      115
+    ],
+    "star5_vice": [
+      18,
+      72
+    ],
+    "star5_main": [
+      48,
+      144
+    ],
+    "star6_vice": [
+      22,
+      86
+    ],
+    "star6_main": [
+      58,
+      173
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4585770
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "180": {
+    "id": 180,
+    "star1_vice": [
+      8,
+      29
+    ],
+    "star1_main": [
+      20,
+      58
+    ],
+    "star2_vice": [
+      9,
+      36
+    ],
+    "star2_main": [
+      24,
+      72
+    ],
+    "star3_vice": [
+      11,
+      43
+    ],
+    "star3_main": [
+      29,
+      87
+    ],
+    "star4_vice": [
+      20,
+      58
+    ],
+    "star4_main": [
+      29,
+      115
+    ],
+    "star5_vice": [
+      18,
+      72
+    ],
+    "star5_main": [
+      48,
+      144
+    ],
+    "star6_vice": [
+      22,
+      86
+    ],
+    "star6_main": [
+      58,
+      173
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 4612160
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 333
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 90
+    }
+  },
+  "181": {
+    "id": 181,
+    "star1_vice": [
+      8,
+      30
+    ],
+    "star1_main": [
+      20,
+      59
+    ],
+    "star2_vice": [
+      10,
+      37
+    ],
+    "star2_main": [
+      25,
+      74
+    ],
+    "star3_vice": [
+      12,
+      45
+    ],
+    "star3_main": [
+      30,
+      89
+    ],
+    "star4_vice": [
+      20,
+      59
+    ],
+    "star4_main": [
+      30,
+      118
+    ],
+    "star5_vice": [
+      19,
+      74
+    ],
+    "star5_main": [
+      50,
+      148
+    ],
+    "star6_vice": [
+      23,
+      89
+    ],
+    "star6_main": [
+      60,
+      178
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5300040
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "182": {
+    "id": 182,
+    "star1_vice": [
+      8,
+      30
+    ],
+    "star1_main": [
+      20,
+      59
+    ],
+    "star2_vice": [
+      10,
+      37
+    ],
+    "star2_main": [
+      25,
+      74
+    ],
+    "star3_vice": [
+      12,
+      45
+    ],
+    "star3_main": [
+      30,
+      89
+    ],
+    "star4_vice": [
+      20,
+      59
+    ],
+    "star4_main": [
+      30,
+      118
+    ],
+    "star5_vice": [
+      19,
+      74
+    ],
+    "star5_main": [
+      50,
+      148
+    ],
+    "star6_vice": [
+      23,
+      89
+    ],
+    "star6_main": [
+      60,
+      178
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5329040
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "183": {
+    "id": 183,
+    "star1_vice": [
+      8,
+      30
+    ],
+    "star1_main": [
+      20,
+      59
+    ],
+    "star2_vice": [
+      10,
+      37
+    ],
+    "star2_main": [
+      25,
+      74
+    ],
+    "star3_vice": [
+      12,
+      45
+    ],
+    "star3_main": [
+      30,
+      89
+    ],
+    "star4_vice": [
+      20,
+      59
+    ],
+    "star4_main": [
+      30,
+      118
+    ],
+    "star5_vice": [
+      19,
+      74
+    ],
+    "star5_main": [
+      50,
+      148
+    ],
+    "star6_vice": [
+      23,
+      89
+    ],
+    "star6_main": [
+      60,
+      178
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5358040
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "184": {
+    "id": 184,
+    "star1_vice": [
+      8,
+      30
+    ],
+    "star1_main": [
+      20,
+      59
+    ],
+    "star2_vice": [
+      10,
+      37
+    ],
+    "star2_main": [
+      25,
+      74
+    ],
+    "star3_vice": [
+      12,
+      45
+    ],
+    "star3_main": [
+      30,
+      89
+    ],
+    "star4_vice": [
+      20,
+      59
+    ],
+    "star4_main": [
+      30,
+      118
+    ],
+    "star5_vice": [
+      19,
+      74
+    ],
+    "star5_main": [
+      50,
+      148
+    ],
+    "star6_vice": [
+      23,
+      89
+    ],
+    "star6_main": [
+      60,
+      178
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5388200
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "185": {
+    "id": 185,
+    "star1_vice": [
+      8,
+      30
+    ],
+    "star1_main": [
+      20,
+      59
+    ],
+    "star2_vice": [
+      10,
+      37
+    ],
+    "star2_main": [
+      25,
+      74
+    ],
+    "star3_vice": [
+      12,
+      45
+    ],
+    "star3_main": [
+      30,
+      89
+    ],
+    "star4_vice": [
+      20,
+      59
+    ],
+    "star4_main": [
+      30,
+      118
+    ],
+    "star5_vice": [
+      19,
+      74
+    ],
+    "star5_main": [
+      50,
+      148
+    ],
+    "star6_vice": [
+      23,
+      89
+    ],
+    "star6_main": [
+      60,
+      178
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5417200
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "186": {
+    "id": 186,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      61
+    ],
+    "star2_vice": [
+      10,
+      38
+    ],
+    "star2_main": [
+      26,
+      76
+    ],
+    "star3_vice": [
+      12,
+      46
+    ],
+    "star3_main": [
+      31,
+      91
+    ],
+    "star4_vice": [
+      21,
+      61
+    ],
+    "star4_main": [
+      31,
+      122
+    ],
+    "star5_vice": [
+      19,
+      76
+    ],
+    "star5_main": [
+      51,
+      152
+    ],
+    "star6_vice": [
+      23,
+      91
+    ],
+    "star6_main": [
+      61,
+      183
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5446200
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "187": {
+    "id": 187,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      61
+    ],
+    "star2_vice": [
+      10,
+      38
+    ],
+    "star2_main": [
+      26,
+      76
+    ],
+    "star3_vice": [
+      12,
+      46
+    ],
+    "star3_main": [
+      31,
+      91
+    ],
+    "star4_vice": [
+      21,
+      61
+    ],
+    "star4_main": [
+      31,
+      122
+    ],
+    "star5_vice": [
+      19,
+      76
+    ],
+    "star5_main": [
+      51,
+      152
+    ],
+    "star6_vice": [
+      23,
+      91
+    ],
+    "star6_main": [
+      61,
+      183
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5475200
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "188": {
+    "id": 188,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      61
+    ],
+    "star2_vice": [
+      10,
+      38
+    ],
+    "star2_main": [
+      26,
+      76
+    ],
+    "star3_vice": [
+      12,
+      46
+    ],
+    "star3_main": [
+      31,
+      91
+    ],
+    "star4_vice": [
+      21,
+      61
+    ],
+    "star4_main": [
+      31,
+      122
+    ],
+    "star5_vice": [
+      19,
+      76
+    ],
+    "star5_main": [
+      51,
+      152
+    ],
+    "star6_vice": [
+      23,
+      91
+    ],
+    "star6_main": [
+      61,
+      183
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5505360
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "189": {
+    "id": 189,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      61
+    ],
+    "star2_vice": [
+      10,
+      38
+    ],
+    "star2_main": [
+      26,
+      76
+    ],
+    "star3_vice": [
+      12,
+      46
+    ],
+    "star3_main": [
+      31,
+      91
+    ],
+    "star4_vice": [
+      21,
+      61
+    ],
+    "star4_main": [
+      31,
+      122
+    ],
+    "star5_vice": [
+      19,
+      76
+    ],
+    "star5_main": [
+      51,
+      152
+    ],
+    "star6_vice": [
+      23,
+      91
+    ],
+    "star6_main": [
+      61,
+      183
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5534360
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "190": {
+    "id": 190,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      61
+    ],
+    "star2_vice": [
+      10,
+      38
+    ],
+    "star2_main": [
+      26,
+      76
+    ],
+    "star3_vice": [
+      12,
+      46
+    ],
+    "star3_main": [
+      31,
+      91
+    ],
+    "star4_vice": [
+      21,
+      61
+    ],
+    "star4_main": [
+      31,
+      122
+    ],
+    "star5_vice": [
+      19,
+      76
+    ],
+    "star5_main": [
+      51,
+      152
+    ],
+    "star6_vice": [
+      23,
+      91
+    ],
+    "star6_main": [
+      61,
+      183
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5563360
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 361
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "191": {
+    "id": 191,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      63
+    ],
+    "star2_vice": [
+      10,
+      39
+    ],
+    "star2_main": [
+      26,
+      78
+    ],
+    "star3_vice": [
+      12,
+      47
+    ],
+    "star3_main": [
+      32,
+      94
+    ],
+    "star4_vice": [
+      21,
+      63
+    ],
+    "star4_main": [
+      32,
+      125
+    ],
+    "star5_vice": [
+      20,
+      78
+    ],
+    "star5_main": [
+      52,
+      156
+    ],
+    "star6_vice": [
+      24,
+      94
+    ],
+    "star6_main": [
+      63,
+      188
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5592360
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "192": {
+    "id": 192,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      63
+    ],
+    "star2_vice": [
+      10,
+      39
+    ],
+    "star2_main": [
+      26,
+      78
+    ],
+    "star3_vice": [
+      12,
+      47
+    ],
+    "star3_main": [
+      32,
+      94
+    ],
+    "star4_vice": [
+      21,
+      63
+    ],
+    "star4_main": [
+      32,
+      125
+    ],
+    "star5_vice": [
+      20,
+      78
+    ],
+    "star5_main": [
+      52,
+      156
+    ],
+    "star6_vice": [
+      24,
+      94
+    ],
+    "star6_main": [
+      63,
+      188
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5622520
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "193": {
+    "id": 193,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      63
+    ],
+    "star2_vice": [
+      10,
+      39
+    ],
+    "star2_main": [
+      26,
+      78
+    ],
+    "star3_vice": [
+      12,
+      47
+    ],
+    "star3_main": [
+      32,
+      94
+    ],
+    "star4_vice": [
+      21,
+      63
+    ],
+    "star4_main": [
+      32,
+      125
+    ],
+    "star5_vice": [
+      20,
+      78
+    ],
+    "star5_main": [
+      52,
+      156
+    ],
+    "star6_vice": [
+      24,
+      94
+    ],
+    "star6_main": [
+      63,
+      188
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5651520
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "194": {
+    "id": 194,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      63
+    ],
+    "star2_vice": [
+      10,
+      39
+    ],
+    "star2_main": [
+      26,
+      78
+    ],
+    "star3_vice": [
+      12,
+      47
+    ],
+    "star3_main": [
+      32,
+      94
+    ],
+    "star4_vice": [
+      21,
+      63
+    ],
+    "star4_main": [
+      32,
+      125
+    ],
+    "star5_vice": [
+      20,
+      78
+    ],
+    "star5_main": [
+      52,
+      156
+    ],
+    "star6_vice": [
+      24,
+      94
+    ],
+    "star6_main": [
+      63,
+      188
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5680520
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "195": {
+    "id": 195,
+    "star1_vice": [
+      8,
+      31
+    ],
+    "star1_main": [
+      21,
+      63
+    ],
+    "star2_vice": [
+      10,
+      39
+    ],
+    "star2_main": [
+      26,
+      78
+    ],
+    "star3_vice": [
+      12,
+      47
+    ],
+    "star3_main": [
+      32,
+      94
+    ],
+    "star4_vice": [
+      21,
+      63
+    ],
+    "star4_main": [
+      32,
+      125
+    ],
+    "star5_vice": [
+      20,
+      78
+    ],
+    "star5_main": [
+      52,
+      156
+    ],
+    "star6_vice": [
+      24,
+      94
+    ],
+    "star6_main": [
+      63,
+      188
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5709520
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "196": {
+    "id": 196,
+    "star1_vice": [
+      8,
+      32
+    ],
+    "star1_main": [
+      22,
+      64
+    ],
+    "star2_vice": [
+      10,
+      40
+    ],
+    "star2_main": [
+      27,
+      80
+    ],
+    "star3_vice": [
+      12,
+      48
+    ],
+    "star3_main": [
+      32,
+      96
+    ],
+    "star4_vice": [
+      22,
+      64
+    ],
+    "star4_main": [
+      32,
+      128
+    ],
+    "star5_vice": [
+      20,
+      80
+    ],
+    "star5_main": [
+      54,
+      160
+    ],
+    "star6_vice": [
+      24,
+      96
+    ],
+    "star6_main": [
+      64,
+      192
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5739680
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "197": {
+    "id": 197,
+    "star1_vice": [
+      8,
+      32
+    ],
+    "star1_main": [
+      22,
+      64
+    ],
+    "star2_vice": [
+      10,
+      40
+    ],
+    "star2_main": [
+      27,
+      80
+    ],
+    "star3_vice": [
+      12,
+      48
+    ],
+    "star3_main": [
+      32,
+      96
+    ],
+    "star4_vice": [
+      22,
+      64
+    ],
+    "star4_main": [
+      32,
+      128
+    ],
+    "star5_vice": [
+      20,
+      80
+    ],
+    "star5_main": [
+      54,
+      160
+    ],
+    "star6_vice": [
+      24,
+      96
+    ],
+    "star6_main": [
+      64,
+      192
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5768680
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "198": {
+    "id": 198,
+    "star1_vice": [
+      8,
+      32
+    ],
+    "star1_main": [
+      22,
+      64
+    ],
+    "star2_vice": [
+      10,
+      40
+    ],
+    "star2_main": [
+      27,
+      80
+    ],
+    "star3_vice": [
+      12,
+      48
+    ],
+    "star3_main": [
+      32,
+      96
+    ],
+    "star4_vice": [
+      22,
+      64
+    ],
+    "star4_main": [
+      32,
+      128
+    ],
+    "star5_vice": [
+      20,
+      80
+    ],
+    "star5_main": [
+      54,
+      160
+    ],
+    "star6_vice": [
+      24,
+      96
+    ],
+    "star6_main": [
+      64,
+      192
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5797680
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "199": {
+    "id": 199,
+    "star1_vice": [
+      8,
+      32
+    ],
+    "star1_main": [
+      22,
+      64
+    ],
+    "star2_vice": [
+      10,
+      40
+    ],
+    "star2_main": [
+      27,
+      80
+    ],
+    "star3_vice": [
+      12,
+      48
+    ],
+    "star3_main": [
+      32,
+      96
+    ],
+    "star4_vice": [
+      22,
+      64
+    ],
+    "star4_main": [
+      32,
+      128
+    ],
+    "star5_vice": [
+      20,
+      80
+    ],
+    "star5_main": [
+      54,
+      160
+    ],
+    "star6_vice": [
+      24,
+      96
+    ],
+    "star6_main": [
+      64,
+      192
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5826680
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "200": {
+    "id": 200,
+    "star1_vice": [
+      8,
+      32
+    ],
+    "star1_main": [
+      22,
+      64
+    ],
+    "star2_vice": [
+      10,
+      40
+    ],
+    "star2_main": [
+      27,
+      80
+    ],
+    "star3_vice": [
+      12,
+      48
+    ],
+    "star3_main": [
+      32,
+      96
+    ],
+    "star4_vice": [
+      22,
+      64
+    ],
+    "star4_main": [
+      32,
+      128
+    ],
+    "star5_vice": [
+      20,
+      80
+    ],
+    "star5_main": [
+      54,
+      160
+    ],
+    "star6_vice": [
+      24,
+      96
+    ],
+    "star6_main": [
+      64,
+      192
+    ],
+    "cost": [
+      {
+        "itemId": 2,
+        "itemNum": 5855680
+      },
+      {
+        "itemId": 5004,
+        "itemNum": 390
+      }
+    ],
+    "diamonds_cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  }
+}

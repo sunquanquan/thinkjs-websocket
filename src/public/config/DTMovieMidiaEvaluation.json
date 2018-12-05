@@ -1,0 +1,422 @@
+﻿{
+  "101": {
+    "id": 101,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 0.0,
+    "max_score": 1.0,
+    "zh_cn_content": "我走过最远的路，就是导演的套路。",
+    "praise": [
+      30,
+      50
+    ],
+    "pic": 5
+  },
+  "102": {
+    "id": 102,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 1.0,
+    "max_score": 2.0,
+    "zh_cn_content": "如果奥斯卡有一个奖项是叫年度最烂电影的话，那这部电影肯定能获得。",
+    "praise": [
+      30,
+      50
+    ],
+    "pic": 5
+  },
+  "103": {
+    "id": 103,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 2.0,
+    "max_score": 3.0,
+    "zh_cn_content": "作为续集来说真是让人难以置信的退步，我理解对于导演来说这是一部不得不拍的续集，但是对于观众来说这绝对是一部看了吐血的烂片。",
+    "praise": [
+      40,
+      65
+    ],
+    "pic": 5
+  },
+  "104": {
+    "id": 104,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 3.0,
+    "max_score": 4.0,
+    "zh_cn_content": "故事还不错，起码主线是流畅的，其他细节导演也比较用心，唯独就是配角的作用都可以忽略了。",
+    "praise": [
+      50,
+      80
+    ],
+    "pic": 5
+  },
+  "105": {
+    "id": 105,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 4.0,
+    "max_score": 5.0,
+    "zh_cn_content": "技术的升级无法改变观念上的陈腐，而后者才是一部电影成功的关键。如果一部电影只注重于堆砌明星和效果，而对剧情的种种细节采取放任态度，那么不论多大牌的阵容都不足以填补这个巨坑。",
+    "praise": [
+      60,
+      95
+    ],
+    "pic": 5
+  },
+  "106": {
+    "id": 106,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 5.0,
+    "max_score": 6.0,
+    "zh_cn_content": "导演想要在这部影片里同时表达很多东西，但最终我们看到的成果恰恰证明了什么叫做贪多嚼不烂。",
+    "praise": [
+      70,
+      110
+    ],
+    "pic": 5
+  },
+  "107": {
+    "id": 107,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 6.0,
+    "max_score": 7.0,
+    "zh_cn_content": "怎么说呢，这部电影肯定不会载入史册，也不足以对你的人生有什么启发。但是如果你只想安安静静啥都不想的从现实世界脱离几小时，那选择这部电影肯定没错的。",
+    "praise": [
+      80,
+      125
+    ],
+    "pic": 5
+  },
+  "108": {
+    "id": 108,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 7.0,
+    "max_score": 8.0,
+    "zh_cn_content": "它把我们带入另一个世界，并彻底使它成为我们的一部分。",
+    "praise": [
+      90,
+      140
+    ],
+    "pic": 5
+  },
+  "109": {
+    "id": 109,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 8.0,
+    "max_score": 9.0,
+    "zh_cn_content": "影片的前40分钟，几乎没有任何对白，没有任何人类角色出现，却已经成就了一首充满了美和智慧的影像之诗，其中的深意更值得我们花时间用心体会。",
+    "praise": [
+      100,
+      155
+    ],
+    "pic": 5
+  },
+  "110": {
+    "id": 110,
+    "media_id": 1,
+    "zh_cn_name": "豆苗",
+    "zh_cn_commentators": "汤姆",
+    "min_score": 9.0,
+    "max_score": 10.0,
+    "zh_cn_content": "这样的影片不需要影评，他已超越了商业，只需要内心的认同。",
+    "praise": [
+      110,
+      170
+    ],
+    "pic": 5
+  },
+  "201": {
+    "id": 201,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 0.0,
+    "max_score": 1.0,
+    "zh_cn_content": "为何我的眼里常含泪水？因为我被导演坑的深沉…",
+    "praise": [
+      30,
+      50
+    ],
+    "pic": 6
+  },
+  "202": {
+    "id": 202,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 1.0,
+    "max_score": 2.0,
+    "zh_cn_content": "导演对伏笔的理解好像停留在小学水平，到处都是生怕被人遗漏的“伏笔”，这既没起到伏笔应该起到的效果，还造成了提前的剧透，甚至为了预留伏笔而打乱了电影本身的节奏。",
+    "praise": [
+      30,
+      50
+    ],
+    "pic": 6
+  },
+  "203": {
+    "id": 203,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 2.0,
+    "max_score": 3.0,
+    "zh_cn_content": "这部电影最值回票价的就是观影会上提供的爆米花了，味道非常不错。建议大家把心态放平，买爆米花送电影，还是可以的。",
+    "praise": [
+      40,
+      65
+    ],
+    "pic": 6
+  },
+  "204": {
+    "id": 204,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 3.0,
+    "max_score": 4.0,
+    "zh_cn_content": "一个就算砍掉台词也不会对大家观影造成任何影响的电影，慢着，仔细想想，把那些生硬的台词去掉之后应该反而能让它变得更好。",
+    "praise": [
+      50,
+      80
+    ],
+    "pic": 6
+  },
+  "205": {
+    "id": 205,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 4.0,
+    "max_score": 5.0,
+    "zh_cn_content": "只能说电影的想法很好，但是从我观看后的感觉，电影并未能表达出一些比较有深度内涵的东西。完美印证了：理想很丰满，现实很骨感！",
+    "praise": [
+      60,
+      95
+    ],
+    "pic": 6
+  },
+  "206": {
+    "id": 206,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 5.0,
+    "max_score": 6.0,
+    "zh_cn_content": "我都不知道要怎么评价这部电影了，说它失败吧，它成功的用自己的愚蠢把我给逗乐了。",
+    "praise": [
+      70,
+      110
+    ],
+    "pic": 6
+  },
+  "207": {
+    "id": 207,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 6.0,
+    "max_score": 7.0,
+    "zh_cn_content": "同档期上映影片中的一股清流，让人重新相信爱情…不是，重新相信电影了。",
+    "praise": [
+      80,
+      125
+    ],
+    "pic": 6
+  },
+  "208": {
+    "id": 208,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 7.0,
+    "max_score": 8.0,
+    "zh_cn_content": "大家不要被这片的豪华卡司阵容给骗了，这片本身就是个…精品佳作啊！！镜头剪辑恰到好处，情节冲突安排合理，简直意犹未尽！唯一的疑问就是，导演什么时候拍续集？",
+    "praise": [
+      90,
+      140
+    ],
+    "pic": 6
+  },
+  "209": {
+    "id": 209,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 8.0,
+    "max_score": 9.0,
+    "zh_cn_content": "我为我生在有这部电影出现的时代而感到幸运。",
+    "praise": [
+      100,
+      155
+    ],
+    "pic": 6
+  },
+  "210": {
+    "id": 210,
+    "media_id": 2,
+    "zh_cn_name": "追光网",
+    "zh_cn_commentators": "斯科特",
+    "min_score": 9.0,
+    "max_score": 10.0,
+    "zh_cn_content": "一件真正的艺术作品，每一组成部分都是艺术家精心设计雕琢的，所以添不得一笔，减不得一笔，改不得一笔，否则，就不再是同一件艺术品了。",
+    "praise": [
+      110,
+      170
+    ],
+    "pic": 6
+  },
+  "301": {
+    "id": 301,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 0.0,
+    "max_score": 1.0,
+    "zh_cn_content": "剧情为零，故事性为零，脸谱化的表演，无聊冗长的流水账，连电影都算不上。",
+    "praise": [
+      30,
+      50
+    ],
+    "pic": 7
+  },
+  "302": {
+    "id": 302,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 1.0,
+    "max_score": 2.0,
+    "zh_cn_content": "作为一部电影，影片中包含的广告内容实在是太多了，我感觉就是看了两个小时同一帮人拍出来的广告集锦。",
+    "praise": [
+      30,
+      50
+    ],
+    "pic": 7
+  },
+  "303": {
+    "id": 303,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 2.0,
+    "max_score": 3.0,
+    "zh_cn_content": "看完影片很难过，电影界从没拍过烂片的导演从此又少了一个。演员表演很到位，奈何导演不给力。",
+    "praise": [
+      40,
+      65
+    ],
+    "pic": 7
+  },
+  "304": {
+    "id": 304,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 3.0,
+    "max_score": 4.0,
+    "zh_cn_content": "好一幅幅唯美的画面，美景加美人，真是“此景只应天上有，人间难得几回见”。看来花费那么多的钱做特效也不是白花的，看的本人都神往了。",
+    "praise": [
+      50,
+      80
+    ],
+    "pic": 7
+  },
+  "305": {
+    "id": 305,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 4.0,
+    "max_score": 5.0,
+    "zh_cn_content": "似乎无法总结这出戏到底想说明什么，没有较核心骨的精神或情怀体现。电影嘛，2个小时，要浓缩成一个有曲折有深度的故事，确实很难做到，但总得体现一些什么，比如一些价值观的树立，或许一种精神的引领，亦或一种情怀的渲染，但这出戏整体就是一个流水账。",
+    "praise": [
+      60,
+      95
+    ],
+    "pic": 7
+  },
+  "306": {
+    "id": 306,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 5.0,
+    "max_score": 6.0,
+    "zh_cn_content": "宏伟建筑，异域风情，极度奢华，史诗巨制，华丽外壳内里却苍白无力，看点都集中在女主角的变装秀上了，一个场景一套衣服，甚至让人有种错觉——我到底是在米兰看时装秀，还是在电影院看电影？",
+    "praise": [
+      70,
+      110
+    ],
+    "pic": 7
+  },
+  "307": {
+    "id": 307,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 6.0,
+    "max_score": 7.0,
+    "zh_cn_content": "画面恢弘，将久远的史话娓娓道来，有时觉得像在看舞台剧，有时觉得像在看会动的油画，但就是不像看电影。表现手法有点浮夸，不太符合当代人的品味。看得出来导演很有想法，但有时候也许需要再更接地气一点。",
+    "praise": [
+      80,
+      125
+    ],
+    "pic": 7
+  },
+  "308": {
+    "id": 308,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 7.0,
+    "max_score": 8.0,
+    "zh_cn_content": "平缓的节奏蕴藏着巨大的张力，音乐舒缓淡淡忧伤，利益冲突人性博弈如暗流汹涌。无论是演技还是镜头、音乐的运用，都给人以一种美的享受。看这部电影需要沉下心来细细品味，无论何时翻出来重温都能有新的感受。",
+    "praise": [
+      90,
+      140
+    ],
+    "pic": 7
+  },
+  "309": {
+    "id": 309,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 8.0,
+    "max_score": 9.0,
+    "zh_cn_content": "复古克制的拍摄手法，情感深厚震撼心灵。导演分寸感很强，拿捏准确，优雅流畅不落窠臼，期待奥斯卡拿奖！",
+    "praise": [
+      100,
+      155
+    ],
+    "pic": 7
+  },
+  "310": {
+    "id": 310,
+    "media_id": 3,
+    "zh_cn_name": "拼票票",
+    "zh_cn_commentators": "杰克",
+    "min_score": 9.0,
+    "max_score": 10.0,
+    "zh_cn_content": "这是一部让人感到“此生无憾”的电影。如果有时光机，我会做的第一件事就是回到看这部电影之前，去再感受一次这种震撼。",
+    "praise": [
+      110,
+      170
+    ],
+    "pic": 7
+  }
+}

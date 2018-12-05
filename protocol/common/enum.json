@@ -1,0 +1,7 @@
+{
+    "EChatChannel": {
+        "private": 1, // 私人聊天
+        "world": 2, // 世界聊天
+        "company": 3 // 公司聊天
+    }
+}

@@ -1,0 +1,44 @@
+﻿{
+  "2101": {
+    "id": 2101,
+    "name": "主角",
+    "position_cost_con": 150,
+    "position_con": 150
+  },
+  "2102": {
+    "id": 2102,
+    "name": "男主角",
+    "position_cost_con": 150,
+    "position_con": 150
+  },
+  "2103": {
+    "id": 2103,
+    "name": "女主角",
+    "position_cost_con": 150,
+    "position_con": 150
+  },
+  "2104": {
+    "id": 2104,
+    "name": "配角",
+    "position_cost_con": 80,
+    "position_con": 80
+  },
+  "2105": {
+    "id": 2105,
+    "name": "男配角",
+    "position_cost_con": 80,
+    "position_con": 80
+  },
+  "2106": {
+    "id": 2106,
+    "name": "女配角",
+    "position_cost_con": 80,
+    "position_con": 80
+  },
+  "2107": {
+    "id": 2107,
+    "name": "反派",
+    "position_cost_con": 100,
+    "position_con": 100
+  }
+}

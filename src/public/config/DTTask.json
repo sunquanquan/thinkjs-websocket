@@ -1,0 +1,2154 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "zh_cn_name": "拍摄5部电影",
+    "unlock": 2001,
+    "require": 0,
+    "goal": 5,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0,
+    "guide": 200101
+  },
+  "1002": {
+    "id": 1002,
+    "zh_cn_name": "升级艺人10次",
+    "unlock": 3001,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0,
+    "guide": 200201
+  },
+  "1003": {
+    "id": 1003,
+    "zh_cn_name": "培养艺人1次",
+    "unlock": 3001,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 200301
+  },
+  "1004": {
+    "id": 1004,
+    "zh_cn_name": "赠送艺人礼物10个",
+    "unlock": 3001,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 200401
+  },
+  "1005": {
+    "id": 1005,
+    "zh_cn_name": "让3名艺人完成技能训练",
+    "unlock": 13001,
+    "require": 0,
+    "goal": 3,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 200501
+  },
+  "1006": {
+    "id": 1006,
+    "zh_cn_name": "升级艺人技能1次",
+    "unlock": 13001,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 200601
+  },
+  "1007": {
+    "id": 1007,
+    "zh_cn_name": "完成公务30次",
+    "unlock": 9001,
+    "require": 0,
+    "goal": 30,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 200701
+  },
+  "1008": {
+    "id": 1008,
+    "zh_cn_name": "完成会议10次",
+    "unlock": 11001,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 200801
+  },
+  "1009": {
+    "id": 1009,
+    "zh_cn_name": "接见粉丝10次",
+    "unlock": 10001,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 200901
+  },
+  "1010": {
+    "id": 1010,
+    "zh_cn_name": "城市宣传20次",
+    "unlock": 4001,
+    "require": 0,
+    "goal": 20,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 201001
+  },
+  "1011": {
+    "id": 1011,
+    "zh_cn_name": "领取城市收益5次",
+    "unlock": 4001,
+    "require": 0,
+    "goal": 5,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 201101
+  },
+  "1012": {
+    "id": 1012,
+    "zh_cn_name": "祝贺总排行榜1次",
+    "unlock": 1002,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 201201
+  },
+  "1013": {
+    "id": 1013,
+    "zh_cn_name": "祝贺影片排行榜1次",
+    "unlock": 1002,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 201301
+  },
+  "1014": {
+    "id": 1014,
+    "zh_cn_name": "领取比赛礼包1次",
+    "unlock": 1002,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 201401
+  },
+  "1015": {
+    "id": 1015,
+    "zh_cn_name": "升级宝物1次",
+    "unlock": 15050,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 0
+  },
+  "1016": {
+    "id": 1016,
+    "zh_cn_name": "领取10次生产",
+    "unlock": 6001,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 201601
+  },
+  "1017": {
+    "id": 1017,
+    "zh_cn_name": "完成10个订单",
+    "unlock": 7001,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 201701
+  },
+  "1018": {
+    "id": 1018,
+    "zh_cn_name": "领取影片持续收益3次",
+    "unlock": 1002,
+    "require": 0,
+    "goal": 3,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 202301
+  },
+  "1019": {
+    "id": 1019,
+    "zh_cn_name": "用宣传册提升电影关注度5次",
+    "unlock": 1002,
+    "require": 0,
+    "goal": 5,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0,
+    "guide": 202401
+  },
+  "1020": {
+    "id": 1020,
+    "zh_cn_name": "向合作者赠送1次美元",
+    "unlock": 1002,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0,
+    "guide": 202001
+  },
+  "1021": {
+    "id": 1021,
+    "zh_cn_name": "完成1个合作任务",
+    "unlock": 1002,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0,
+    "guide": 202101
+  },
+  "1022": {
+    "id": 1022,
+    "zh_cn_name": "装填1次合作订单",
+    "unlock": 1002,
+    "require": 0,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0,
+    "guide": 202201
+  },
+  "3101": {
+    "id": 3101,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 0,
+    "guide": 0
+  },
+  "3102": {
+    "id": 3102,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 20,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3101,
+    "guide": 0
+  },
+  "3103": {
+    "id": 3103,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 30,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3102,
+    "guide": 0
+  },
+  "3104": {
+    "id": 3104,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 40,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 40
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3103,
+    "guide": 0
+  },
+  "3105": {
+    "id": 3105,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 50,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 50
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3104,
+    "guide": 0
+  },
+  "3106": {
+    "id": 3106,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 60,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 60
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3105,
+    "guide": 0
+  },
+  "3107": {
+    "id": 3107,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 70,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 70
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3106,
+    "guide": 0
+  },
+  "3108": {
+    "id": 3108,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 80,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 80
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3107,
+    "guide": 0
+  },
+  "3109": {
+    "id": 3109,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 90,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 90
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3108,
+    "guide": 0
+  },
+  "3110": {
+    "id": 3110,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "require": 0,
+    "goal": 100,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3109,
+    "guide": 0
+  },
+  "3201": {
+    "id": 3201,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 0,
+    "guide": 0
+  },
+  "3202": {
+    "id": 3202,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 20,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3201,
+    "guide": 0
+  },
+  "3203": {
+    "id": 3203,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 30,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3202,
+    "guide": 0
+  },
+  "3204": {
+    "id": 3204,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 40,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 40
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3203,
+    "guide": 0
+  },
+  "3205": {
+    "id": 3205,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 50,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 50
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3204,
+    "guide": 0
+  },
+  "3206": {
+    "id": 3206,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 60,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 60
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3205,
+    "guide": 0
+  },
+  "3207": {
+    "id": 3207,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 70,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 70
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3206,
+    "guide": 0
+  },
+  "3208": {
+    "id": 3208,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 80,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 80
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3207,
+    "guide": 0
+  },
+  "3209": {
+    "id": 3209,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 90,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 90
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3208,
+    "guide": 0
+  },
+  "3210": {
+    "id": 3210,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "require": 0,
+    "goal": 100,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3209,
+    "guide": 0
+  },
+  "3301": {
+    "id": 3301,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 0,
+    "guide": 0
+  },
+  "3302": {
+    "id": 3302,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 20,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3301,
+    "guide": 0
+  },
+  "3303": {
+    "id": 3303,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 30,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3302,
+    "guide": 0
+  },
+  "3304": {
+    "id": 3304,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 40,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 40
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3303,
+    "guide": 0
+  },
+  "3305": {
+    "id": 3305,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 50,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 50
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3304,
+    "guide": 0
+  },
+  "3306": {
+    "id": 3306,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 60,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 60
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3305,
+    "guide": 0
+  },
+  "3307": {
+    "id": 3307,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 70,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 70
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3306,
+    "guide": 0
+  },
+  "3308": {
+    "id": 3308,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 80,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 80
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3307,
+    "guide": 0
+  },
+  "3309": {
+    "id": 3309,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 90,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 90
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3308,
+    "guide": 0
+  },
+  "3310": {
+    "id": 3310,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "require": 0,
+    "goal": 100,
+    "s_goal": 0,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3309,
+    "guide": 0
+  },
+  "1100": {
+    "id": 1100,
+    "zh_cn_name": "建造电影院",
+    "unlock": 1001,
+    "require": 1,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 2000
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 30
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1101,
+    "guide": 0
+  },
+  "1101": {
+    "id": 1101,
+    "zh_cn_name": "建造摄影棚",
+    "unlock": 2001,
+    "require": 1,
+    "goal": 2,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 2000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1102,
+    "guide": 0
+  },
+  "1102": {
+    "id": 1102,
+    "zh_cn_name": "拍摄第1部电影",
+    "unlock": 0,
+    "require": 8,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 2000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1103,
+    "guide": 0
+  },
+  "1103": {
+    "id": 1103,
+    "zh_cn_name": "查看电影持续收益",
+    "unlock": 0,
+    "require": 9,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 2000
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 40
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1104,
+    "guide": 0
+  },
+  "1104": {
+    "id": 1104,
+    "zh_cn_name": "领取1次电影持续收益",
+    "unlock": 0,
+    "require": 10,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 2000
+      },
+      {
+        "itemId": 9004,
+        "itemNum": 30
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1105,
+    "guide": 0
+  },
+  "1105": {
+    "id": 1105,
+    "zh_cn_name": "建造艺人教室",
+    "unlock": 3001,
+    "require": 1,
+    "goal": 3,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 2000
+      },
+      {
+        "itemId": 6,
+        "itemNum": 2000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1106,
+    "guide": 0
+  },
+  "1106": {
+    "id": 1106,
+    "zh_cn_name": "招募1个新艺人",
+    "unlock": 0,
+    "require": 4,
+    "goal": 2,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 40
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1107,
+    "guide": 0
+  },
+  "1107": {
+    "id": 1107,
+    "zh_cn_name": "将1位艺人升到5级",
+    "unlock": 0,
+    "require": 3,
+    "goal": 5,
+    "s_goal": 1,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 9002,
+        "itemNum": 15
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1108,
+    "guide": 0
+  },
+  "1108": {
+    "id": 1108,
+    "zh_cn_name": "建造市场部",
+    "unlock": 4001,
+    "require": 1,
+    "goal": 4,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 9002,
+        "itemNum": 30
+      },
+      {
+        "itemId": 5,
+        "itemNum": 300
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1109,
+    "guide": 0
+  },
+  "1109": {
+    "id": 1109,
+    "zh_cn_name": "在星光大道完成宣传",
+    "unlock": 11001,
+    "require": 5,
+    "goal": 11001,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1110,
+    "guide": 0
+  },
+  "1110": {
+    "id": 1110,
+    "zh_cn_name": "将市场部升至2级",
+    "unlock": 4002,
+    "require": 2,
+    "goal": 4,
+    "s_goal": 2,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 50
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1111,
+    "guide": 0
+  },
+  "1111": {
+    "id": 1111,
+    "zh_cn_name": "累计提升1次电影关注度",
+    "unlock": 0,
+    "require": 11,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1112,
+    "guide": 0
+  },
+  "1112": {
+    "id": 1112,
+    "zh_cn_name": "在环球影城放置代言人并完成宣传",
+    "unlock": 11002,
+    "require": 5,
+    "goal": 11002,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1113,
+    "guide": 0
+  },
+  "1113": {
+    "id": 1113,
+    "zh_cn_name": "在盖蒂中心完成宣传",
+    "unlock": 11003,
+    "require": 5,
+    "goal": 11003,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1114,
+    "guide": 0
+  },
+  "1114": {
+    "id": 1114,
+    "zh_cn_name": "顺利进行1次路演",
+    "unlock": 0,
+    "require": 6,
+    "goal": 1101,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 9002,
+        "itemNum": 15
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1115,
+    "guide": 0
+  },
+  "1115": {
+    "id": 1115,
+    "zh_cn_name": "占领洛杉矶的市场",
+    "unlock": 1101,
+    "require": 7,
+    "goal": 1101,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1116,
+    "guide": 0
+  },
+  "1116": {
+    "id": 1116,
+    "zh_cn_name": "在洛杉矶任命1位形象大使",
+    "unlock": 0,
+    "require": 12,
+    "goal": 1101,
+    "s_goal": 1,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1117,
+    "guide": 0
+  },
+  "1117": {
+    "id": 1117,
+    "zh_cn_name": "为1部电影选择重点宣传城市",
+    "unlock": 0,
+    "require": 13,
+    "goal": 1101,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1118,
+    "guide": 0
+  },
+  "1118": {
+    "id": 1118,
+    "zh_cn_name": "累计提升2次电影关注度",
+    "unlock": 0,
+    "require": 11,
+    "goal": 2,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1119,
+    "guide": 0
+  },
+  "1119": {
+    "id": 1119,
+    "zh_cn_name": "将2位艺人升到5级",
+    "unlock": 0,
+    "require": 3,
+    "goal": 5,
+    "s_goal": 2,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 50
+      },
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1120,
+    "guide": 0
+  },
+  "1120": {
+    "id": 1120,
+    "zh_cn_name": "拍摄第2部电影",
+    "unlock": 0,
+    "require": 8,
+    "goal": 2,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9002,
+        "itemNum": 15
+      },
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1121,
+    "guide": 0
+  },
+  "1121": {
+    "id": 1121,
+    "zh_cn_name": "建造宣传部",
+    "unlock": 5001,
+    "require": 1,
+    "goal": 5,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 50
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1122,
+    "guide": 0
+  },
+  "1122": {
+    "id": 1122,
+    "zh_cn_name": "成功进行第2次路演",
+    "unlock": 0,
+    "require": 6,
+    "goal": 1102,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1123,
+    "guide": 0
+  },
+  "1123": {
+    "id": 1123,
+    "zh_cn_name": "占领纽约的市场",
+    "unlock": 1102,
+    "require": 7,
+    "goal": 1102,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1124,
+    "guide": 0
+  },
+  "1124": {
+    "id": 1124,
+    "zh_cn_name": "在纽约任命1位形象大使",
+    "unlock": 0,
+    "require": 12,
+    "goal": 1102,
+    "s_goal": 1,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1125,
+    "guide": 0
+  },
+  "1125": {
+    "id": 1125,
+    "zh_cn_name": "累计提升3次电影关注度",
+    "unlock": 0,
+    "require": 11,
+    "goal": 3,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1126,
+    "guide": 0
+  },
+  "1126": {
+    "id": 1126,
+    "zh_cn_name": "在纽约同时任命2位形象大使",
+    "unlock": 0,
+    "require": 12,
+    "goal": 1102,
+    "s_goal": 2,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1127,
+    "guide": 0
+  },
+  "1127": {
+    "id": 1127,
+    "zh_cn_name": "累计领取电影持续收益超过500美元",
+    "unlock": 0,
+    "require": 19,
+    "goal": 500,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1128,
+    "guide": 0
+  },
+  "1128": {
+    "id": 1128,
+    "zh_cn_name": "领取1次城市经营收益",
+    "unlock": 0,
+    "require": 14,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1129,
+    "guide": 0
+  },
+  "1129": {
+    "id": 1129,
+    "zh_cn_name": "将1位艺人升到10级",
+    "unlock": 0,
+    "require": 3,
+    "goal": 10,
+    "s_goal": 1,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9003,
+        "itemNum": 10
+      },
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1130,
+    "guide": 0
+  },
+  "1130": {
+    "id": 1130,
+    "zh_cn_name": "在华盛顿的国会山完成宣传",
+    "unlock": 11008,
+    "require": 5,
+    "goal": 11008,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 50
+      },
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1131,
+    "guide": 0
+  },
+  "1131": {
+    "id": 1131,
+    "zh_cn_name": "建造仓库",
+    "unlock": 6001,
+    "require": 1,
+    "goal": 6,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9002,
+        "itemNum": 25
+      },
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1132,
+    "guide": 0
+  },
+  "1132": {
+    "id": 1132,
+    "zh_cn_name": "进行生产",
+    "unlock": 0,
+    "require": 15,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 50
+      },
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1133,
+    "guide": 0
+  },
+  "1133": {
+    "id": 1133,
+    "zh_cn_name": "建造销售部",
+    "unlock": 7001,
+    "require": 1,
+    "goal": 7,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 30
+      },
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1134,
+    "guide": 0
+  },
+  "1134": {
+    "id": 1134,
+    "zh_cn_name": "升级摄影棚",
+    "unlock": 2002,
+    "require": 2,
+    "goal": 2,
+    "s_goal": 2,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9004,
+        "itemNum": 10
+      },
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1135,
+    "guide": 0
+  },
+  "1135": {
+    "id": 1135,
+    "zh_cn_name": "建造商务部",
+    "unlock": 8001,
+    "require": 1,
+    "goal": 8,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 50
+      },
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1136,
+    "guide": 0
+  },
+  "1136": {
+    "id": 1136,
+    "zh_cn_name": "拍摄第3部电影",
+    "unlock": 0,
+    "require": 8,
+    "goal": 3,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 4001,
+        "itemNum": 10
+      },
+      {
+        "itemId": 4002,
+        "itemNum": 10
+      },
+      {
+        "itemId": 4003,
+        "itemNum": 10
+      },
+      {
+        "itemId": 4004,
+        "itemNum": 10
+      },
+      {
+        "itemId": 4005,
+        "itemNum": 10
+      },
+      {
+        "itemId": 4006,
+        "itemNum": 10
+      },
+      {
+        "itemId": 4,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1149,
+    "guide": 0
+  },
+  "1137": {
+    "id": 1137,
+    "zh_cn_name": "完成订单",
+    "unlock": 0,
+    "require": 16,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1138,
+    "guide": 0
+  },
+  "1138": {
+    "id": 1138,
+    "zh_cn_name": "占领华盛顿的市场",
+    "unlock": 1103,
+    "require": 7,
+    "goal": 1103,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1139,
+    "guide": 0
+  },
+  "1139": {
+    "id": 1139,
+    "zh_cn_name": "在华盛顿同时任命3位形象大使",
+    "unlock": 0,
+    "require": 12,
+    "goal": 1103,
+    "s_goal": 3,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1140,
+    "guide": 0
+  },
+  "1140": {
+    "id": 1140,
+    "zh_cn_name": "将1位艺人升到20级",
+    "unlock": 0,
+    "require": 3,
+    "goal": 20,
+    "s_goal": 1,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9002,
+        "itemNum": 30
+      },
+      {
+        "itemId": 3,
+        "itemNum": 10000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1141,
+    "guide": 0
+  },
+  "1141": {
+    "id": 1141,
+    "zh_cn_name": "占领芝加哥的市场",
+    "unlock": 1104,
+    "require": 7,
+    "goal": 1104,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1142,
+    "guide": 0
+  },
+  "1142": {
+    "id": 1142,
+    "zh_cn_name": "建造办公室",
+    "unlock": 9001,
+    "require": 1,
+    "goal": 9,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 50
+      },
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1143,
+    "guide": 0
+  },
+  "1143": {
+    "id": 1143,
+    "zh_cn_name": "处理3次公务",
+    "unlock": 0,
+    "require": 17,
+    "goal": 3,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 9002,
+        "itemNum": 30
+      },
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1144,
+    "guide": 0
+  },
+  "1144": {
+    "id": 1144,
+    "zh_cn_name": "累计领取电影持续收益超过5000美元",
+    "unlock": 0,
+    "require": 19,
+    "goal": 5000,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1145,
+    "guide": 0
+  },
+  "1145": {
+    "id": 1145,
+    "zh_cn_name": "领取2次城市经营收益",
+    "unlock": 0,
+    "require": 14,
+    "goal": 2,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 10000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1146,
+    "guide": 0
+  },
+  "1146": {
+    "id": 1146,
+    "zh_cn_name": "累计完成2次生产",
+    "unlock": 0,
+    "require": 15,
+    "goal": 2,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1147,
+    "guide": 0
+  },
+  "1147": {
+    "id": 1147,
+    "zh_cn_name": "建造接待室",
+    "unlock": 10001,
+    "require": 1,
+    "goal": 10,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1148,
+    "guide": 0
+  },
+  "1148": {
+    "id": 1148,
+    "zh_cn_name": "接待1位粉丝",
+    "unlock": 0,
+    "require": 18,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1149,
+    "guide": 0
+  },
+  "1149": {
+    "id": 1149,
+    "zh_cn_name": "查看排行榜",
+    "unlock": 0,
+    "require": 20,
+    "goal": 1,
+    "s_goal": 0,
+    "type": 4,
+    "reward": [
+      {
+        "itemId": 2,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 5,
+        "itemNum": 500
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 1137,
+    "guide": 0
+  }
+}

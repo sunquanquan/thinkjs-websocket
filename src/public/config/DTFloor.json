@@ -1,0 +1,152 @@
+﻿{
+  "1": {
+    "id": 1,
+    "zh_cn_name": "第1层",
+    "cost": {
+      "itemId": 0,
+      "itemNum": 0
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "2": {
+    "id": 2,
+    "zh_cn_name": "第2层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 10
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "3": {
+    "id": 3,
+    "zh_cn_name": "第3层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 15
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "4": {
+    "id": 4,
+    "zh_cn_name": "第4层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 20
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "5": {
+    "id": 5,
+    "zh_cn_name": "第5层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 25
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "6": {
+    "id": 6,
+    "zh_cn_name": "第6层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 30
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "7": {
+    "id": 7,
+    "zh_cn_name": "第7层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 40
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "8": {
+    "id": 8,
+    "zh_cn_name": "第8层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 50
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "9": {
+    "id": 9,
+    "zh_cn_name": "第9层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 60
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "10": {
+    "id": 10,
+    "zh_cn_name": "第10层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 70
+    },
+    "level_req": 1,
+    "city_req": 0
+  },
+  "11": {
+    "id": 11,
+    "zh_cn_name": "第11层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 80
+    },
+    "level_req": 1,
+    "city_req": 1107
+  },
+  "12": {
+    "id": 12,
+    "zh_cn_name": "第12层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 100
+    },
+    "level_req": 1,
+    "city_req": 1108
+  },
+  "13": {
+    "id": 13,
+    "zh_cn_name": "第13层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 120
+    },
+    "level_req": 1,
+    "city_req": 1109
+  },
+  "14": {
+    "id": 14,
+    "zh_cn_name": "第14层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 140
+    },
+    "level_req": 1,
+    "city_req": 1110
+  },
+  "15": {
+    "id": 15,
+    "zh_cn_name": "第15层",
+    "cost": {
+      "itemId": 9001,
+      "itemNum": 160
+    },
+    "level_req": 1,
+    "city_req": 1111
+  }
+}

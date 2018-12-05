@@ -1,0 +1,50 @@
+﻿{
+  "1301": {
+    "id": 1301,
+    "story_star_con": 100,
+    "att_con": 15,
+    "count": 30,
+    "evaluate_protect": 150,
+    "opinions_protect": 600
+  },
+  "1302": {
+    "id": 1302,
+    "story_star_con": 150,
+    "att_con": 15,
+    "count": 35,
+    "evaluate_protect": 155,
+    "opinions_protect": 625
+  },
+  "1303": {
+    "id": 1303,
+    "story_star_con": 200,
+    "att_con": 12,
+    "count": 40,
+    "evaluate_protect": 160,
+    "opinions_protect": 650
+  },
+  "1304": {
+    "id": 1304,
+    "story_star_con": 300,
+    "att_con": 12,
+    "count": 45,
+    "evaluate_protect": 165,
+    "opinions_protect": 675
+  },
+  "1305": {
+    "id": 1305,
+    "story_star_con": 400,
+    "att_con": 10,
+    "count": 50,
+    "evaluate_protect": 170,
+    "opinions_protect": 700
+  },
+  "1306": {
+    "id": 1306,
+    "story_star_con": 500,
+    "att_con": 10,
+    "count": 60,
+    "evaluate_protect": 175,
+    "opinions_protect": 725
+  }
+}

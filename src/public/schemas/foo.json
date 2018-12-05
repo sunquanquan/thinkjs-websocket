@@ -1,0 +1,21 @@
+{
+    "foo/init/req":
+    {
+        "comment": "初始化请求",
+        "$id": "foo/init/req",
+        "properties":
+        {
+        }
+    },
+    "foo/init/resp":
+    {
+        "comment": "游戏初始化响应",
+        "$id": "foo/init/resp",
+        "properties":
+        {
+            "field1": {"type": "number", "comment": "返回字段1"},
+            "field2": {"type": "string", "comment": "返回字段2"}
+        },
+        "required": ["field1", "field2"]
+    }
+}

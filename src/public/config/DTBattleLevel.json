@@ -1,0 +1,26 @@
+﻿{
+  "1": {
+    "id": 1,
+    "type_con": 10,
+    "tag_con": 10,
+    "character_con": 10
+  },
+  "2": {
+    "id": 2,
+    "type_con": 15,
+    "tag_con": 15,
+    "character_con": 15
+  },
+  "3": {
+    "id": 3,
+    "type_con": 18,
+    "tag_con": 18,
+    "character_con": 18
+  },
+  "4": {
+    "id": 4,
+    "type_con": 25,
+    "tag_con": 25,
+    "character_con": 25
+  }
+}

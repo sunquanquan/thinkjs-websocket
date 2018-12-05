@@ -1,0 +1,36 @@
+{
+   "domain": "messages",
+   "locale_data": {
+      "messages": {
+         "": {
+            "domain": "messages",
+            "plural_forms": "nplurals=2; plural=(n != 1);",
+            "lang": "zh"
+         },
+         "ERROR_OK": [
+            null,
+            "OK"
+         ],
+         "ERROR_BAD_REQUEST": [
+            null,
+            "无效的请求"
+         ],
+         "ERROR_UNAUTHORIZED": [
+            null,
+            "没有权限"
+         ],
+         "ERROR_FORBIDDEN": [
+            null,
+            "禁止访问"
+         ],
+         "ERROR_METHOD_NOT_ALLOWED": [
+            null,
+            "请求方式不允许"
+         ],
+         "ERROR_INTERNAL_SERVER_ERROR": [
+            null,
+            "服务器内部错误"
+         ]
+      }
+   }
+}

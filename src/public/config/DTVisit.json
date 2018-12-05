@@ -1,0 +1,164 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "fans": 101,
+    "flower": 0,
+    "zh_cn_fans_speak0": "就要看到{0}了，真激动！",
+    "zh_cn_actor_speak0": "听说有粉丝来了",
+    "zh_cn_fans_speak1": "呀，终于看到你了！",
+    "zh_cn_actor_speak1": "咦，是你！上次首演我看到你了。",
+    "zh_cn_fans_speak2": "对对对，是我是我，你竟然记得我！",
+    "zh_cn_actor_speak2": "我记得我的每一个粉丝",
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 1
+      }
+    ],
+    "expect": 4
+  },
+  "1002": {
+    "id": 1002,
+    "fans": 102,
+    "flower": 1,
+    "zh_cn_fans_speak0": "为了今天我特地穿了最喜欢的衣服！",
+    "zh_cn_actor_speak0": "我的粉丝是最棒的！",
+    "zh_cn_fans_speak1": "{0}，请接受我的鲜花！",
+    "zh_cn_actor_speak1": "来就来嘛，怎么不多带点鲜花",
+    "zh_cn_fans_speak2": "今天花店没打折，下次打折我多买点过来",
+    "zh_cn_actor_speak2": "竟然要买打折货？！",
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 5
+  },
+  "1003": {
+    "id": 1003,
+    "fans": 101,
+    "flower": 0,
+    "zh_cn_fans_speak0": "好激动，这次终于能看到{0}了。",
+    "zh_cn_actor_speak0": "有种不好的感觉",
+    "zh_cn_fans_speak1": "是我是我，你还记得我吗？",
+    "zh_cn_actor_speak1": "不好意思不记得，你是？",
+    "zh_cn_fans_speak2": "上次，晚上，就是我跟踪你的！",
+    "zh_cn_actor_speak2": "啊，原来是你，保安！保安！",
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 1
+      }
+    ],
+    "expect": 6
+  },
+  "1004": {
+    "id": 1004,
+    "fans": 102,
+    "flower": 1,
+    "zh_cn_fans_speak0": "忍不住了，我想变身！",
+    "zh_cn_actor_speak0": "感觉到熟悉的气息",
+    "zh_cn_fans_speak1": "wE!\" j17$T 7MPC NU$E- Ej&v-",
+    "zh_cn_actor_speak1": "你说啥？",
+    "zh_cn_fans_speak2": "呀，一个不小心说出M87星语了",
+    "zh_cn_actor_speak2": "NU$E- Ej&v-，我也是M87星的！",
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 7
+  },
+  "1005": {
+    "id": 1005,
+    "fans": 101,
+    "flower": 0,
+    "zh_cn_fans_speak0": "奶奶，我就要看到你最喜欢的{0}了！",
+    "zh_cn_actor_speak0": "今天的红酒真好喝！",
+    "zh_cn_fans_speak1": "{0}，我奶奶说她从小就很喜欢你！",
+    "zh_cn_actor_speak1": "啊，我有那么老吗？",
+    "zh_cn_fans_speak2": "呸呸，我是说我奶奶看到你就像回到小时候！",
+    "zh_cn_actor_speak2": "代我谢谢你奶奶！",
+    "reward": [
+      {
+        "itemId": 8001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 8
+  },
+  "1006": {
+    "id": 1006,
+    "fans": 102,
+    "flower": 1,
+    "zh_cn_fans_speak0": "待会儿要怎么说呢？",
+    "zh_cn_actor_speak0": "今天心情真好！",
+    "zh_cn_fans_speak1": "{0}快跑，这里快要发生地震了！",
+    "zh_cn_actor_speak1": "真的吗？那要往哪逃？",
+    "zh_cn_fans_speak2": "跟我走，我刚找到一个很隐蔽的地窖！",
+    "zh_cn_actor_speak2": "怎么有种不好的感觉？",
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 7
+  },
+  "1007": {
+    "id": 1007,
+    "fans": 101,
+    "flower": 0,
+    "zh_cn_fans_speak0": "刚才那道题怎么解来着？",
+    "zh_cn_actor_speak0": "头疼，今天真不舒服",
+    "zh_cn_fans_speak1": "{0}，可以帮我一个忙吗？",
+    "zh_cn_actor_speak1": "好的呀，你要做什么？",
+    "zh_cn_fans_speak2": "这是我今天的家庭作业，帮我做一下呗！",
+    "zh_cn_actor_speak2": "啊，头晕，不好意思我先撤了。",
+    "reward": [
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      }
+    ],
+    "expect": 6
+  },
+  "1008": {
+    "id": 1008,
+    "fans": 102,
+    "flower": 1,
+    "zh_cn_fans_speak0": "能不能找到工作就看这一把了！",
+    "zh_cn_actor_speak0": "哪个粉丝这么有眼光？",
+    "zh_cn_fans_speak1": "{0}，我可以帮你工作吗？",
+    "zh_cn_actor_speak1": "好的呀，你会做什么？",
+    "zh_cn_fans_speak2": "我会吃！",
+    "zh_cn_actor_speak2": "不好意思，这个我也会。",
+    "reward": [
+      {
+        "itemId": 9002,
+        "itemNum": 2
+      }
+    ],
+    "expect": 5
+  },
+  "1009": {
+    "id": 1009,
+    "fans": 101,
+    "flower": 0,
+    "zh_cn_fans_speak0": "今天天气好晴朗~~",
+    "zh_cn_actor_speak0": "好像听到谁在唱歌。",
+    "zh_cn_fans_speak1": "{0}，我唱歌好不好听！",
+    "zh_cn_actor_speak1": "好听好听，简直比我演唱会还棒！",
+    "zh_cn_fans_speak2": "嘻嘻，我就知道你会这么说，虽然我也这么觉得",
+    "zh_cn_actor_speak2": "呵呵，你开心就好！",
+    "reward": [
+      {
+        "itemId": 9002,
+        "itemNum": 2
+      }
+    ],
+    "expect": 4
+  }
+}

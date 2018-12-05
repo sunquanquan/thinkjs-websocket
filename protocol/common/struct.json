@@ -1,0 +1,55 @@
+{
+    "NewMessageInfo": {
+        "num":"int", // 未读消息的数量
+        "type":"string", // 消息类型，user/system
+        "userMsg":"MessageInfo", // 最新一条未读消息
+        "systemMsg":"SystemMessage" // 系统消息
+    },
+    "RedisMessageInfo": {
+        "userId":"int", // 玩家id
+        "messageId":"int", // 信息id
+        "message":"string", // 信息
+        "time":"int" // 发送时间
+    },
+    "MessageInfo": {
+        "userId":"int", // 玩家id
+        "name":"string", // 公司名
+        "portrait":"int", // 头像
+        "sex":"int", // 性别
+        "messageId":"int", // 信息id
+        "message":"string", // 信息
+        "time":"int" // 发送时间
+    },
+    "SystemMessage": {
+        "userId":"int",// 玩家id
+        "messageId":"int", // 信息id // 世界频道的消息id
+        "message":"int", // 信息id //MsgChat表
+        "time":"int", // 发送时间
+        "fieldInfo":"array<FieldInfo>" // 信息详情
+    },
+    "FieldInfo":{
+        "type":"int",
+        "text":"string",
+        "args":"string"
+    },
+    "PrivateListInfo": {
+        "roomId":"int", // 房间号
+        "userId":"int", // 玩家id
+        "name":"string", // 公司名
+        "portrait":"int", // 头像
+        "sex":"int", // 性别
+        "message":"MessageInfo", // 信息
+        "newMsgNum":"int" // 新消息的数量
+    },
+    "PushMessageInfo": {
+        "roomId": "int", // 房间号
+        "message": "array<MessageInfo>" // 信息
+    },
+    "RoomMember":{
+        "member": "int", // 成员id
+        "name":"string", // 公司名
+        "portrait":"int", // 头像
+        "sex":"int", // 性别
+        "lastRead": "int" // 上一次阅读的消息id
+    }
+}
